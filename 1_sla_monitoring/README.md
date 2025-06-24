@@ -85,18 +85,7 @@ high:
 - The service hot-reloads this file at runtime without a restart.
 
 ## Architecture
-+----------------+      HTTP      +----------------+   SQL   +---------------+
-|                | <-----------> |                | <-----> |               |
-|  Streamlit UI  |                | FastAPI Service|        | PostgreSQL DB |
-|    (8501)      |                |    (8000)      |        | Tickets,      |
-|                |                |                |        | History,      |
-+----------------+                +----------------+        | Alerts)       |
-                                                      +---------------+
-         |                                          ^
-         |                                          |
-         +--------------- Scheduler ---------------+
-                      (every minute)
-
+![Design Screenshot](assets/design.png)
 - Streamlit: Interactive UI for ticket creation & SLA overview
 - FastAPI:
     - POST /tickets to ingest/upsert tickets
