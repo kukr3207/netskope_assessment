@@ -1,0 +1,14 @@
+low:
+  silver:
+    response: 7200
+    resolution: 86400
+  gold:
+    response: 3600
+    resolution: 43200
+high:
+  silver:
+    response: 180
+    resolution: 21600
+  gold:
+    response: 90
+    resolution: 10800
