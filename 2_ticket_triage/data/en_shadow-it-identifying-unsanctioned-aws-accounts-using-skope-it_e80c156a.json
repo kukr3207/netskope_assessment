@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/shadow-it-identifying-unsanctioned-aws-accounts-using-skope-it/",
+  "title": "Shadow IT – Identifying unsanctioned AWS accounts using Skope IT - Netskope Knowledge Portal",
+  "content": "Identification of unsanctioned AWS accounts can be done from Skope IT. Navigate to Skope IT > Application events. In the query box, type in the query “app like “AWS”. Results will be displayed in the UI. Ensure that Instance ID field is shown in the UI by selecting the field from the gearbox in the right corner. The results can also be exported and analyzed offline by selecting the Export button.",
+  "content_length": 399,
+  "crawl_timestamp": 1750781449.277051
+}

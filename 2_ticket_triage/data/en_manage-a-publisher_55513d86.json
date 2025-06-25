@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/manage-a-publisher",
+  "title": "Manage a Publisher - Netskope Knowledge Portal",
+  "content": "After deploying your Publisher, use the following sections to make modifications to your Publishers. Upgrade a Publisher to Ubuntu 22.04 LTS Publisher Logs for Troubleshooting Guidance for Installing 3rd-party Applications on Publishers Configure Publisher Auto-Updates Upgrade a Publisher for PRC (China) Enable Kernel Updates Configure a Publisher for Software Updates via Explicit Proxy Enable SNMP on a Publisher Publisher Filtering and Exporting Options Publisher Monitoring Re-enroll a Publisher Disable Password Expiry for a Publisher",
+  "content_length": 541,
+  "crawl_timestamp": 1750781101.0379992
+}

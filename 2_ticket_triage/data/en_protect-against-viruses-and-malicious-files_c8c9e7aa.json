@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/protect-against-viruses-and-malicious-files/",
+  "title": "Protect against viruses and malicious files - Netskope Knowledge Portal",
+  "content": "Netskope provides threat protection against viruses, trojans, and other malicious files using our threat scanning service (TSS). TSS is made up of 2 modes: Fast scan (Standard Threat Protection) – Netskope Fast Scan engine provides standard threat protection using several highly effective methods for fast malware detection. Netskope AV Netskope Threat Intelligence (NSIQ) PE Machine Learning Classifiers Hash Lists Deep scan (Advanced Threat Protection) – Netskope Deep Scan provides advanced threat protection by leveraging advanced analysis tools and engines. Although made up of several different components they are commonly referred to simply as Heuristics and Sandboxing. Advanced Analysis Engines (Heuristics) Sandboxing To learn more: Creating a Threat Protection Policy for Real-time Protection , Creating a Threat Protection Policy for API Data Protection",
+  "content_length": 867,
+  "crawl_timestamp": 1750781424.049001
+}

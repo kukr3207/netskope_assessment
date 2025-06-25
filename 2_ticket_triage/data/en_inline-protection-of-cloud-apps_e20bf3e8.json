@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/inline-protection-of-cloud-apps/",
+  "title": "Inline protection of Cloud apps - Netskope Knowledge Portal",
+  "content": "Here are some widely used real world use cases that will address your organization’s needs regarding protection of cloud apps via Inline. Use Case # Category Use Case Description 1 Inline protection of Cloud apps We would like to allow our sanctioned instance of a supported Corporate App 2 Inline protection of Cloud apps We would like to allow Sanctioned application access based on App tag 3 Inline protection of Cloud apps We would like to block risky activities to Unsanctioned/non-IT purchased apps 4 Inline protection of Cloud apps We would like to block risky activities to Low/Poor CCL apps 5 Inline protection of Cloud apps We would like to alert/block upon detection of password protection files 6 Inline protection of Cloud apps We would like to coach users away from unsanctioned applications and allow justification of required use",
+  "content_length": 845,
+  "crawl_timestamp": 1750781474.158808
+}

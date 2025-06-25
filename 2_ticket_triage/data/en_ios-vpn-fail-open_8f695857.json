@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/ios-vpn-fail-open",
+  "title": "iOS VPN Fail Open - Netskope Knowledge Portal",
+  "content": "Fail open function allows traffic from a device using iOS VPN to bypass Netskope and directly go to an app or service. When fail open is enabled, all iOS devices will no longer steer traffic to Netskope. Fail open occurs when Netskope initiates it due to a service interruption and when an admin enables it in the Netskope UI. To enable fail open for iOS VPN: In the Netskope UI, go to Settings > Security Cloud Platform > MDM Distribution . In the Create VPN Configuration section, confirm that your iOS VPN is operational. If so, click the icon to open the Advanced Configuration dialog box. Enable the toggle and then click Save . To restore steering traffic through Netskope, disable the toggle in the Advanced Configuration dialog box. Note This feature will be deprecated in the future with the addition of the new Netskope Client for iOS that supports CASB, SWG, CFW, and NPA in a single App. To learn more, view our Support article New Client app for iOS .",
+  "content_length": 964,
+  "crawl_timestamp": 1750780679.615099
+}

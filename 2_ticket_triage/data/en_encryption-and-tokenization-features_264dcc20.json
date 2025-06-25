@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/encryption-and-tokenization-features/",
+  "title": "Encryption and Tokenization Features - Netskope Knowledge Portal",
+  "content": "Feature Description Encrypt structured data Encrypt structured data at rest or in real time in managed services through native format-preserving encryption w/ AES-256 encryption and a FIPS 140-2 Level 3-certified KMS and the option of using your on-prem HSM. Encrypt structured data via BYOK Leverage pre-built integrations with CSP’s bring your own key (BYOK) capabilities with AES-256 encryption and a FIPS 140-2 Level 3-certified KMS and the option of using your on-premises HSM. Encrypt unstructured data Encrypt unstructured data at rest in managed services or in real-time activities with AES-256 encryption and a FIPS 140-2 Level 3-certified KMS and the option of using your on-premises HSM.",
+  "content_length": 698,
+  "crawl_timestamp": 1750779995.2726688
+}

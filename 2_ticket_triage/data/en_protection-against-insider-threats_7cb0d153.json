@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/protection-against-insider-threats",
+  "title": "Protection against Insider threats - Netskope Knowledge Portal",
+  "content": "Insider threats refer to security risks caused by malicious users within a corporate network. In the case of a malicious insider, the user typically is acting with intent and likely knows that they are breaking policy and potentially the law. User and Entity Behavior Analytics (UEBA) products focus on monitoring both suspicious user behavior as well as other entities such as device, cloud application, data activity, and malicious threats across time and peer group. UEBA helps to: Focus on a typical “blind spot” which is Insider Threats Better Manage Risk: Allows focus on the riskiest users & their activities Enable prioritization and effective response – Actionable Security Understand User Intent, and/or find a Compromise quickly Advanced UEBA which is now available with R90 has 9-rule based detections, ML-based detections, UCI (User Confidence Index) in addition to efficiencies, new performance benchmarks and ease of use features. Rule based detections: ML-Based detections: User Confidence Index Time based view: To learn more: Behavior Analytics , Behavior Analytics Detection Scenarios",
+  "content_length": 1103,
+  "crawl_timestamp": 1750781410.0166001
+}

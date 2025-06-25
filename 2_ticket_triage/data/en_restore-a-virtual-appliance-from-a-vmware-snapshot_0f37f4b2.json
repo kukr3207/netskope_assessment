@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/restore-a-virtual-appliance-from-a-vmware-snapshot",
+  "title": "Restore a Virtual Appliance from a VMware Snapshot - Netskope Knowledge Portal",
+  "content": "When taking a VMware snapshot of a Virtual Appliance to restore it to a previous state, the safest way to restore a virtual appliance is to power-off the VA instance and then take a snapshot of the instance. Important Netskope recommends that you not take a snapshot of a running instance. A virtual appliance can only be restored using an offline snapshot of the same VA instance. Since each VA instance has its own UUID, you cannot use the snapshot from one VA instance to restore another instance. Netskope recommends taking separate snapshots of each VA instance.",
+  "content_length": 567,
+  "crawl_timestamp": 1750780935.088039
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/newedge-ip-ranges-for-allowlisting/",
+  "title": "NewEdge IP Ranges for Allowlisting - Netskope Knowledge Portal",
+  "content": "In order to take full advantage of NewEdge Data Centers (DCs) and prevent service disruptions, You must allowlist the IP ranges listed below for outbound traffic to NewEdge DCs and inbound traffic for source IP-restricted cloud applications. The IP ranges are used for both ingress and egress of NewEdge DCs. Therefore, any cloud applications that are locked down by IP range must be allowlisted to ensure that Netskope can access them for inline and API-based access. Cidr Notation Ip Address Range 8.36.116.0/24 8.36.116.0 – 8.36.116.255 8.39.144.0/24 8.39.144.0 – 8.39.144.255 31.186.239.0/24 31.186.239.0 – 31.186.239.255 163.116.128.0/17 163.116.128.0 – 163.116.255.255 162.10.0.0/17 162.10.0.0 – 162.10.127.255 To see IP ranges for other Netskope products and features, see NewEdge Consolidated List of IP Ranges for Allowlisting . If you have any questions or concerns, contact your Netskope representative.",
+  "content_length": 914,
+  "crawl_timestamp": 1750781523.738327
+}

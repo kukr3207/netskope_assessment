@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/provisioning-and-authentication",
+  "title": "Provisioning and Authentication - Netskope Knowledge Portal",
+  "content": "Netskope supports SCIM integration with SAML authentication using the Netskope Client in IdP mode. For general SCIM provisioning and SAML authentication information, refer to Provisioning Users for Netskope Client and Auth Integration . For vender specific integrations, refer to the Help topics below. Okta Authentication Policy with Cloud Exchange Netskope Client IdP Mode with Google SAML Auth",
+  "content_length": 396,
+  "crawl_timestamp": 1750780265.5533319
+}

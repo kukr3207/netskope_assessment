@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/threat-protection-features/",
+  "title": "Threat Protection Features - Netskope Knowledge Portal",
+  "content": "Feature Description Threat intelligence for malicious sites Use 40 threat intelligence feeds to identify malicious sites that your employees may be visiting and block them. Threat intelligence is updated dynamically using multiple sources. You can also create your own threat list (e.g., URLs, hashes, etc.) using Threat Exchange . Anomaly detection Identify and remediate anomalous user behavior such as compromised credentials, data exfiltration, insider threats, privileged account access abuse, and more. Cloud malware protection and remediation Detect and block or quarantine infected files and replace with tombstone files. Remediation options include blocking and quarantining as well as analysis and response workflows. Layered detection approach includes static and heuristic analysis, machine learning, and sandboxing.",
+  "content_length": 828,
+  "crawl_timestamp": 1750779960.043721
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/install-a-virtual-appliance",
+  "title": "Install a Virtual Appliance - Netskope Knowledge Portal",
+  "content": "Netskope’s Virtual Appliance can be installed on VMware ESX 6.5 or later, Microsoft Hyper-V, and Linux KVM. Supported cloud platforms for Netskope VA are AWS, GCP, and Azure. Cloud platforms not listed in this article are unsupported. Before you begin, decide whether the appliance will be setup as OPLP or a proxy server. Depending on the intended setup you can add one, two, or three network interfaces. An OPLP or DPoP appliance will only require a single interface to connect to the Netskope cloud. For more information on setting up a Virtual Appliance as an OPLP, see Configure the Interfaces . The following topics provide detailed instructions to install the VA on any of the supported platforms. Install the Virtual Appliance on VMware ESX 6.5 or later Install the Virtual Appliance on Microsoft Hyper-V Install the Virtual Appliance on Linux KVM Provision the Virtual Appliance on AWS",
+  "content_length": 894,
+  "crawl_timestamp": 1750780868.624608
+}

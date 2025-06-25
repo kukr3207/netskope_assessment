@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/managing-administrators-for-rbac-v3",
+  "title": "Managing Administrators for RBAC V3 - Netskope Knowledge Portal",
+  "content": "The Netskope UI provides full access for deploying and managing admin rights for the Netskope solution. Netskope’s role-based administration enables you to control what different admins can do in the solution. You can delegate responsibilities among admins and granularly control their level of access to the solution to ensure they do not create conflicting policies and settings. RBAC V3 provides functional controls and uniform authorization for both WebUI and REST API based interactions. Admins can use automated service accounts without risk of these accounts being able to access the web UI. API access tokens are now issued to a user or a service account (instead of at the tenant level) along with expiry/renewal workflow. The web admin lifecycle can also be managed more securely by integrating SCIM with the enterprise IdP. A fully redesigned, next-generation “API First” web UI for identity and access management makes consistent application of roles to human and non-human entities easier than ever before. Administrators RBAC V3 Roles RBAC V3 Policies RBAC V3 Netskope Advanced Analytics and RBAC V3",
+  "content_length": 1113,
+  "crawl_timestamp": 1750780772.7107468
+}

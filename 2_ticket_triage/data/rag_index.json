@@ -1,0 +1,3474 @@
+[
+  {
+    "filename": "en_jamf_05c48d44.json",
+    "url": "https://docs.netskope.com/en/jamf",
+    "title": "JAMF - Netskope Knowledge Portal",
+    "content_length": 18050,
+    "crawl_timestamp": 1750780605.317281
+  },
+  {
+    "filename": "en_threat-exchange-module_e224d191.json",
+    "url": "https://docs.netskope.com/en/threat-exchange-module",
+    "title": "Threat Exchange Module - Netskope Knowledge Portal",
+    "content_length": 1644,
+    "crawl_timestamp": 1750780283.6919758
+  },
+  {
+    "filename": "en_get-started-with-cloud-exchange_74e04b56.json",
+    "url": "https://docs.netskope.com/en/get-started-with-cloud-exchange",
+    "title": "Get Started with Cloud Exchange - Netskope Knowledge Portal",
+    "content_length": 2628,
+    "crawl_timestamp": 1750780340.896279
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_vmware-workspace-one_3b481f67.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/vmware-workspace-one/",
+    "title": "VMware Workspace ONE - Netskope Knowledge Portal",
+    "content_length": 3400,
+    "crawl_timestamp": 1750780988.4614148
+  },
+  {
+    "filename": "en_deploy-the-netskope-client_6bd7318c.json",
+    "url": "https://docs.netskope.com/en/deploy-the-netskope-client/",
+    "title": "Deploy the Netskope Client - Netskope Knowledge Portal",
+    "content_length": 3657,
+    "crawl_timestamp": 1750780135.185707
+  },
+  {
+    "filename": "en_protect-against-network-based-attacks_bc706d23.json",
+    "url": "https://docs.netskope.com/en/protect-against-network-based-attacks",
+    "title": "Protect against network-based attacks - Netskope Knowledge Portal",
+    "content_length": 664,
+    "crawl_timestamp": 1750781427.463477
+  },
+  {
+    "filename": "en_granular-visibility-and-control-of-saas-iaas-and-web-features_c46b3a9b.json",
+    "url": "https://docs.netskope.com/en/granular-visibility-and-control-of-saas-iaas-and-web-features/",
+    "title": "Granular Visibility and Control of SaaS, IaaS, and Web Features - Netskope Knowledge Portal",
+    "content_length": 1211,
+    "crawl_timestamp": 1750779991.660175
+  },
+  {
+    "filename": "en_protect-against-viruses-and-malicious-files_9c5a3375.json",
+    "url": "https://docs.netskope.com/en/protect-against-viruses-and-malicious-files",
+    "title": "Protect against viruses and malicious files - Netskope Knowledge Portal",
+    "content_length": 867,
+    "crawl_timestamp": 1750781413.662293
+  },
+  {
+    "filename": "en_netskope-client-deployment-options_3cca86e6.json",
+    "url": "https://docs.netskope.com/en/netskope-client-deployment-options",
+    "title": "Netskope Client Deployment Options - Netskope Knowledge Portal",
+    "content_length": 2686,
+    "crawl_timestamp": 1750780619.901201
+  },
+  {
+    "filename": "en_next-steps_aa0fde19.json",
+    "url": "https://docs.netskope.com/en/next-steps",
+    "title": "Next Steps - Netskope Knowledge Portal",
+    "content_length": 4701,
+    "crawl_timestamp": 1750780146.080089
+  },
+  {
+    "filename": "en_appliances_3b718063.json",
+    "url": "https://docs.netskope.com/en/appliances",
+    "title": "Appliances - Netskope Knowledge Portal",
+    "content_length": 859,
+    "crawl_timestamp": 1750780801.3249369
+  },
+  {
+    "filename": "en_award-winning-dlp-features_ca40fe20.json",
+    "url": "https://docs.netskope.com/en/award-winning-dlp-features",
+    "title": "Award-Winning DLP Features - Netskope Knowledge Portal",
+    "content_length": 1244,
+    "crawl_timestamp": 1750779963.730155
+  },
+  {
+    "filename": "en_virtual-appliance_dcae722a.json",
+    "url": "https://docs.netskope.com/en/virtual-appliance",
+    "title": "Virtual Appliance - Netskope Knowledge Portal",
+    "content_length": 1035,
+    "crawl_timestamp": 1750780886.226391
+  },
+  {
+    "filename": "en_access-the-admin-console_d226beec.json",
+    "url": "https://docs.netskope.com/en/access-the-admin-console",
+    "title": "Access the Admin Console - Netskope Knowledge Portal",
+    "content_length": 852,
+    "crawl_timestamp": 1750780149.7104461
+  },
+  {
+    "filename": "en_secure-enrollment_7f2c7d94.json",
+    "url": "https://docs.netskope.com/en/secure-enrollment/",
+    "title": "Secure Enrollment - Netskope Knowledge Portal",
+    "content_length": 18543,
+    "crawl_timestamp": 1750781559.621037
+  },
+  {
+    "filename": "en_configure-the-interfaces_1edd19b4.json",
+    "url": "https://docs.netskope.com/en/configure-the-interfaces",
+    "title": "Configure the Interfaces - Netskope Knowledge Portal",
+    "content_length": 4307,
+    "crawl_timestamp": 1750780889.835542
+  },
+  {
+    "filename": "en_cloud-exchange-sso-with-entra-id_0a3c3b44.json",
+    "url": "https://docs.netskope.com/en/cloud-exchange-sso-with-entra-id",
+    "title": "Cloud Exchange SSO with Entra ID - Netskope Knowledge Portal",
+    "content_length": 10135,
+    "crawl_timestamp": 1750780466.186817
+  },
+  {
+    "filename": "en_upgrade-a-publisher-to-ubuntu-22-04-lts_2324f7f2.json",
+    "url": "https://docs.netskope.com/en/upgrade-a-publisher-to-ubuntu-22-04-lts/",
+    "title": "Upgrade a Publisher to Ubuntu 22.04 LTS - Netskope Knowledge Portal",
+    "content_length": 9748,
+    "crawl_timestamp": 1750781221.02846
+  },
+  {
+    "filename": "en_supported-integrations-features_19d45bae.json",
+    "url": "https://docs.netskope.com/en/supported-integrations-features",
+    "title": "Supported Integrations Features - Netskope Knowledge Portal",
+    "content_length": 1022,
+    "crawl_timestamp": 1750779977.860839
+  },
+  {
+    "filename": "en_netskope-help_integrations-439794_netskope-cloud-exchange_cloud-exchange-troubleshooting_17d2a2e3.json",
+    "url": "https://docs.netskope.com/en/netskope-help/integrations-439794/netskope-cloud-exchange/cloud-exchange-troubleshooting/",
+    "title": "Cloud Exchange Troubleshooting - Netskope Knowledge Portal",
+    "content_length": 52499,
+    "crawl_timestamp": 1750780408.312171
+  },
+  {
+    "filename": "en_requirements-and-recommendations_808884db.json",
+    "url": "https://docs.netskope.com/en/requirements-and-recommendations",
+    "title": "Requirements and Recommendations - Netskope Knowledge Portal",
+    "content_length": 10518,
+    "crawl_timestamp": 1750781044.244965
+  },
+  {
+    "filename": "en_enable-snmp-on-a-publisher_7f9c2526.json",
+    "url": "https://docs.netskope.com/en/enable-snmp-on-a-publisher",
+    "title": "Enable SNMP on a Publisher - Netskope Knowledge Portal",
+    "content_length": 1997,
+    "crawl_timestamp": 1750781210.66476
+  },
+  {
+    "filename": "en_netskope-help_appliances_on-premises-appliance_export-or-import-configurations_importing-configurations_20f8f9a9.json",
+    "url": "https://docs.netskope.com/en/netskope-help/appliances/on-premises-appliance/export-or-import-configurations/importing-configurations/",
+    "title": "Importing Configurations - Netskope Knowledge Portal",
+    "content_length": 384,
+    "crawl_timestamp": 1750780808.3221738
+  },
+  {
+    "filename": "en_configure-the-system-and-certificates_eaed1f7d.json",
+    "url": "https://docs.netskope.com/en/configure-the-system-and-certificates",
+    "title": "Configure the System and Certificates - Netskope Knowledge Portal",
+    "content_length": 3597,
+    "crawl_timestamp": 1750780931.619058
+  },
+  {
+    "filename": "en_publisher-logs-for-troubleshooting_45e764aa.json",
+    "url": "https://docs.netskope.com/en/publisher-logs-for-troubleshooting",
+    "title": "Publisher Logs for Troubleshooting - Netskope Knowledge Portal",
+    "content_length": 2264,
+    "crawl_timestamp": 1750781249.164681
+  },
+  {
+    "filename": "en_netskope-client-for-macos_e5d97f08.json",
+    "url": "https://docs.netskope.com/en/netskope-client-for-macos",
+    "title": "Netskope Client for macOS - Netskope Knowledge Portal",
+    "content_length": 8940,
+    "crawl_timestamp": 1750780555.632087
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_microsoft-intune_deploy-client-on-windows-using-intune_9eef96cb.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/microsoft-intune/deploy-client-on-windows-using-intune/",
+    "title": "Deploy Client On Windows Using Intune - Netskope Knowledge Portal",
+    "content_length": 4129,
+    "crawl_timestamp": 1750780974.558943
+  },
+  {
+    "filename": "en_chrome-extension-support-for-user-notifications_5dc1128c.json",
+    "url": "https://docs.netskope.com/en/chrome-extension-support-for-user-notifications",
+    "title": "Chrome Extension Support For User Notifications - Netskope Knowledge Portal",
+    "content_length": 5353,
+    "crawl_timestamp": 1750780591.078178
+  },
+  {
+    "filename": "en_upgrade-cloud-exchange_b9af6c96.json",
+    "url": "https://docs.netskope.com/en/upgrade-cloud-exchange/",
+    "title": "Upgrade Cloud Exchange - Netskope Knowledge Portal",
+    "content_length": 38807,
+    "crawl_timestamp": 1750780701.762691
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_vmware-workspace-one_deploy-client-on-windows-using-vmware-workspace-one_098ce5d4.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/vmware-workspace-one/deploy-client-on-windows-using-vmware-workspace-one/",
+    "title": "Deploy Client on Windows Using VMware Workspace ONE - Netskope Knowledge Portal",
+    "content_length": 2320,
+    "crawl_timestamp": 1750780970.912384
+  },
+  {
+    "filename": "en_guidance-for-installing-3rd-party-applications-on-publishers_fb2d53a6.json",
+    "url": "https://docs.netskope.com/en/guidance-for-installing-3rd-party-applications-on-publishers/",
+    "title": "Guidance for Installing 3rd-party Applications on Publishers - Netskope Knowledge Portal",
+    "content_length": 800,
+    "crawl_timestamp": 1750781235.477806
+  },
+  {
+    "filename": "en_private-app-management_96ab7b4d.json",
+    "url": "https://docs.netskope.com/en/private-app-management",
+    "title": "Private App Management - Netskope Knowledge Portal",
+    "content_length": 316,
+    "crawl_timestamp": 1750781072.523325
+  },
+  {
+    "filename": "en_mobileiron-cloud_7583b08d.json",
+    "url": "https://docs.netskope.com/en/mobileiron-cloud",
+    "title": "Ivanti Neurons(MobileIron Cloud) - Netskope Knowledge Portal",
+    "content_length": 1353,
+    "crawl_timestamp": 1750780640.947849
+  },
+  {
+    "filename": "en_help_82f3c038.json",
+    "url": "https://docs.netskope.com/en/help",
+    "title": "Help - Netskope Knowledge Portal",
+    "content_length": 214,
+    "crawl_timestamp": 1750780326.275931
+  },
+  {
+    "filename": "en_about-your-netskope-client_f1b30bb2.json",
+    "url": "https://docs.netskope.com/en/about-your-netskope-client",
+    "title": "About Your Netskope Client - Netskope Knowledge Portal",
+    "content_length": 1320,
+    "crawl_timestamp": 1750780601.8915079
+  },
+  {
+    "filename": "en_configure-the-netskope-plugin-for-log-shipper_7f655a24.json",
+    "url": "https://docs.netskope.com/en/configure-the-netskope-plugin-for-log-shipper",
+    "title": "Log Shipper v1.0.0 Plugin - Netskope Knowledge Portal",
+    "content_length": 5709,
+    "crawl_timestamp": 1750780444.661299
+  },
+  {
+    "filename": "en_migrate-the-virtual-appliance-to-a-103-0-0-338_1fb77e71.json",
+    "url": "https://docs.netskope.com/en/migrate-the-virtual-appliance-to-a-103-0-0-338",
+    "title": "Migrate the Virtual Appliance to a 103.0.0.338 - Netskope Knowledge Portal",
+    "content_length": 3335,
+    "crawl_timestamp": 1750780893.456448
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_microsoft-intune_deploy-client-on-android-using-intune_a09925ce.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/microsoft-intune/deploy-client-on-android-using-intune/",
+    "title": "Deploy Client On Android Using Intune - Netskope Knowledge Portal",
+    "content_length": 8207,
+    "crawl_timestamp": 1750780981.6016798
+  },
+  {
+    "filename": "en_protect-against-unknown-malicious-websites_8f190dc3.json",
+    "url": "https://docs.netskope.com/en/protect-against-unknown-malicious-websites",
+    "title": "Protect against unknown malicious websites - Netskope Knowledge Portal",
+    "content_length": 1100,
+    "crawl_timestamp": 1750781406.551151
+  },
+  {
+    "filename": "en_upgrade-a-publisher-to-ubuntu-22-04-lts_66f56a4a.json",
+    "url": "https://docs.netskope.com/en/upgrade-a-publisher-to-ubuntu-22-04-lts",
+    "title": "Upgrade a Publisher to Ubuntu 22.04 LTS - Netskope Knowledge Portal",
+    "content_length": 9748,
+    "crawl_timestamp": 1750781207.246637
+  },
+  {
+    "filename": "en_netskope-help_appliances_virtual-appliance_upgrade-the-virtual-appliance_schedule-auto-upgrade-for-the-content-and-threat-feed-packages_f905b093.json",
+    "url": "https://docs.netskope.com/en/netskope-help/appliances/virtual-appliance/upgrade-the-virtual-appliance/schedule-auto-upgrade-for-the-content-and-threat-feed-packages/",
+    "title": "Schedule Auto-Upgrade for the Content and Threat Feed Packages - Netskope Knowledge Portal",
+    "content_length": 753,
+    "crawl_timestamp": 1750779942.555358
+  },
+  {
+    "filename": "en_create-and-validate-a-security-policy_2838adb8.json",
+    "url": "https://docs.netskope.com/en/create-and-validate-a-security-policy/",
+    "title": "Create and Validate a Security Policy - Netskope Knowledge Portal",
+    "content_length": 5234,
+    "crawl_timestamp": 1750780167.4279099
+  },
+  {
+    "filename": "en_amazon-workspaces_febf7127.json",
+    "url": "https://docs.netskope.com/en/amazon-workspaces",
+    "title": "Amazon WorkSpaces - Netskope Knowledge Portal",
+    "content_length": 2412,
+    "crawl_timestamp": 1750780626.8317041
+  },
+  {
+    "filename": "en_microsoft-group-policy-object--gpo-.html_465af589.json",
+    "url": "https://docs.netskope.com/en/microsoft-group-policy-object--gpo-.html",
+    "title": "404 - Netskope Knowledge Portal",
+    "content_length": 165,
+    "crawl_timestamp": 1750781534.4665549
+  },
+  {
+    "filename": "en_netskope-security-cloud-product-life-cycle-policy_aa555b03.json",
+    "url": "https://docs.netskope.com/en/netskope-security-cloud-product-life-cycle-policy/",
+    "title": "Netskope Product Life Cycle Policy - Netskope Knowledge Portal",
+    "content_length": 6523,
+    "crawl_timestamp": 1750779882.549867
+  },
+  {
+    "filename": "en_netskope-copilot-for-cci_04350b4a.json",
+    "url": "https://docs.netskope.com/en/netskope-copilot-for-cci/",
+    "title": "Netskope Copilot for CCI - Netskope Knowledge Portal",
+    "content_length": 1584,
+    "crawl_timestamp": 1750781291.9202108
+  },
+  {
+    "filename": "en_create-a-dlp-exact-match-hash-from-a-virtual-appliance_e29b74ba.json",
+    "url": "https://docs.netskope.com/en/create-a-dlp-exact-match-hash-from-a-virtual-appliance",
+    "title": "Create a DLP Exact Match Hash from a Virtual Appliance - Netskope Knowledge Portal",
+    "content_length": 3055,
+    "crawl_timestamp": 1750780924.524951
+  },
+  {
+    "filename": "en_the-new-knowledge-portal_4d832f5f.json",
+    "url": "https://docs.netskope.com/en/the-new-knowledge-portal/",
+    "title": "The New Knowledge Portal - Netskope Knowledge Portal",
+    "content_length": 2305,
+    "crawl_timestamp": 1750780006.091181
+  },
+  {
+    "filename": "en_cloud-inline-protection_05700595.json",
+    "url": "https://docs.netskope.com/en/cloud-inline-protection",
+    "title": "Cloud Inline Protection - Netskope Knowledge Portal",
+    "content_length": 64,
+    "crawl_timestamp": 1750780105.627614
+  },
+  {
+    "filename": "en_configure-the-interfaces_1755ccc9.json",
+    "url": "https://docs.netskope.com/en/configure-the-interfaces/",
+    "title": "Configure the Interfaces - Netskope Knowledge Portal",
+    "content_length": 4307,
+    "crawl_timestamp": 1750780864.987489
+  },
+  {
+    "filename": "en_netskope-help_getting-started_quick-start_add-bypasses-in-netskope_570348d4.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/quick-start/add-bypasses-in-netskope/",
+    "title": "Add Bypasses in Netskope - Netskope Knowledge Portal",
+    "content_length": 5066,
+    "crawl_timestamp": 1750781530.763424
+  },
+  {
+    "filename": "en_disallow-concurrent-logins-by-an-admin_ebdd2ba3.json",
+    "url": "https://docs.netskope.com/en/disallow-concurrent-logins-by-an-admin",
+    "title": "Disallow Concurrent Logins by an Admin - Netskope Knowledge Portal",
+    "content_length": 436,
+    "crawl_timestamp": 1750780761.991125
+  },
+  {
+    "filename": "en_configure-ssh-keys-for-log-uploads-144858_97d9d6fb.json",
+    "url": "https://docs.netskope.com/en/configure-ssh-keys-for-log-uploads-144858/",
+    "title": "Configure SSH Keys for Log Uploads - Netskope Knowledge Portal",
+    "content_length": 1630,
+    "crawl_timestamp": 1750781143.188689
+  },
+  {
+    "filename": "en_configure-a-steering-profile_6cdce708.json",
+    "url": "https://docs.netskope.com/en/configure-a-steering-profile/",
+    "title": "Configure a Steering Profile - Netskope Knowledge Portal",
+    "content_length": 4677,
+    "crawl_timestamp": 1750780170.831444
+  },
+  {
+    "filename": "en_netskope-client-golden-release-updates_b3519f66.json",
+    "url": "https://docs.netskope.com/en/netskope-client-golden-release-updates",
+    "title": "Netskope Client Golden Release Updates - Netskope Knowledge Portal",
+    "content_length": 350,
+    "crawl_timestamp": 1750780676.0077581
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_observe-cloud-app-activities-oplp-and-risk-insights_view-top-cloud-categories-by-usage_4fc0bb3c.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/observe-cloud-app-activities-oplp-and-risk-insights/view-top-cloud-categories-by-usage/",
+    "title": "View top cloud categories by usage - Netskope Knowledge Portal",
+    "content_length": 1138,
+    "crawl_timestamp": 1750781332.394186
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_microsoft-intune_deploy-client-on-ios-using-intune_15db1567.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/microsoft-intune/deploy-client-on-ios-using-intune/",
+    "title": "Deploy Client on iOS Using Intune - Netskope Knowledge Portal",
+    "content_length": 12387,
+    "crawl_timestamp": 1750780977.965037
+  },
+  {
+    "filename": "en_protection-against-insider-threats_7cb0d153.json",
+    "url": "https://docs.netskope.com/en/protection-against-insider-threats",
+    "title": "Protection against Insider threats - Netskope Knowledge Portal",
+    "content_length": 1103,
+    "crawl_timestamp": 1750781410.0166001
+  },
+  {
+    "filename": "en_sso-access-for-netskope-support_4a40bd35.json",
+    "url": "https://docs.netskope.com/en/sso-access-for-netskope-support",
+    "title": "SSO Access for Netskope Support - Netskope Knowledge Portal",
+    "content_length": 2422,
+    "crawl_timestamp": 1750780426.5913138
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_vmware-workspace-one_deploy-client-on-macos-using-vmware-workspace-one_23100fff.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/vmware-workspace-one/deploy-client-on-macos-using-vmware-workspace-one/",
+    "title": "Deploy Client on macOS Using VMware Workspace ONE - Netskope Knowledge Portal",
+    "content_length": 14415,
+    "crawl_timestamp": 1750781013.08152
+  },
+  {
+    "filename": "en_upload-logs-using-sftp-144860_25f19570.json",
+    "url": "https://docs.netskope.com/en/upload-logs-using-sftp-144860",
+    "title": "Upload Logs using SFTP - Netskope Knowledge Portal",
+    "content_length": 3668,
+    "crawl_timestamp": 1750781153.8978162
+  },
+  {
+    "filename": "en_protect-against-network-based-attacks_bacea8ef.json",
+    "url": "https://docs.netskope.com/en/protect-against-network-based-attacks/",
+    "title": "Protect against network-based attacks - Netskope Knowledge Portal",
+    "content_length": 664,
+    "crawl_timestamp": 1750781445.786709
+  },
+  {
+    "filename": "en_netskope-client-enforcement_1b3c8687.json",
+    "url": "https://docs.netskope.com/en/netskope-client-enforcement",
+    "title": "Netskope Client Enforcement - Netskope Knowledge Portal",
+    "content_length": 1493,
+    "crawl_timestamp": 1750780484.165932
+  },
+  {
+    "filename": "en_deploy-the-netskope-client-for-netskope-private-access_e25adba7.json",
+    "url": "https://docs.netskope.com/en/deploy-the-netskope-client-for-netskope-private-access",
+    "title": "Deploy the Netskope Client for Netskope Private Access - Netskope Knowledge Portal",
+    "content_length": 1155,
+    "crawl_timestamp": 1750781111.251103
+  },
+  {
+    "filename": "en_netskope-security-cloud-features_46eb1337.json",
+    "url": "https://docs.netskope.com/en/netskope-security-cloud-features/",
+    "title": "Netskope Security Cloud Features - Netskope Knowledge Portal",
+    "content_length": 275,
+    "crawl_timestamp": 1750780013.1746979
+  },
+  {
+    "filename": "en_protect-against-unknown-malicious-websites_4c0056a3.json",
+    "url": "https://docs.netskope.com/en/protect-against-unknown-malicious-websites/",
+    "title": "Protect against unknown malicious websites - Netskope Knowledge Portal",
+    "content_length": 1100,
+    "crawl_timestamp": 1750781441.8169758
+  },
+  {
+    "filename": "en_netskope-tenant-v1-4-1-plugin_26eab609.json",
+    "url": "https://docs.netskope.com/en/netskope-tenant-v1-4-1-plugin",
+    "title": "Netskope Tenant Plugin v1.4.1 - Netskope Knowledge Portal",
+    "content_length": 68037,
+    "crawl_timestamp": 1750780412.0226948
+  },
+  {
+    "filename": "en_netskope-client-troubleshooting-guide_a952bbc1.json",
+    "url": "https://docs.netskope.com/en/netskope-client-troubleshooting-guide",
+    "title": "Netskope Client Troubleshooting Guide - Netskope Knowledge Portal",
+    "content_length": 9697,
+    "crawl_timestamp": 1750780658.561755
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_observe-cloud-app-activities-oplp-and-risk-insights_view-top-apps-activities-and-data-by-usage_bf787020.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/observe-cloud-app-activities-oplp-and-risk-insights/view-top-apps-activities-and-data-by-usage/",
+    "title": "View top apps, activities, and data by usage - Netskope Knowledge Portal",
+    "content_length": 1351,
+    "crawl_timestamp": 1750781335.777737
+  },
+  {
+    "filename": "en_secure-enrollment-frequently-asked-questions_858ed5ac.json",
+    "url": "https://docs.netskope.com/en/secure-enrollment-frequently-asked-questions/",
+    "title": "Secure Enrollment Frequently Asked Questions - Netskope Knowledge Portal",
+    "content_length": 10902,
+    "crawl_timestamp": 1750780991.868024
+  },
+  {
+    "filename": "en_log-shipper-v2-2-0-plugin_24586b47.json",
+    "url": "https://docs.netskope.com/en/log-shipper-v2-2-0-plugin",
+    "title": "Log Shipper v2.2.0 Plugin - Netskope Knowledge Portal",
+    "content_length": 69699,
+    "crawl_timestamp": 1750780415.53388
+  },
+  {
+    "filename": "en_create-local-administrators_30df58db.json",
+    "url": "https://docs.netskope.com/en/create-local-administrators/",
+    "title": "Create Local Administrators - Netskope Knowledge Portal",
+    "content_length": 890,
+    "crawl_timestamp": 1750780195.3149598
+  },
+  {
+    "filename": "en_configure-newedge-traffic-management-zones-per-npa-tenant-1_32f436a8.json",
+    "url": "https://docs.netskope.com/en/configure-newedge-traffic-management-zones-per-npa-tenant-1",
+    "title": "NewEdge Traffic Management Zones per NPA Tenant - Netskope Knowledge Portal",
+    "content_length": 1010,
+    "crawl_timestamp": 1750781107.873148
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_microsoft-intune_deploy-client-on-macos-using-intune_644523bf.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/microsoft-intune/deploy-client-on-macos-using-intune/",
+    "title": "Deploy Client on macOS Using Intune - Netskope Knowledge Portal",
+    "content_length": 14214,
+    "crawl_timestamp": 1750781020.221557
+  },
+  {
+    "filename": "en_requirements-and-recommendations_3c819b95.json",
+    "url": "https://docs.netskope.com/en/requirements-and-recommendations/",
+    "title": "Requirements and Recommendations - Netskope Knowledge Portal",
+    "content_length": 10518,
+    "crawl_timestamp": 1750781121.911343
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_swg-web-traffic_ngswg-basic-policies_review-available-metrics-and-confirm-reports_048dcd3a.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/swg-web-traffic/ngswg-basic-policies/review-available-metrics-and-confirm-reports/",
+    "title": "Review Available Metrics and Confirm Reports - Netskope Knowledge Portal",
+    "content_length": 511,
+    "crawl_timestamp": 1750781378.137066
+  },
+  {
+    "filename": "en_secure-tenant-configuration-and-hardening_9c0ae32e.json",
+    "url": "https://docs.netskope.com/en/secure-tenant-configuration-and-hardening",
+    "title": "Secure Tenant Configuration and Hardening - Netskope Knowledge Portal",
+    "content_length": 30029,
+    "crawl_timestamp": 1750779843.661332
+  },
+  {
+    "filename": "en_logging_a07f6b4e.json",
+    "url": "https://docs.netskope.com/en/logging",
+    "title": "Logging - Netskope Knowledge Portal",
+    "content_length": 1179,
+    "crawl_timestamp": 1750780347.761871
+  },
+  {
+    "filename": "en_validate-traffic-steering_1952cbcb.json",
+    "url": "https://docs.netskope.com/en/validate-traffic-steering",
+    "title": "Validate Traffic Steering - Netskope Knowledge Portal",
+    "content_length": 5195,
+    "crawl_timestamp": 1750780153.367457
+  },
+  {
+    "filename": "en_ios-vpn-fail-open_8f695857.json",
+    "url": "https://docs.netskope.com/en/ios-vpn-fail-open",
+    "title": "iOS VPN Fail Open - Netskope Knowledge Portal",
+    "content_length": 964,
+    "crawl_timestamp": 1750780679.615099
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_netskope-client-for-linux_15a20c77.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/netskope-client-for-linux/",
+    "title": "Netskope Client For Linux - Netskope Knowledge Portal",
+    "content_length": 7965,
+    "crawl_timestamp": 1750780995.255264
+  },
+  {
+    "filename": "en_allowlist-the-netskope-client_9f7304fd.json",
+    "url": "https://docs.netskope.com/en/allowlist-the-netskope-client",
+    "title": "Allowlist the Netskope Client - Netskope Knowledge Portal",
+    "content_length": 468,
+    "crawl_timestamp": 1750780117.579903
+  },
+  {
+    "filename": "en_publisher-filtering-and-exporting-options_eaa42754.json",
+    "url": "https://docs.netskope.com/en/publisher-filtering-and-exporting-options/",
+    "title": "Publisher Filtering and Exporting Options - Netskope Knowledge Portal",
+    "content_length": 621,
+    "crawl_timestamp": 1750781196.465524
+  },
+  {
+    "filename": "en_email-invite_735f327a.json",
+    "url": "https://docs.netskope.com/en/email-invite",
+    "title": "Email Invite - Netskope Knowledge Portal",
+    "content_length": 5517,
+    "crawl_timestamp": 1750780608.964889
+  },
+  {
+    "filename": "en_observe-cloud-app-activities-oplp-and-risk-insights_52fbb866.json",
+    "url": "https://docs.netskope.com/en/observe-cloud-app-activities-oplp-and-risk-insights/",
+    "title": "Observe Cloud App Activities (OPLP) and Risk Insights - Netskope Knowledge Portal",
+    "content_length": 2734,
+    "crawl_timestamp": 1750780077.135367
+  },
+  {
+    "filename": "en_requirements-for-virtual-appliance-version-117-0-0_62c8fd4a.json",
+    "url": "https://docs.netskope.com/en/requirements-for-virtual-appliance-version-117-0-0/",
+    "title": "Virtual Appliance Release Notes Version 117.0.0 - Netskope Knowledge Portal",
+    "content_length": 4326,
+    "crawl_timestamp": 1750780244.4950342
+  },
+  {
+    "filename": "en_newedge-ip-ranges-for-allowlisting_b0770b62.json",
+    "url": "https://docs.netskope.com/en/newedge-ip-ranges-for-allowlisting/",
+    "title": "NewEdge IP Ranges for Allowlisting - Netskope Knowledge Portal",
+    "content_length": 914,
+    "crawl_timestamp": 1750781523.738327
+  },
+  {
+    "filename": "en_netskope-help_getting-started_microlearning-video-library_netskope-client-videos_b59ce0ca.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/microlearning-video-library/netskope-client-videos/",
+    "title": "Netskope Client Videos - Netskope Knowledge Portal",
+    "content_length": 261,
+    "crawl_timestamp": 1750780045.333484
+  },
+  {
+    "filename": "en_admins-settings-page_efea8fd9.json",
+    "url": "https://docs.netskope.com/en/admins-settings-page",
+    "title": "Admins Settings Page - Netskope Knowledge Portal",
+    "content_length": 390,
+    "crawl_timestamp": 1750780945.777772
+  },
+  {
+    "filename": "en_netskope-help_admin-console_administration_configure-single-sign-on-for-the-netskope-ui_226c2147.json",
+    "url": "https://docs.netskope.com/en/netskope-help/admin-console/administration/configure-single-sign-on-for-the-netskope-ui/",
+    "title": "SSO for Administrators - Netskope Knowledge Portal",
+    "content_length": 4189,
+    "crawl_timestamp": 1750779907.47672
+  },
+  {
+    "filename": "en_product-intelligence_34c24417.json",
+    "url": "https://docs.netskope.com/en/product-intelligence",
+    "title": "Product Intelligence - Netskope Knowledge Portal",
+    "content_length": 174,
+    "crawl_timestamp": 1750779868.2539
+  },
+  {
+    "filename": "en_deploy-netskope-client-via-idp.html_cd64e5cc.json",
+    "url": "https://docs.netskope.com/en/deploy-netskope-client-via-idp.html",
+    "title": "Deploy Netskope Client via IdP - Netskope Knowledge Portal",
+    "content_length": 8769,
+    "crawl_timestamp": 1750781566.394668
+  },
+  {
+    "filename": "en_create-local-administrators_24f361db.json",
+    "url": "https://docs.netskope.com/en/create-local-administrators",
+    "title": "Create Local Administrators - Netskope Knowledge Portal",
+    "content_length": 890,
+    "crawl_timestamp": 1750780184.672019
+  },
+  {
+    "filename": "en_deploy-netskope-client-in-restricted-regions_26515db9.json",
+    "url": "https://docs.netskope.com/en/deploy-netskope-client-in-restricted-regions",
+    "title": "Deploy Netskope Client In Restricted Regions - Netskope Knowledge Portal",
+    "content_length": 602,
+    "crawl_timestamp": 1750780612.5796611
+  },
+  {
+    "filename": "en_quick-start_30296866.json",
+    "url": "https://docs.netskope.com/en/quick-start",
+    "title": "Quick Start - Netskope Knowledge Portal",
+    "content_length": 2175,
+    "crawl_timestamp": 1750779875.270859
+  },
+  {
+    "filename": "en_oplp-alerts-and-event-descriptions_22ccf8e5.json",
+    "url": "https://docs.netskope.com/en/oplp-alerts-and-event-descriptions",
+    "title": "OPLP Alerts and Event Descriptions - Netskope Knowledge Portal",
+    "content_length": 5922,
+    "crawl_timestamp": 1750780822.392252
+  },
+  {
+    "filename": "en_solution-guides_b5d21a95.json",
+    "url": "https://docs.netskope.com/en/solution-guides",
+    "title": "Solution Guides - Netskope Knowledge Portal",
+    "content_length": 412,
+    "crawl_timestamp": 1750780390.269823
+  },
+  {
+    "filename": "en_user-import-methods-and-supported-attributes_e789575d.json",
+    "url": "https://docs.netskope.com/en/user-import-methods-and-supported-attributes/",
+    "title": "User Import Methods and Supported Attributes - Netskope Knowledge Portal",
+    "content_length": 2536,
+    "crawl_timestamp": 1750780794.107477
+  },
+  {
+    "filename": "en_configure-the-netskope-plugin-for-threat-exchange_0876f234.json",
+    "url": "https://docs.netskope.com/en/configure-the-netskope-plugin-for-threat-exchange",
+    "title": "Threat Exchange v1.0.0 Plugin - Netskope Knowledge Portal",
+    "content_length": 13496,
+    "crawl_timestamp": 1750780437.335179
+  },
+  {
+    "filename": "en_use-cci-to-understand-cloud-spending_afffbde6.json",
+    "url": "https://docs.netskope.com/en/use-cci-to-understand-cloud-spending",
+    "title": "Use CCI to understand cloud spending - Netskope Knowledge Portal",
+    "content_length": 855,
+    "crawl_timestamp": 1750781363.853258
+  },
+  {
+    "filename": "en_upload-logs-using-scp-158320_2905e9ff.json",
+    "url": "https://docs.netskope.com/en/upload-logs-using-scp-158320",
+    "title": "Upload Logs using SCP - Netskope Knowledge Portal",
+    "content_length": 742,
+    "crawl_timestamp": 1750781161.152024
+  },
+  {
+    "filename": "en_netskope-smtp-proxy_449eca34.json",
+    "url": "https://docs.netskope.com/en/netskope-smtp-proxy",
+    "title": "Netskope SMTP Proxy - Netskope Knowledge Portal",
+    "content_length": 4419,
+    "crawl_timestamp": 1750780368.909096
+  },
+  {
+    "filename": "en_private-access-rest-apis_054b14c8.json",
+    "url": "https://docs.netskope.com/en/private-access-rest-apis",
+    "title": "Private Access REST APIs - Netskope Knowledge Portal",
+    "content_length": 18853,
+    "crawl_timestamp": 1750781079.593135
+  },
+  {
+    "filename": "en_saas-iaas-web-discovery-and-risk-assessment-features_55423b79.json",
+    "url": "https://docs.netskope.com/en/saas-iaas-web-discovery-and-risk-assessment-features/",
+    "title": "SaaS, IaaS, Web Discovery, and Risk Assessment Features - Netskope Knowledge Portal",
+    "content_length": 911,
+    "crawl_timestamp": 1750779974.467136
+  },
+  {
+    "filename": "en_inline-policies.html_7571a58c.json",
+    "url": "https://docs.netskope.com/en/inline-policies.html",
+    "title": "Real-time Protection Policies - Netskope Knowledge Portal",
+    "content_length": 23760,
+    "crawl_timestamp": 1750781527.128416
+  },
+  {
+    "filename": "en_jamf.html_228f59b2.json",
+    "url": "https://docs.netskope.com/en/jamf.html",
+    "title": "JAMF - Netskope Knowledge Portal",
+    "content_length": 18050,
+    "crawl_timestamp": 1750781555.838089
+  },
+  {
+    "filename": "en_netskope-client-network-configuration_36e34496.json",
+    "url": "https://docs.netskope.com/en/netskope-client-network-configuration/",
+    "title": "Netskope Client Network Configuration - Netskope Knowledge Portal",
+    "content_length": 19478,
+    "crawl_timestamp": 1750780630.493761
+  },
+  {
+    "filename": "en_create-a-new-publisher_b9d37192.json",
+    "url": "https://docs.netskope.com/en/create-a-new-publisher/",
+    "title": "Create a New Publisher - Netskope Knowledge Portal",
+    "content_length": 20098,
+    "crawl_timestamp": 1750781068.8997838
+  },
+  {
+    "filename": "en_netskope-help_appliances_virtual-appliance_upgrade-the-virtual-appliance_c61a809f.json",
+    "url": "https://docs.netskope.com/en/netskope-help/appliances/virtual-appliance/upgrade-the-virtual-appliance/",
+    "title": "Upgrade the Virtual Appliance - Netskope Knowledge Portal",
+    "content_length": 8431,
+    "crawl_timestamp": 1750779914.688075
+  },
+  {
+    "filename": "en_cloud-exchange-supported-integrations_2fe26f00.json",
+    "url": "https://docs.netskope.com/en/cloud-exchange-supported-integrations",
+    "title": "Cloud Exchange Supported Integrations - Netskope Knowledge Portal",
+    "content_length": 36183,
+    "crawl_timestamp": 1750780315.423965
+  },
+  {
+    "filename": "en_api-observe-for-managed-app-activities_723afbb4.json",
+    "url": "https://docs.netskope.com/en/api-observe-for-managed-app-activities/",
+    "title": "API (Observe for Managed App Activities) - Netskope Knowledge Portal",
+    "content_length": 679,
+    "crawl_timestamp": 1750781502.229634
+  },
+  {
+    "filename": "en_security_bebd5122.json",
+    "url": "https://docs.netskope.com/en/security",
+    "title": "Security - Netskope Knowledge Portal",
+    "content_length": 223,
+    "crawl_timestamp": 1750780354.558858
+  },
+  {
+    "filename": "index_b33b019b.json",
+    "url": "https://docs.netskope.com/",
+    "title": "Welcome to the Netskope Knowledge Portal - Netskope Knowledge Portal",
+    "content_length": 1425,
+    "crawl_timestamp": 1750779836.595175
+  },
+  {
+    "filename": "en_virtual-appliance-release-notes_3acc3231.json",
+    "url": "https://docs.netskope.com/en/virtual-appliance-release-notes/",
+    "title": "Virtual Appliance Release Notes - Netskope Knowledge Portal",
+    "content_length": 4078,
+    "crawl_timestamp": 1750780861.35435
+  },
+  {
+    "filename": "en_configure-the-netskope-plugin-for-user-risk-exchange_61e62ef4.json",
+    "url": "https://docs.netskope.com/en/configure-the-netskope-plugin-for-user-risk-exchange",
+    "title": "User Risk Exchange Plugin - Netskope Knowledge Portal",
+    "content_length": 7851,
+    "crawl_timestamp": 1750780441.016567
+  },
+  {
+    "filename": "en_inline-protection-of-cloud-apps_cb6f286c.json",
+    "url": "https://docs.netskope.com/en/inline-protection-of-cloud-apps",
+    "title": "Inline protection of Cloud apps - Netskope Knowledge Portal",
+    "content_length": 845,
+    "crawl_timestamp": 1750781467.145695
+  },
+  {
+    "filename": "en_cloud-exchange-troubleshooting-2_7fb1f152.json",
+    "url": "https://docs.netskope.com/en/cloud-exchange-troubleshooting-2",
+    "title": "Cloud Exchange Troubleshooting - Netskope Knowledge Portal",
+    "content_length": 52499,
+    "crawl_timestamp": 1750780365.2633228
+  },
+  {
+    "filename": "en_shadow-it-identifying-unsanctioned-aws-accounts-using-skope-it_b9906ce5.json",
+    "url": "https://docs.netskope.com/en/shadow-it-identifying-unsanctioned-aws-accounts-using-skope-it",
+    "title": "Shadow IT \u2013 Identifying unsanctioned AWS accounts using Skope IT - Netskope Knowledge Portal",
+    "content_length": 399,
+    "crawl_timestamp": 1750781456.488585
+  },
+  {
+    "filename": "en_ticket-orchestrator-v2-2-0-plugin_02ca791a.json",
+    "url": "https://docs.netskope.com/en/ticket-orchestrator-v2-2-0-plugin",
+    "title": "Ticket Orchestrator v2.2.0 Plugin - Netskope Knowledge Portal",
+    "content_length": 52139,
+    "crawl_timestamp": 1750780451.7447581
+  },
+  {
+    "filename": "en_upgrade-the-virtual-appliance_1aad2b05.json",
+    "url": "https://docs.netskope.com/en/upgrade-the-virtual-appliance",
+    "title": "Upgrade the Virtual Appliance - Netskope Knowledge Portal",
+    "content_length": 8431,
+    "crawl_timestamp": 1750780871.998438
+  },
+  {
+    "filename": "en_upload-logs-using-ftps-158321_3658580d.json",
+    "url": "https://docs.netskope.com/en/upload-logs-using-ftps-158321",
+    "title": "Upload Logs using FTPS - Netskope Knowledge Portal",
+    "content_length": 1517,
+    "crawl_timestamp": 1750781164.775077
+  },
+  {
+    "filename": "en_install-a-virtual-appliance_ee41066d.json",
+    "url": "https://docs.netskope.com/en/install-a-virtual-appliance",
+    "title": "Install a Virtual Appliance - Netskope Knowledge Portal",
+    "content_length": 894,
+    "crawl_timestamp": 1750780868.624608
+  },
+  {
+    "filename": "en_api-tokens-2_0e9b6fa5.json",
+    "url": "https://docs.netskope.com/en/api-tokens-2",
+    "title": "API Tokens - Netskope Knowledge Portal",
+    "content_length": 14214,
+    "crawl_timestamp": 1750780344.349128
+  },
+  {
+    "filename": "en_check-firewall-policy_cdd56746.json",
+    "url": "https://docs.netskope.com/en/check-firewall-policy",
+    "title": "Check Firewall Policy - Netskope Knowledge Portal",
+    "content_length": 1032,
+    "crawl_timestamp": 1750780177.854014
+  },
+  {
+    "filename": "en_source-ip-anchoring-for-an-idp-with-netskope-private-access_44ea2562.json",
+    "url": "https://docs.netskope.com/en/source-ip-anchoring-for-an-idp-with-netskope-private-access",
+    "title": "Source IP Anchoring for an IdP with Netskope Private Access - Netskope Knowledge Portal",
+    "content_length": 5593,
+    "crawl_timestamp": 1750781093.9391448
+  },
+  {
+    "filename": "en_private-access-best-practices_b0032593.json",
+    "url": "https://docs.netskope.com/en/private-access-best-practices",
+    "title": "Private Access Best Practices - Netskope Knowledge Portal",
+    "content_length": 9837,
+    "crawl_timestamp": 1750781086.9057689
+  },
+  {
+    "filename": "en_eol-for-the-secure-forwarder-steering-function-440154_850209b0.json",
+    "url": "https://docs.netskope.com/en/eol-for-the-secure-forwarder-steering-function-440154",
+    "title": "EOL for the Secure Forwarder Steering Function - Netskope Knowledge Portal",
+    "content_length": 901,
+    "crawl_timestamp": 1750780917.7343092
+  },
+  {
+    "filename": "en_netskope-client-configuration_7a208694.json",
+    "url": "https://docs.netskope.com/en/netskope-client-configuration",
+    "title": "Netskope Client Configuration - Netskope Knowledge Portal",
+    "content_length": 31308,
+    "crawl_timestamp": 1750780644.624442
+  },
+  {
+    "filename": "en_upgrading-va-to-103-0-0-338_4b62551e.json",
+    "url": "https://docs.netskope.com/en/upgrading-va-to-103-0-0-338",
+    "title": "Upgrading VA to 103.0.0.338 - Netskope Knowledge Portal",
+    "content_length": 2280,
+    "crawl_timestamp": 1750780829.631457
+  },
+  {
+    "filename": "en_netskope-help_data-security_netskope-private-access_publisher-management_deploy-a-publisher_8aa6dcae.json",
+    "url": "https://docs.netskope.com/en/netskope-help/data-security/netskope-private-access/publisher-management/deploy-a-publisher/",
+    "title": "Deploy a Publisher - Netskope Knowledge Portal",
+    "content_length": 1368,
+    "crawl_timestamp": 1750779932.054833
+  },
+  {
+    "filename": "en_create-and-validate-a-security-policy_b3f00850.json",
+    "url": "https://docs.netskope.com/en/create-and-validate-a-security-policy",
+    "title": "Create and Validate a Security Policy - Netskope Knowledge Portal",
+    "content_length": 5234,
+    "crawl_timestamp": 1750780124.710249
+  },
+  {
+    "filename": "en_casb-api-billable-user-calculation_f6864e70.json",
+    "url": "https://docs.netskope.com/en/casb-api-billable-user-calculation",
+    "title": "CASB API Billable User Calculation - Netskope Knowledge Portal",
+    "content_length": 8656,
+    "crawl_timestamp": 1750780765.677375
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_observe-cloud-app-activities-oplp-and-risk-insights_view-the-number-of-sessions-and-users-by-category-or-app_ba4872f7.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/observe-cloud-app-activities-oplp-and-risk-insights/view-the-number-of-sessions-and-users-by-category-or-app/",
+    "title": "View the number of sessions and users by category or app - Netskope Knowledge Portal",
+    "content_length": 762,
+    "crawl_timestamp": 1750781339.387151
+  },
+  {
+    "filename": "en_publisher-logs-for-troubleshooting_35c9a46a.json",
+    "url": "https://docs.netskope.com/en/publisher-logs-for-troubleshooting/",
+    "title": "Publisher Logs for Troubleshooting - Netskope Knowledge Portal",
+    "content_length": 2264,
+    "crawl_timestamp": 1750781200.1406279
+  },
+  {
+    "filename": "en_mobileiron-core.html_f6be5e2f.json",
+    "url": "https://docs.netskope.com/en/mobileiron-core.html",
+    "title": "MobileIron Core - Netskope Knowledge Portal",
+    "content_length": 10073,
+    "crawl_timestamp": 1750781537.84766
+  },
+  {
+    "filename": "en_monitor-cloud-exchange-with-prometheus-and-grafana-1_01831307.json",
+    "url": "https://docs.netskope.com/en/monitor-cloud-exchange-with-prometheus-and-grafana-1",
+    "title": "Monitor Cloud Exchange with Prometheus and Grafana - Netskope Knowledge Portal",
+    "content_length": 2967,
+    "crawl_timestamp": 1750780358.191058
+  },
+  {
+    "filename": "en_cloud-exchange-kb-articles_7bb5d859.json",
+    "url": "https://docs.netskope.com/en/cloud-exchange-kb-articles",
+    "title": "Cloud Exchange KB Articles - Netskope Knowledge Portal",
+    "content_length": 13575,
+    "crawl_timestamp": 1750780294.108028
+  },
+  {
+    "filename": "en_secure-enrollment_b562e0ea.json",
+    "url": "https://docs.netskope.com/en/secure-enrollment",
+    "title": "Secure Enrollment - Netskope Knowledge Portal",
+    "content_length": 18543,
+    "crawl_timestamp": 1750780648.306763
+  },
+  {
+    "filename": "en_ibm-maas360-2_ef76b985.json",
+    "url": "https://docs.netskope.com/en/ibm-maas360-2",
+    "title": "IBM MaaS360 - Netskope Knowledge Portal",
+    "content_length": 235,
+    "crawl_timestamp": 1750780551.9906602
+  },
+  {
+    "filename": "en_deploy-the-netskope-client_eae97e2f.json",
+    "url": "https://docs.netskope.com/en/deploy-the-netskope-client",
+    "title": "Deploy the Netskope Client - Netskope Knowledge Portal",
+    "content_length": 3657,
+    "crawl_timestamp": 1750780128.133337
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_0129ef66.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/",
+    "title": "Netskope Client Deployment Options - Netskope Knowledge Portal",
+    "content_length": 2686,
+    "crawl_timestamp": 1750780998.889121
+  },
+  {
+    "filename": "en_upgrade-the-additional-appliance-packages_f9020b8f.json",
+    "url": "https://docs.netskope.com/en/upgrade-the-additional-appliance-packages",
+    "title": "Upgrade the Additional Appliance Packages - Netskope Knowledge Portal",
+    "content_length": 4219,
+    "crawl_timestamp": 1750780910.6349728
+  },
+  {
+    "filename": "en_netskope-copilot_0f647849.json",
+    "url": "https://docs.netskope.com/en/netskope-copilot",
+    "title": "Netskope Copilot - Netskope Knowledge Portal",
+    "content_length": 1263,
+    "crawl_timestamp": 1750780048.964125
+  },
+  {
+    "filename": "en_netskope-help_getting-started_quick-start_integrate-an-identity-provider-idp_8773ea4e.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/quick-start/integrate-an-identity-provider-idp/",
+    "title": "Integrate an Identity Provider (IdP) - Netskope Knowledge Portal",
+    "content_length": 2935,
+    "crawl_timestamp": 1750781552.155461
+  },
+  {
+    "filename": "en_shadow-it-identifying-unsanctioned-aws-accounts-using-skope-it_e80c156a.json",
+    "url": "https://docs.netskope.com/en/shadow-it-identifying-unsanctioned-aws-accounts-using-skope-it/",
+    "title": "Shadow IT \u2013 Identifying unsanctioned AWS accounts using Skope IT - Netskope Knowledge Portal",
+    "content_length": 399,
+    "crawl_timestamp": 1750781449.277051
+  },
+  {
+    "filename": "en_netskope-private-access-for-microsoft-active-directory-domain-services.html_c33cc065.json",
+    "url": "https://docs.netskope.com/en/netskope-private-access-for-microsoft-active-directory-domain-services.html",
+    "title": "Netskope Private Access for Microsoft Active Directory Domain Services - Netskope Knowledge Portal",
+    "content_length": 6249,
+    "crawl_timestamp": 1750781281.257254
+  },
+  {
+    "filename": "en_netskope-cloud-exchange_3b064831.json",
+    "url": "https://docs.netskope.com/en/netskope-cloud-exchange",
+    "title": "Netskope Cloud Exchange - Netskope Knowledge Portal",
+    "content_length": 1335,
+    "crawl_timestamp": 1750780361.5625799
+  },
+  {
+    "filename": "en_certificates_c2bd5ba6.json",
+    "url": "https://docs.netskope.com/en/certificates",
+    "title": "Certificates - Netskope Knowledge Portal",
+    "content_length": 15370,
+    "crawl_timestamp": 1750780734.164274
+  },
+  {
+    "filename": "en_add-bypasses-in-netskope_d1664ed8.json",
+    "url": "https://docs.netskope.com/en/add-bypasses-in-netskope",
+    "title": "Add Bypasses in Netskope - Netskope Knowledge Portal",
+    "content_length": 5066,
+    "crawl_timestamp": 1750780198.739629
+  },
+  {
+    "filename": "en_configure-single-sign-on-for-the-netskope-ui.html_54f91f48.json",
+    "url": "https://docs.netskope.com/en/configure-single-sign-on-for-the-netskope-ui.html",
+    "title": "SSO for Administrators - Netskope Knowledge Portal",
+    "content_length": 4189,
+    "crawl_timestamp": 1750781595.701591
+  },
+  {
+    "filename": "en_publisher-management_68956f14.json",
+    "url": "https://docs.netskope.com/en/publisher-management",
+    "title": "Publisher Management - Netskope Knowledge Portal",
+    "content_length": 233,
+    "crawl_timestamp": 1750781097.5979772
+  },
+  {
+    "filename": "en_create-custom-categories.html_296e21a0.json",
+    "url": "https://docs.netskope.com/en/create-custom-categories.html",
+    "title": "Create Custom Categories - Netskope Knowledge Portal",
+    "content_length": 938,
+    "crawl_timestamp": 1750781592.23366
+  },
+  {
+    "filename": "en_configure-publisher-auto-updates_d84a7a49.json",
+    "url": "https://docs.netskope.com/en/configure-publisher-auto-updates",
+    "title": "Configure Publisher Auto-Updates - Netskope Knowledge Portal",
+    "content_length": 11690,
+    "crawl_timestamp": 1750781242.3598878
+  },
+  {
+    "filename": "en_netskope-help_getting-started_microlearning-video-library_netskope-directory-importer-videos_5974a507.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/microlearning-video-library/netskope-directory-importer-videos/",
+    "title": "Netskope Directory Importer Videos - Netskope Knowledge Portal",
+    "content_length": 93,
+    "crawl_timestamp": 1750780038.2355561
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_unmanaged-device-protection_monitor-unmanaged-device-protection_create-dlp-policies-for-sensitive-data-for-a-specific-ou-from-a-user-and-provide-user-coaching_862de958.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/unmanaged-device-protection/monitor-unmanaged-device-protection/create-dlp-policies-for-sensitive-data-for-a-specific-ou-from-a-user-and-provide-user-coaching/",
+    "title": "Create DLP policies for sensitive data for a specific OU from a user and provide user coaching - Netskope Knowledge Portal",
+    "content_length": 177,
+    "crawl_timestamp": 1750781315.2167182
+  },
+  {
+    "filename": "en_cloud-exchange-setup-videos_1db75b4a.json",
+    "url": "https://docs.netskope.com/en/cloud-exchange-setup-videos",
+    "title": "Cloud Exchange Setup Videos - Netskope Knowledge Portal",
+    "content_length": 1794,
+    "crawl_timestamp": 1750780433.642841
+  },
+  {
+    "filename": "en_creating-a-threat-protection-policy-for-real-time-protection.html_3c4056af.json",
+    "url": "https://docs.netskope.com/en/creating-a-threat-protection-policy-for-real-time-protection.html",
+    "title": "Creating a Threat Protection Policy for Real-time Protection - Netskope Knowledge Portal",
+    "content_length": 2757,
+    "crawl_timestamp": 1750781584.840249
+  },
+  {
+    "filename": "en_protect-against-viruses-and-malicious-files_c8c9e7aa.json",
+    "url": "https://docs.netskope.com/en/protect-against-viruses-and-malicious-files/",
+    "title": "Protect against viruses and malicious files - Netskope Knowledge Portal",
+    "content_length": 867,
+    "crawl_timestamp": 1750781424.049001
+  },
+  {
+    "filename": "en_unmanaged-device-protection_54124ec1.json",
+    "url": "https://docs.netskope.com/en/unmanaged-device-protection/",
+    "title": "Unmanaged Device Protection - Netskope Knowledge Portal",
+    "content_length": 1046,
+    "crawl_timestamp": 1750780111.840058
+  },
+  {
+    "filename": "en_deprovisioning-users_15af0682.json",
+    "url": "https://docs.netskope.com/en/deprovisioning-users",
+    "title": "Deprovisioning Users - Netskope Knowledge Portal",
+    "content_length": 3034,
+    "crawl_timestamp": 1750780530.665375
+  },
+  {
+    "filename": "en_configure-log-uploads-355003_5e688e49.json",
+    "url": "https://docs.netskope.com/en/configure-log-uploads-355003",
+    "title": "Configure Log Uploads - Netskope Knowledge Portal",
+    "content_length": 821,
+    "crawl_timestamp": 1750780928.149151
+  },
+  {
+    "filename": "en_vendor-risk-assessment_ee1baf6a.json",
+    "url": "https://docs.netskope.com/en/vendor-risk-assessment/",
+    "title": "Vendor Risk Assessment - Netskope Knowledge Portal",
+    "content_length": 2455,
+    "crawl_timestamp": 1750780070.099377
+  },
+  {
+    "filename": "en_vmware-workspace-one.html_882035f4.json",
+    "url": "https://docs.netskope.com/en/vmware-workspace-one.html",
+    "title": "VMware Workspace ONE - Netskope Knowledge Portal",
+    "content_length": 3400,
+    "crawl_timestamp": 1750781570.2092202
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_swg-web-traffic_ngswg-basic-policies_blocking-online-ads-silently_30a816d1.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/swg-web-traffic/ngswg-basic-policies/blocking-online-ads-silently/",
+    "title": "Blocking Online Ads Silently - Netskope Knowledge Portal",
+    "content_length": 670,
+    "crawl_timestamp": 1750781389.105788
+  },
+  {
+    "filename": "en_logs_31636224.json",
+    "url": "https://docs.netskope.com/en/logs",
+    "title": "Logs - Netskope Knowledge Portal",
+    "content_length": 774,
+    "crawl_timestamp": 1750780329.933461
+  },
+  {
+    "filename": "en_configure-publisher-auto-updates_0eb224e9.json",
+    "url": "https://docs.netskope.com/en/configure-publisher-auto-updates/",
+    "title": "Configure Publisher Auto-Updates - Netskope Knowledge Portal",
+    "content_length": 11690,
+    "crawl_timestamp": 1750781228.084961
+  },
+  {
+    "filename": "en_integrate-an-identity-provider-idp_65e98c21.json",
+    "url": "https://docs.netskope.com/en/integrate-an-identity-provider-idp",
+    "title": "Integrate an Identity Provider (IdP) - Netskope Knowledge Portal",
+    "content_length": 2935,
+    "crawl_timestamp": 1750780156.9669912
+  },
+  {
+    "filename": "en_netskope-client-for-android-and-chromeos_4b115a28.json",
+    "url": "https://docs.netskope.com/en/netskope-client-for-android-and-chromeos",
+    "title": "Netskope Client For Android and ChromeOS - Netskope Knowledge Portal",
+    "content_length": 9127,
+    "crawl_timestamp": 1750780634.132195
+  },
+  {
+    "filename": "en_next-steps_c13d2e06.json",
+    "url": "https://docs.netskope.com/en/next-steps/",
+    "title": "Next Steps - Netskope Knowledge Portal",
+    "content_length": 4701,
+    "crawl_timestamp": 1750780131.7902331
+  },
+  {
+    "filename": "en_restore-a-virtual-appliance-from-a-vmware-snapshot_0f37f4b2.json",
+    "url": "https://docs.netskope.com/en/restore-a-virtual-appliance-from-a-vmware-snapshot",
+    "title": "Restore a Virtual Appliance from a VMware Snapshot - Netskope Knowledge Portal",
+    "content_length": 567,
+    "crawl_timestamp": 1750780935.088039
+  },
+  {
+    "filename": "en_inline-monitoring-for-cloud-apps_7d86e208.json",
+    "url": "https://docs.netskope.com/en/inline-monitoring-for-cloud-apps/",
+    "title": "Inline monitoring for Cloud apps - Netskope Knowledge Portal",
+    "content_length": 911,
+    "crawl_timestamp": 1750781470.659534
+  },
+  {
+    "filename": "en_api-monitor-for-managed-app-activities_1581caa8.json",
+    "url": "https://docs.netskope.com/en/api-monitor-for-managed-app-activities/",
+    "title": "API (Monitor for Managed App Activities) - Netskope Knowledge Portal",
+    "content_length": 544,
+    "crawl_timestamp": 1750781509.485533
+  },
+  {
+    "filename": "en_uninstalling-the-netskope-client_fe0e57e8.json",
+    "url": "https://docs.netskope.com/en/uninstalling-the-netskope-client",
+    "title": "Uninstalling the Netskope Client - Netskope Knowledge Portal",
+    "content_length": 10327,
+    "crawl_timestamp": 1750780548.593996
+  },
+  {
+    "filename": "en_ip-allowlisting_d0159a07.json",
+    "url": "https://docs.netskope.com/en/ip-allowlisting",
+    "title": "IP Allowlisting - Netskope Knowledge Portal",
+    "content_length": 905,
+    "crawl_timestamp": 1750780712.4157
+  },
+  {
+    "filename": "en_upload-logs-using-sftp-144860_7c0a436f.json",
+    "url": "https://docs.netskope.com/en/upload-logs-using-sftp-144860/",
+    "title": "Upload Logs using SFTP - Netskope Knowledge Portal",
+    "content_length": 3668,
+    "crawl_timestamp": 1750781135.961838
+  },
+  {
+    "filename": "en_configure-ssh-keys-for-log-uploads-144858_666b8980.json",
+    "url": "https://docs.netskope.com/en/configure-ssh-keys-for-log-uploads-144858",
+    "title": "Configure SSH Keys for Log Uploads - Netskope Knowledge Portal",
+    "content_length": 1630,
+    "crawl_timestamp": 1750781182.456909
+  },
+  {
+    "filename": "en_product-terms-and-use_53131e63.json",
+    "url": "https://docs.netskope.com/en/product-terms-and-use",
+    "title": "Product Terms and Use - Netskope Knowledge Portal",
+    "content_length": 173,
+    "crawl_timestamp": 1750779840.2569768
+  },
+  {
+    "filename": "en_device-classification_2a9611dc.json",
+    "url": "https://docs.netskope.com/en/device-classification",
+    "title": "Device Classification - Netskope Knowledge Portal",
+    "content_length": 163,
+    "crawl_timestamp": 1750780322.6731389
+  },
+  {
+    "filename": "en_netskope-client-command-reference_8f856236.json",
+    "url": "https://docs.netskope.com/en/netskope-client-command-reference",
+    "title": "Netskope Client Command Reference - Netskope Knowledge Portal",
+    "content_length": 4423,
+    "crawl_timestamp": 1750780508.9445992
+  },
+  {
+    "filename": "en_netskope-success-resource-center_29d165a3.json",
+    "url": "https://docs.netskope.com/en/netskope-success-resource-center",
+    "title": "Netskope Success Resource Center - Netskope Knowledge Portal",
+    "content_length": 389,
+    "crawl_timestamp": 1750779871.8714418
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_email-invite_1455f826.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/email-invite/",
+    "title": "Email Invite - Netskope Knowledge Portal",
+    "content_length": 5517,
+    "crawl_timestamp": 1750779921.576025
+  },
+  {
+    "filename": "en_599ad1e3.json",
+    "url": "https://docs.netskope.com/en/",
+    "title": "Encryption and Tokenization Features - Netskope Knowledge Portal",
+    "content_length": 698,
+    "crawl_timestamp": 1750781288.28862
+  },
+  {
+    "filename": "en_kandji_dc84fbcf.json",
+    "url": "https://docs.netskope.com/en/kandji",
+    "title": "Kandji - Netskope Knowledge Portal",
+    "content_length": 253,
+    "crawl_timestamp": 1750780490.934227
+  },
+  {
+    "filename": "en_microlearning-video-library_785b2e3a.json",
+    "url": "https://docs.netskope.com/en/microlearning-video-library",
+    "title": "Microlearning Video Library - Netskope Knowledge Portal",
+    "content_length": 174,
+    "crawl_timestamp": 1750779861.492617
+  },
+  {
+    "filename": "en_client-profiles_c32d6162.json",
+    "url": "https://docs.netskope.com/en/client-profiles",
+    "title": "Client Profiles - Netskope Knowledge Portal",
+    "content_length": 180,
+    "crawl_timestamp": 1750780570.014276
+  },
+  {
+    "filename": "en_upload-logs-to-the-netskope-tenant-using-https-144861_9085e8e3.json",
+    "url": "https://docs.netskope.com/en/upload-logs-to-the-netskope-tenant-using-https-144861/",
+    "title": "Upload Logs to the Netskope Tenant using HTTPS\u00a0 - Netskope Knowledge Portal",
+    "content_length": 867,
+    "crawl_timestamp": 1750781171.8172932
+  },
+  {
+    "filename": "en_netskope-copilot-for-npa_c83e2456.json",
+    "url": "https://docs.netskope.com/en/netskope-copilot-for-npa/",
+    "title": "Netskope Copilot for NPA - Netskope Knowledge Portal",
+    "content_length": 2151,
+    "crawl_timestamp": 1750781302.7862148
+  },
+  {
+    "filename": "en_netskope-client-for-windows_6e0a7d84.json",
+    "url": "https://docs.netskope.com/en/netskope-client-for-windows/",
+    "title": "Netskope Client For Windows - Netskope Knowledge Portal",
+    "content_length": 18890,
+    "crawl_timestamp": 1750780655.142608
+  },
+  {
+    "filename": "en_publisher-support-policy_be5ce568.json",
+    "url": "https://docs.netskope.com/en/publisher-support-policy",
+    "title": "Publisher Support Policy - Netskope Knowledge Portal",
+    "content_length": 2973,
+    "crawl_timestamp": 1750781051.087156
+  },
+  {
+    "filename": "en_unmanaged-device-protection_9f38ee5b.json",
+    "url": "https://docs.netskope.com/en/unmanaged-device-protection",
+    "title": "Unmanaged Device Protection - Netskope Knowledge Portal",
+    "content_length": 1046,
+    "crawl_timestamp": 1750780063.300904
+  },
+  {
+    "filename": "en_netskope-help_appliances_virtual-appliance_configure-log-uploads-355003_fee7654d.json",
+    "url": "https://docs.netskope.com/en/netskope-help/appliances/virtual-appliance/configure-log-uploads-355003/",
+    "title": "Configure Log Uploads - Netskope Knowledge Portal",
+    "content_length": 821,
+    "crawl_timestamp": 1750779935.683281
+  },
+  {
+    "filename": "en_access-the-admin-console_1096a315.json",
+    "url": "https://docs.netskope.com/en/access-the-admin-console/",
+    "title": "Access the Admin Console - Netskope Knowledge Portal",
+    "content_length": 852,
+    "crawl_timestamp": 1750780188.285506
+  },
+  {
+    "filename": "en_enable-kernel-updates_ed7950f2.json",
+    "url": "https://docs.netskope.com/en/enable-kernel-updates/",
+    "title": "Enable Kernel Updates - Netskope Knowledge Portal",
+    "content_length": 2399,
+    "crawl_timestamp": 1750781238.910639
+  },
+  {
+    "filename": "en_configure-the-netskope-plugin-for-ticket-orchestrator_47850810.json",
+    "url": "https://docs.netskope.com/en/configure-the-netskope-plugin-for-ticket-orchestrator",
+    "title": "Ticket Orchestrator v.1.0.0 Plugin - Netskope Knowledge Portal",
+    "content_length": 6119,
+    "crawl_timestamp": 1750780448.311014
+  },
+  {
+    "filename": "en_integrate-an-identity-provider-idp_69d76e03.json",
+    "url": "https://docs.netskope.com/en/integrate-an-identity-provider-idp/",
+    "title": "Integrate an Identity Provider (IdP) - Netskope Knowledge Portal",
+    "content_length": 2935,
+    "crawl_timestamp": 1750780160.357461
+  },
+  {
+    "filename": "en_saml-setings-for-authentication_37dd2c3b.json",
+    "url": "https://docs.netskope.com/en/saml-setings-for-authentication/",
+    "title": "SAML Settings for Authentication - Netskope Knowledge Portal",
+    "content_length": 9153,
+    "crawl_timestamp": 1750780594.835926
+  },
+  {
+    "filename": "en_netskope-help_data-security_real-time-protection_inline-policies_27be8402.json",
+    "url": "https://docs.netskope.com/en/netskope-help/data-security/real-time-protection/inline-policies/",
+    "title": "Real-time Protection Policies - Netskope Knowledge Portal",
+    "content_length": 23760,
+    "crawl_timestamp": 1750780952.7640479
+  },
+  {
+    "filename": "en_optional-configurations-144851_566e3a80.json",
+    "url": "https://docs.netskope.com/en/optional-configurations-144851",
+    "title": "Optional Configurations - Netskope Knowledge Portal",
+    "content_length": 251,
+    "crawl_timestamp": 1750780825.99726
+  },
+  {
+    "filename": "en_microsoft-endpoint-configuration-manager_32c26d4a.json",
+    "url": "https://docs.netskope.com/en/microsoft-endpoint-configuration-manager",
+    "title": "Microsoft Endpoint Configuration Manager - Netskope Knowledge Portal",
+    "content_length": 5190,
+    "crawl_timestamp": 1750780587.461087
+  },
+  {
+    "filename": "en_deployment-options_5f004e24.json",
+    "url": "https://docs.netskope.com/en/deployment-options",
+    "title": "Deployment Options - Netskope Knowledge Portal",
+    "content_length": 1195,
+    "crawl_timestamp": 1750779864.872262
+  },
+  {
+    "filename": "en_protect-against-unmanaged-s3-access_faa98791.json",
+    "url": "https://docs.netskope.com/en/protect-against-unmanaged-s3-access",
+    "title": "Protect against Unmanaged S3 access - Netskope Knowledge Portal",
+    "content_length": 300,
+    "crawl_timestamp": 1750781402.915684
+  },
+  {
+    "filename": "en_about-the-admin-console_9ce6f7da.json",
+    "url": "https://docs.netskope.com/en/about-the-admin-console/",
+    "title": "About the Admin Console - Netskope Knowledge Portal",
+    "content_length": 3025,
+    "crawl_timestamp": 1750780034.6091
+  },
+  {
+    "filename": "en_wiz-webhook-with-netskope-sse-1_f9ce43ea.json",
+    "url": "https://docs.netskope.com/en/wiz-webhook-with-netskope-sse-1",
+    "title": "Wiz Webhook with Netskope SSE - Netskope Knowledge Portal",
+    "content_length": 14432,
+    "crawl_timestamp": 1750781033.8363369
+  },
+  {
+    "filename": "en_managing-administrators-for-rbac-v2_019ca60c.json",
+    "url": "https://docs.netskope.com/en/managing-administrators-for-rbac-v2",
+    "title": "Managing Administrators for RBAC V2 - Netskope Knowledge Portal",
+    "content_length": 190,
+    "crawl_timestamp": 1750780705.3868
+  },
+  {
+    "filename": "en_shadow-it-identifying-unsanctioned-aws-accounts-using-advanced-analytics_21f95d62.json",
+    "url": "https://docs.netskope.com/en/shadow-it-identifying-unsanctioned-aws-accounts-using-advanced-analytics/",
+    "title": "Shadow IT \u2013 Identifying unsanctioned AWS accounts using Advanced Analytics - Netskope Knowledge Portal",
+    "content_length": 296,
+    "crawl_timestamp": 1750781460.2524102
+  },
+  {
+    "filename": "en_view-the-number-of-sessions-and-users-by-category-or-app_3dc1a43a.json",
+    "url": "https://docs.netskope.com/en/view-the-number-of-sessions-and-users-by-category-or-app",
+    "title": "View the number of sessions and users by category or app - Netskope Knowledge Portal",
+    "content_length": 762,
+    "crawl_timestamp": 1750781349.816972
+  },
+  {
+    "filename": "en_re-enroll-a-publisher_430ca1c7.json",
+    "url": "https://docs.netskope.com/en/re-enroll-a-publisher",
+    "title": "Re-enroll a Publisher - Netskope Knowledge Portal",
+    "content_length": 648,
+    "crawl_timestamp": 1750781192.850244
+  },
+  {
+    "filename": "en_provide-a-risk-assessment-of-a-cloud-service-using-cci_1c6ef036.json",
+    "url": "https://docs.netskope.com/en/provide-a-risk-assessment-of-a-cloud-service-using-cci",
+    "title": "Provide a risk assessment of a cloud service using CCI - Netskope Knowledge Portal",
+    "content_length": 1516,
+    "crawl_timestamp": 1750781360.4587488
+  },
+  {
+    "filename": "en_account-settings_47cc9275.json",
+    "url": "https://docs.netskope.com/en/account-settings",
+    "title": "Account Settings - Netskope Knowledge Portal",
+    "content_length": 1706,
+    "crawl_timestamp": 1750780254.918656
+  },
+  {
+    "filename": "en_configure-client-prelogon-connectivity_50321a0e.json",
+    "url": "https://docs.netskope.com/en/configure-client-prelogon-connectivity/",
+    "title": "Configure Client Prelogon Connectivity - Netskope Knowledge Portal",
+    "content_length": 14637,
+    "crawl_timestamp": 1750781002.308987
+  },
+  {
+    "filename": "en_netskope-client-interoperability_72333eab.json",
+    "url": "https://docs.netskope.com/en/netskope-client-interoperability",
+    "title": "Netskope Client Interoperability - Netskope Knowledge Portal",
+    "content_length": 5798,
+    "crawl_timestamp": 1750780616.18829
+  },
+  {
+    "filename": "en_understand-the-risk-of-cloud-services-utilization-by-leveraging-cci_9c7928ca.json",
+    "url": "https://docs.netskope.com/en/understand-the-risk-of-cloud-services-utilization-by-leveraging-cci",
+    "title": "Understand the risk of cloud services utilization by leveraging CCI - Netskope Knowledge Portal",
+    "content_length": 1223,
+    "crawl_timestamp": 1750781370.8972402
+  },
+  {
+    "filename": "en_create-a-new-publisher_9bd5151b.json",
+    "url": "https://docs.netskope.com/en/create-a-new-publisher",
+    "title": "Create a New Publisher - Netskope Knowledge Portal",
+    "content_length": 20098,
+    "crawl_timestamp": 1750781054.71922
+  },
+  {
+    "filename": "en_netskope-help_admin-console_rest-api_rest-api-v2-overview-312207_9b2f3075.json",
+    "url": "https://docs.netskope.com/en/netskope-help/admin-console/rest-api/rest-api-v2-overview-312207/",
+    "title": "REST API v2 Overview - Netskope Knowledge Portal",
+    "content_length": 3435,
+    "crawl_timestamp": 1750780240.869269
+  },
+  {
+    "filename": "en_information-rights-management_5ba73ff7.json",
+    "url": "https://docs.netskope.com/en/information-rights-management",
+    "title": "Information Rights Management - Netskope Knowledge Portal",
+    "content_length": 359,
+    "crawl_timestamp": 1750780287.3130932
+  },
+  {
+    "filename": "en_netskope-help_getting-started_secure-tenant-configuration-and-hardening_c898a012.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/secure-tenant-configuration-and-hardening/",
+    "title": "Secure Tenant Configuration and Hardening - Netskope Knowledge Portal",
+    "content_length": 30029,
+    "crawl_timestamp": 1750779928.42459
+  },
+  {
+    "filename": "en_audit-log-1_f796726f.json",
+    "url": "https://docs.netskope.com/en/audit-log-1",
+    "title": "Audit Log - Netskope Knowledge Portal",
+    "content_length": 4445,
+    "crawl_timestamp": 1750780723.479142
+  },
+  {
+    "filename": "en_publisher-configuration-and-hardening_e9778332.json",
+    "url": "https://docs.netskope.com/en/publisher-configuration-and-hardening/",
+    "title": "Publisher Configuration and Hardening - Netskope Knowledge Portal",
+    "content_length": 4188,
+    "crawl_timestamp": 1750781114.8692648
+  },
+  {
+    "filename": "en_device-classification-430812_2b174428.json",
+    "url": "https://docs.netskope.com/en/device-classification-430812",
+    "title": "Device Classification - Netskope Knowledge Portal",
+    "content_length": 7123,
+    "crawl_timestamp": 1750780520.0043
+  },
+  {
+    "filename": "en_publisher-monitoring_878ea378.json",
+    "url": "https://docs.netskope.com/en/publisher-monitoring",
+    "title": "Publisher Monitoring - Netskope Knowledge Portal",
+    "content_length": 12372,
+    "crawl_timestamp": 1750781256.241484
+  },
+  {
+    "filename": "en_explicit-proxy-for-a-publisher_8ca13fe0.json",
+    "url": "https://docs.netskope.com/en/explicit-proxy-for-a-publisher",
+    "title": "Explicit Proxy for a Publisher - Netskope Knowledge Portal",
+    "content_length": 12464,
+    "crawl_timestamp": 1750781040.603574
+  },
+  {
+    "filename": "en_on-premises-appliance_225d33ef.json",
+    "url": "https://docs.netskope.com/en/on-premises-appliance",
+    "title": "On-Premises Appliance - Netskope Knowledge Portal",
+    "content_length": 1355,
+    "crawl_timestamp": 1750780847.286784
+  },
+  {
+    "filename": "en_enable-snmp-on-a-publisher_5de89428.json",
+    "url": "https://docs.netskope.com/en/enable-snmp-on-a-publisher/",
+    "title": "Enable SNMP on a Publisher - Netskope Knowledge Portal",
+    "content_length": 1997,
+    "crawl_timestamp": 1750781203.843165
+  },
+  {
+    "filename": "en_configure-single-sign-on-for-the-netskope-ui_7170c2d2.json",
+    "url": "https://docs.netskope.com/en/configure-single-sign-on-for-the-netskope-ui",
+    "title": "SSO for Administrators - Netskope Knowledge Portal",
+    "content_length": 4189,
+    "crawl_timestamp": 1750780780.031927
+  },
+  {
+    "filename": "en_netskope-help_appliances_virtual-appliance_advanced-options_configure-snmp-144875-2_f2dfd0fb.json",
+    "url": "https://docs.netskope.com/en/netskope-help/appliances/virtual-appliance/advanced-options/configure-snmp-144875-2/",
+    "title": "Configure SNMP\u00a0 - Netskope Knowledge Portal",
+    "content_length": 9950,
+    "crawl_timestamp": 1750780216.412498
+  },
+  {
+    "filename": "en_install-a-virtual-appliance_4351bc5f.json",
+    "url": "https://docs.netskope.com/en/install-a-virtual-appliance/",
+    "title": "Install a Virtual Appliance - Netskope Knowledge Portal",
+    "content_length": 894,
+    "crawl_timestamp": 1750780819.010359
+  },
+  {
+    "filename": "en_provisioning-and-authentication_8feaa388.json",
+    "url": "https://docs.netskope.com/en/provisioning-and-authentication",
+    "title": "Provisioning and Authentication - Netskope Knowledge Portal",
+    "content_length": 396,
+    "crawl_timestamp": 1750780265.5533319
+  },
+  {
+    "filename": "en_cloud-exchange-high-availability-1_2a4a9434.json",
+    "url": "https://docs.netskope.com/en/cloud-exchange-high-availability-1",
+    "title": "Cloud Exchange High Availability - Netskope Knowledge Portal",
+    "content_length": 17994,
+    "crawl_timestamp": 1750780290.7079282
+  },
+  {
+    "filename": "en_set-password-expiration-179030_d4db3f15.json",
+    "url": "https://docs.netskope.com/en/set-password-expiration-179030",
+    "title": "Set Password Expiration - Netskope Knowledge Portal",
+    "content_length": 272,
+    "crawl_timestamp": 1750780727.142645
+  },
+  {
+    "filename": "en_netskope-client-for-linux_0bee69da.json",
+    "url": "https://docs.netskope.com/en/netskope-client-for-linux/",
+    "title": "Netskope Client For Linux - Netskope Knowledge Portal",
+    "content_length": 7965,
+    "crawl_timestamp": 1750780541.312387
+  },
+  {
+    "filename": "en_granular-visibility-and-control-of-saas-iaas-and-web-features_1c08b3c8.json",
+    "url": "https://docs.netskope.com/en/granular-visibility-and-control-of-saas-iaas-and-web-features",
+    "title": "Granular Visibility and Control of SaaS, IaaS, and Web Features - Netskope Knowledge Portal",
+    "content_length": 1211,
+    "crawl_timestamp": 1750779971.077156
+  },
+  {
+    "filename": "en_netskope-help_integrations-439794_netskope-cloud-exchange_get-started-with-cloud-exchange_sso-configuration_612defc9.json",
+    "url": "https://docs.netskope.com/en/netskope-help/integrations-439794/netskope-cloud-exchange/get-started-with-cloud-exchange/sso-configuration/",
+    "title": "SSO Configuration - Netskope Knowledge Portal",
+    "content_length": 1752,
+    "crawl_timestamp": 1750779896.702294
+  },
+  {
+    "filename": "en_visibility-on-data-movements-to-and-from-cloud-services_f7d0917f.json",
+    "url": "https://docs.netskope.com/en/visibility-on-data-movements-to-and-from-cloud-services",
+    "title": "Visibility on data movements to and from cloud services - Netskope Knowledge Portal",
+    "content_length": 1759,
+    "crawl_timestamp": 1750781353.4631171
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_secure-enrollment_c8e480e6.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/secure-enrollment/",
+    "title": "Secure Enrollment - Netskope Knowledge Portal",
+    "content_length": 18543,
+    "crawl_timestamp": 1750779925.002244
+  },
+  {
+    "filename": "en_cloud-exchange-sso-with-okta_9791ac16.json",
+    "url": "https://docs.netskope.com/en/cloud-exchange-sso-with-okta",
+    "title": "Cloud Exchange SSO with Okta - Netskope Knowledge Portal",
+    "content_length": 8331,
+    "crawl_timestamp": 1750780400.985793
+  },
+  {
+    "filename": "en_netskope-client-for-ios_064e6ee8.json",
+    "url": "https://docs.netskope.com/en/netskope-client-for-ios",
+    "title": "Netskope Client for iOS - Netskope Knowledge Portal",
+    "content_length": 7166,
+    "crawl_timestamp": 1750780665.352601
+  },
+  {
+    "filename": "en_netskope-help_appliances_on-premises-appliance_export-or-import-configurations_0d69cfb1.json",
+    "url": "https://docs.netskope.com/en/netskope-help/appliances/on-premises-appliance/export-or-import-configurations/",
+    "title": "Export or Import Configurations - Netskope Knowledge Portal",
+    "content_length": 340,
+    "crawl_timestamp": 1750780879.2384582
+  },
+  {
+    "filename": "en_deploy-netskope-client-via-idp_32aa60cd.json",
+    "url": "https://docs.netskope.com/en/deploy-netskope-client-via-idp",
+    "title": "Deploy Netskope Client via IdP - Netskope Knowledge Portal",
+    "content_length": 8769,
+    "crawl_timestamp": 1750780505.314774
+  },
+  {
+    "filename": "en_understanding-api-protection_6b855e1e.json",
+    "url": "https://docs.netskope.com/en/understanding-api-protection",
+    "title": "Understanding API Protection - Netskope Knowledge Portal",
+    "content_length": 993,
+    "crawl_timestamp": 1750781495.12072
+  },
+  {
+    "filename": "en_deploy-netskope-client-on-citrix-daas-with-azure-virtual-desktop_2dad04ab.json",
+    "url": "https://docs.netskope.com/en/deploy-netskope-client-on-citrix-daas-with-azure-virtual-desktop",
+    "title": "Deploy Netskope Client On Citrix DaaS With Azure Virtual Desktop - Netskope Knowledge Portal",
+    "content_length": 3913,
+    "crawl_timestamp": 1750780683.035646
+  },
+  {
+    "filename": "en_netskope-security-cloud-product-life-cycle-policy_f7ef3dd0.json",
+    "url": "https://docs.netskope.com/en/netskope-security-cloud-product-life-cycle-policy",
+    "title": "Netskope Product Life Cycle Policy - Netskope Knowledge Portal",
+    "content_length": 6523,
+    "crawl_timestamp": 1750779886.2328708
+  },
+  {
+    "filename": "en_inline-monitoring-for-cloud-apps_078435c7.json",
+    "url": "https://docs.netskope.com/en/inline-monitoring-for-cloud-apps",
+    "title": "Inline monitoring for Cloud apps - Netskope Knowledge Portal",
+    "content_length": 911,
+    "crawl_timestamp": 1750781463.741842
+  },
+  {
+    "filename": "en_quick-start_aba1a77c.json",
+    "url": "https://docs.netskope.com/en/quick-start/",
+    "title": "Quick Start - Netskope Knowledge Portal",
+    "content_length": 2175,
+    "crawl_timestamp": 1750780027.3533561
+  },
+  {
+    "filename": "en_netskope-success-resource-center_7edba661.json",
+    "url": "https://docs.netskope.com/en/netskope-success-resource-center/",
+    "title": "Netskope Success Resource Center - Netskope Knowledge Portal",
+    "content_length": 389,
+    "crawl_timestamp": 1750780023.868132
+  },
+  {
+    "filename": "en_validate-traffic-steering_e4a41757.json",
+    "url": "https://docs.netskope.com/en/validate-traffic-steering/",
+    "title": "Validate Traffic Steering - Netskope Knowledge Portal",
+    "content_length": 5195,
+    "crawl_timestamp": 1750780142.462413
+  },
+  {
+    "filename": "en_change-access-for-an-admin-account_03c40c8d.json",
+    "url": "https://docs.netskope.com/en/change-access-for-an-admin-account",
+    "title": "Change Access for an Admin Account - Netskope Knowledge Portal",
+    "content_length": 288,
+    "crawl_timestamp": 1750780719.7899442
+  },
+  {
+    "filename": "en_netskope-client-overview_644fdc20.json",
+    "url": "https://docs.netskope.com/en/netskope-client-overview",
+    "title": "Netskope Client Overview - Netskope Knowledge Portal",
+    "content_length": 5510,
+    "crawl_timestamp": 1750780690.360041
+  },
+  {
+    "filename": "en_configure-the-netskope-plugin-for-application-risk-exchange_54cfb26f.json",
+    "url": "https://docs.netskope.com/en/configure-the-netskope-plugin-for-application-risk-exchange",
+    "title": "Application Risk Exchange Plugin - Netskope Knowledge Portal",
+    "content_length": 5133,
+    "crawl_timestamp": 1750780477.1061199
+  },
+  {
+    "filename": "en_modify-the-timezone-on-the-oplp-144850_aae032b3.json",
+    "url": "https://docs.netskope.com/en/modify-the-timezone-on-the-oplp-144850",
+    "title": "Modify the Timezone on the OPLP - Netskope Knowledge Portal",
+    "content_length": 6863,
+    "crawl_timestamp": 1750780942.1468108
+  },
+  {
+    "filename": "en_upgrade-the-virtual-appliance_0d782397.json",
+    "url": "https://docs.netskope.com/en/upgrade-the-virtual-appliance/",
+    "title": "Upgrade the Virtual Appliance - Netskope Knowledge Portal",
+    "content_length": 8431,
+    "crawl_timestamp": 1750780815.366378
+  },
+  {
+    "filename": "en_inline-protection-of-cloud-apps_e20bf3e8.json",
+    "url": "https://docs.netskope.com/en/inline-protection-of-cloud-apps/",
+    "title": "Inline protection of Cloud apps - Netskope Knowledge Portal",
+    "content_length": 845,
+    "crawl_timestamp": 1750781474.158808
+  },
+  {
+    "filename": "en_advanced-threat-protection_a947eb14.json",
+    "url": "https://docs.netskope.com/en/advanced-threat-protection",
+    "title": "Advanced Threat Protection - Netskope Knowledge Portal",
+    "content_length": 407,
+    "crawl_timestamp": 1750780102.1549509
+  },
+  {
+    "filename": "en_kandji.html_a335d257.json",
+    "url": "https://docs.netskope.com/en/kandji.html",
+    "title": "Kandji - Netskope Knowledge Portal",
+    "content_length": 253,
+    "crawl_timestamp": 1750781545.0229602
+  },
+  {
+    "filename": "en_cloud-inline-protection_47124604.json",
+    "url": "https://docs.netskope.com/en/cloud-inline-protection/",
+    "title": "Cloud Inline Protection - Netskope Knowledge Portal",
+    "content_length": 64,
+    "crawl_timestamp": 1750780084.3917818
+  },
+  {
+    "filename": "en_allowlist-the-netskope-client_29a2b99b.json",
+    "url": "https://docs.netskope.com/en/allowlist-the-netskope-client/",
+    "title": "Allowlist the Netskope Client - Netskope Knowledge Portal",
+    "content_length": 468,
+    "crawl_timestamp": 1750780205.7522821
+  },
+  {
+    "filename": "en_netskope-help_data-security_netskope-private-access_private-access-troubleshooting_the-npa-troubleshooter-tool_451f17ed.json",
+    "url": "https://docs.netskope.com/en/netskope-help/data-security/netskope-private-access/private-access-troubleshooting/the-npa-troubleshooter-tool/",
+    "title": "The NPA Troubleshooter Tool - Netskope Knowledge Portal",
+    "content_length": 5679,
+    "crawl_timestamp": 1750781277.6193972
+  },
+  {
+    "filename": "en_exceptions-for-anti-virus-applications_4be5dabc.json",
+    "url": "https://docs.netskope.com/en/exceptions-for-anti-virus-applications/",
+    "title": "Exceptions for Anti Virus Applications - Netskope Knowledge Portal",
+    "content_length": 2959,
+    "crawl_timestamp": 1750781520.22364
+  },
+  {
+    "filename": "en_upgrading-va-from-versions-older-than-96-0-0_fc09d788.json",
+    "url": "https://docs.netskope.com/en/upgrading-va-from-versions-older-than-96-0-0",
+    "title": "Upgrading VA from versions older than 96.0.0 - Netskope Knowledge Portal",
+    "content_length": 361,
+    "crawl_timestamp": 1750780811.7546601
+  },
+  {
+    "filename": "en_netskope-help_data-security_netskope-private-access_private-access-best-practices_9999cf3a.json",
+    "url": "https://docs.netskope.com/en/netskope-help/data-security/netskope-private-access/private-access-best-practices/",
+    "title": "Private Access Best Practices - Netskope Knowledge Portal",
+    "content_length": 9837,
+    "crawl_timestamp": 1750779946.207386
+  },
+  {
+    "filename": "en_netskope-client-network-configuration_ed4e14fd.json",
+    "url": "https://docs.netskope.com/en/netskope-client-network-configuration",
+    "title": "Netskope Client Network Configuration - Netskope Knowledge Portal",
+    "content_length": 19478,
+    "crawl_timestamp": 1750780501.6658611
+  },
+  {
+    "filename": "en_deployment-options_479e69d3.json",
+    "url": "https://docs.netskope.com/en/deployment-options/",
+    "title": "Deployment Options - Netskope Knowledge Portal",
+    "content_length": 1195,
+    "crawl_timestamp": 1750780030.980105
+  },
+  {
+    "filename": "en_netskope-copilot-for-cci_5fc38396.json",
+    "url": "https://docs.netskope.com/en/netskope-copilot-for-cci",
+    "title": "Netskope Copilot for CCI - Netskope Knowledge Portal",
+    "content_length": 1584,
+    "crawl_timestamp": 1750781299.1733491
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_microsoft-intune_152554b5.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/microsoft-intune/",
+    "title": "Microsoft Intune - Netskope Knowledge Portal",
+    "content_length": 678,
+    "crawl_timestamp": 1750781005.7713122
+  },
+  {
+    "filename": "en_netskope-copilot-for-npa_d6260557.json",
+    "url": "https://docs.netskope.com/en/netskope-copilot-for-npa",
+    "title": "Netskope Copilot for NPA - Netskope Knowledge Portal",
+    "content_length": 2151,
+    "crawl_timestamp": 1750781295.554286
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_deploy-netskope-client-via-idp_3c321cdf.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/deploy-netskope-client-via-idp/",
+    "title": "Deploy Netskope Client via IdP - Netskope Knowledge Portal",
+    "content_length": 8769,
+    "crawl_timestamp": 1750779900.34411
+  },
+  {
+    "filename": "en_installing-modular-upgrades-for-oplp-and-dpop_aab12315.json",
+    "url": "https://docs.netskope.com/en/installing-modular-upgrades-for-oplp-and-dpop",
+    "title": "Installing Modular Upgrades for OPLP and DPoP - Netskope Knowledge Portal",
+    "content_length": 1129,
+    "crawl_timestamp": 1750780903.865015
+  },
+  {
+    "filename": "en_netskope-help_integrations-439794_netskope-cloud-exchange_install-cloud-exchange_cloud-exchange-sso-with-okta_fdeeb543.json",
+    "url": "https://docs.netskope.com/en/netskope-help/integrations-439794/netskope-cloud-exchange/install-cloud-exchange/cloud-exchange-sso-with-okta/",
+    "title": "Cloud Exchange SSO with Okta - Netskope Knowledge Portal",
+    "content_length": 8331,
+    "crawl_timestamp": 1750780469.820003
+  },
+  {
+    "filename": "en_private-access-troubleshooting_a3e0d9ec.json",
+    "url": "https://docs.netskope.com/en/private-access-troubleshooting",
+    "title": "Private Access Troubleshooting - Netskope Knowledge Portal",
+    "content_length": 1224,
+    "crawl_timestamp": 1750781065.494223
+  },
+  {
+    "filename": "en_netskope-client-enrollment-methods_c43ba588.json",
+    "url": "https://docs.netskope.com/en/netskope-client-enrollment-methods/",
+    "title": "Netskope Client Enrollment Methods - Netskope Knowledge Portal",
+    "content_length": 3816,
+    "crawl_timestamp": 1750780790.718702
+  },
+  {
+    "filename": "en_risk-exchange-module_18ff6ed1.json",
+    "url": "https://docs.netskope.com/en/risk-exchange-module",
+    "title": "Risk Exchange Module - Netskope Knowledge Portal",
+    "content_length": 9512,
+    "crawl_timestamp": 1750780308.225054
+  },
+  {
+    "filename": "en_dlp-protect-state-for-managed-app-activities_6323df8a.json",
+    "url": "https://docs.netskope.com/en/dlp-protect-state-for-managed-app-activities/",
+    "title": "DLP \u2013 Protect state for Managed App Activities - Netskope Knowledge Portal",
+    "content_length": 555,
+    "crawl_timestamp": 1750781513.1183748
+  },
+  {
+    "filename": "en_upgrade-a-publisher-for-prc-china_b09a4865.json",
+    "url": "https://docs.netskope.com/en/upgrade-a-publisher-for-prc-china",
+    "title": "Upgrade a Publisher for PRC (China) - Netskope Knowledge Portal",
+    "content_length": 2284,
+    "crawl_timestamp": 1750781266.9936051
+  },
+  {
+    "filename": "en_netskope-ui-and-dashboard_50a28fdb.json",
+    "url": "https://docs.netskope.com/en/netskope-ui-and-dashboard",
+    "title": "Netskope UI and Dashboard - Netskope Knowledge Portal",
+    "content_length": 396,
+    "crawl_timestamp": 1750780769.323563
+  },
+  {
+    "filename": "en_protect-against-unknown-web-threats_4fb25ce6.json",
+    "url": "https://docs.netskope.com/en/protect-against-unknown-web-threats/",
+    "title": "Protect against unknown web threats - Netskope Knowledge Portal",
+    "content_length": 696,
+    "crawl_timestamp": 1750781431.096396
+  },
+  {
+    "filename": "en_netskope-help_getting-started_microlearning-video-library_integrations-videos_f75ea8a7.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/microlearning-video-library/integrations-videos/",
+    "title": "Third-Party Integration Videos - Netskope Knowledge Portal",
+    "content_length": 446,
+    "crawl_timestamp": 1750780041.610998
+  },
+  {
+    "filename": "en_plugin-repository_4779c319.json",
+    "url": "https://docs.netskope.com/en/plugin-repository",
+    "title": "Plugin Repository - Netskope Knowledge Portal",
+    "content_length": 1672,
+    "crawl_timestamp": 1750780297.496382
+  },
+  {
+    "filename": "en_publisher-support-policy_612a095a.json",
+    "url": "https://docs.netskope.com/en/publisher-support-policy/",
+    "title": "Publisher Support Policy - Netskope Knowledge Portal",
+    "content_length": 2973,
+    "crawl_timestamp": 1750780247.891382
+  },
+  {
+    "filename": "en_threat-exchange-v2-1-2-plugin_1d5f7065.json",
+    "url": "https://docs.netskope.com/en/threat-exchange-v2-1-2-plugin",
+    "title": "Threat Exchange v2.1.2 Plugin - Netskope Knowledge Portal",
+    "content_length": 16991,
+    "crawl_timestamp": 1750780480.5201201
+  },
+  {
+    "filename": "en_upload-logs-using-ftps-158321_06a4fc4f.json",
+    "url": "https://docs.netskope.com/en/upload-logs-using-ftps-158321/",
+    "title": "Upload Logs using FTPS - Netskope Knowledge Portal",
+    "content_length": 1517,
+    "crawl_timestamp": 1750781185.851613
+  },
+  {
+    "filename": "en_create-admins-and-assign-to-roles_acb21c5b.json",
+    "url": "https://docs.netskope.com/en/create-admins-and-assign-to-roles",
+    "title": "Create Admins and Assign to Roles - Netskope Knowledge Portal",
+    "content_length": 1704,
+    "crawl_timestamp": 1750780967.2518358
+  },
+  {
+    "filename": "en_admin-console_7083fb1f.json",
+    "url": "https://docs.netskope.com/en/admin-console",
+    "title": "Admin Console - Netskope Knowledge Portal",
+    "content_length": 428,
+    "crawl_timestamp": 1750780776.410951
+  },
+  {
+    "filename": "en_protect-against-unmanaged-s3-access_feb69847.json",
+    "url": "https://docs.netskope.com/en/protect-against-unmanaged-s3-access/",
+    "title": "Protect against Unmanaged S3 access - Netskope Knowledge Portal",
+    "content_length": 300,
+    "crawl_timestamp": 1750781417.2834828
+  },
+  {
+    "filename": "en_api-protection-for-managed-app-activities_5c64215c.json",
+    "url": "https://docs.netskope.com/en/api-protection-for-managed-app-activities/",
+    "title": "API (Protection for Managed App Activities) - Netskope Knowledge Portal",
+    "content_length": 327,
+    "crawl_timestamp": 1750781477.5385191
+  },
+  {
+    "filename": "en_secure-enrollment-frequently-asked-questions_921a827f.json",
+    "url": "https://docs.netskope.com/en/secure-enrollment-frequently-asked-questions",
+    "title": "Secure Enrollment Frequently Asked Questions - Netskope Knowledge Portal",
+    "content_length": 10902,
+    "crawl_timestamp": 1750781023.627468
+  },
+  {
+    "filename": "en_vmware-workspace-one_a0223d4f.json",
+    "url": "https://docs.netskope.com/en/vmware-workspace-one",
+    "title": "VMware Workspace ONE - Netskope Knowledge Portal",
+    "content_length": 3400,
+    "crawl_timestamp": 1750780562.7611442
+  },
+  {
+    "filename": "en_advanced-options_34961041.json",
+    "url": "https://docs.netskope.com/en/advanced-options",
+    "title": "Advanced Options - Netskope Knowledge Portal",
+    "content_length": 395,
+    "crawl_timestamp": 1750780804.6931689
+  },
+  {
+    "filename": "en_sso-with-okta_b4d91d0c.json",
+    "url": "https://docs.netskope.com/en/sso-with-okta",
+    "title": "Single Sign On with Okta - Netskope Knowledge Portal",
+    "content_length": 3989,
+    "crawl_timestamp": 1750780744.588819
+  },
+  {
+    "filename": "en_configure-a-publisher-for-software-updates-via-explicit-proxy_0795cb0c.json",
+    "url": "https://docs.netskope.com/en/configure-a-publisher-for-software-updates-via-explicit-proxy",
+    "title": "Configure a Publisher for Software Updates via Explicit Proxy - Netskope Knowledge Portal",
+    "content_length": 1621,
+    "crawl_timestamp": 1750781270.374122
+  },
+  {
+    "filename": "en_netskope-help_integrations-439794_netskope-cloud-exchange_get-started-with-cloud-exchange_cloud-exchange-setup-videos_c5d106aa.json",
+    "url": "https://docs.netskope.com/en/netskope-help/integrations-439794/netskope-cloud-exchange/get-started-with-cloud-exchange/cloud-exchange-setup-videos/",
+    "title": "Cloud Exchange Setup Videos - Netskope Knowledge Portal",
+    "content_length": 1794,
+    "crawl_timestamp": 1750780698.0416052
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_vendor-risk-assessment_use-cci-to-understand-cloud-spending_ddb8387c.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/vendor-risk-assessment/use-cci-to-understand-cloud-spending/",
+    "title": "Use CCI to understand cloud spending - Netskope Knowledge Portal",
+    "content_length": 855,
+    "crawl_timestamp": 1750781357.0783172
+  },
+  {
+    "filename": "en_update-cloud-exchange-plugins_7d3e5bc1.json",
+    "url": "https://docs.netskope.com/en/update-cloud-exchange-plugins",
+    "title": "Update Cloud Exchange Plugins - Netskope Knowledge Portal",
+    "content_length": 229,
+    "crawl_timestamp": 1750780337.2435122
+  },
+  {
+    "filename": "en_disable-password-expiry-for-a-publisher_f4266704.json",
+    "url": "https://docs.netskope.com/en/disable-password-expiry-for-a-publisher/",
+    "title": "Disable Password Expiry for a Publisher - Netskope Knowledge Portal",
+    "content_length": 3226,
+    "crawl_timestamp": 1750781252.5654569
+  },
+  {
+    "filename": "en_api-observe-for-managed-app-activities_b622a76e.json",
+    "url": "https://docs.netskope.com/en/api-observe-for-managed-app-activities",
+    "title": "API (Observe for Managed App Activities) - Netskope Knowledge Portal",
+    "content_length": 679,
+    "crawl_timestamp": 1750781491.6291468
+  },
+  {
+    "filename": "en_control-aws-apps-using-instance-ids_6430595b.json",
+    "url": "https://docs.netskope.com/en/control-aws-apps-using-instance-ids/",
+    "title": "Control AWS apps using Instance IDs - Netskope Knowledge Portal",
+    "content_length": 542,
+    "crawl_timestamp": 1750781399.522819
+  },
+  {
+    "filename": "en_upload-logs-using-scp-158320_45463cce.json",
+    "url": "https://docs.netskope.com/en/upload-logs-using-scp-158320/",
+    "title": "Upload Logs using SCP - Netskope Knowledge Portal",
+    "content_length": 742,
+    "crawl_timestamp": 1750781168.407178
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_observe-cloud-app-activities-oplp-and-risk-insights_view-users-access-to-cloud-services-geographically_b12c2c0f.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/observe-cloud-app-activities-oplp-and-risk-insights/view-users-access-to-cloud-services-geographically/",
+    "title": "View users access to cloud services geographically - Netskope Knowledge Portal",
+    "content_length": 911,
+    "crawl_timestamp": 1750781346.1867259
+  },
+  {
+    "filename": "en_ip-allowlisting_a6a53dc6.json",
+    "url": "https://docs.netskope.com/en/ip-allowlisting/",
+    "title": "IP Allowlisting - Netskope Knowledge Portal",
+    "content_length": 905,
+    "crawl_timestamp": 1750780219.8025322
+  },
+  {
+    "filename": "en_check-firewall-policy_7498358f.json",
+    "url": "https://docs.netskope.com/en/check-firewall-policy/",
+    "title": "Check Firewall Policy - Netskope Knowledge Portal",
+    "content_length": 1032,
+    "crawl_timestamp": 1750780163.753624
+  },
+  {
+    "filename": "en_getting-started_b33b2533.json",
+    "url": "https://docs.netskope.com/en/getting-started",
+    "title": "Getting Started - Netskope Knowledge Portal",
+    "content_length": 327,
+    "crawl_timestamp": 1750779857.887087
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_swg-web-traffic_ngswg-basic-policies_http-header-policies_4ca23ac0.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/swg-web-traffic/ngswg-basic-policies/http-header-policies/",
+    "title": "HTTP Header Policies - Netskope Knowledge Portal",
+    "content_length": 895,
+    "crawl_timestamp": 1750781385.432867
+  },
+  {
+    "filename": "en_publisher-filtering-and-exporting-options_ad7735d9.json",
+    "url": "https://docs.netskope.com/en/publisher-filtering-and-exporting-options",
+    "title": "Publisher Filtering and Exporting Options - Netskope Knowledge Portal",
+    "content_length": 621,
+    "crawl_timestamp": 1750781259.961341
+  },
+  {
+    "filename": "en_netskope-help_integrations-439794_netskope-cloud-exchange_cloud-exchange-console_cloud-exchange-high-availability_2734da8e.json",
+    "url": "https://docs.netskope.com/en/netskope-help/integrations-439794/netskope-cloud-exchange/cloud-exchange-console/cloud-exchange-high-availability/",
+    "title": "Cloud Exchange High Availability - Netskope Knowledge Portal",
+    "content_length": 17994,
+    "crawl_timestamp": 1750779903.8330119
+  },
+  {
+    "filename": "en_configure-a-steering-profile_4f4f6259.json",
+    "url": "https://docs.netskope.com/en/configure-a-steering-profile",
+    "title": "Configure a Steering Profile - Netskope Knowledge Portal",
+    "content_length": 4677,
+    "crawl_timestamp": 1750780202.3539672
+  },
+  {
+    "filename": "en_protection-against-insider-threats_d67d3edd.json",
+    "url": "https://docs.netskope.com/en/protection-against-insider-threats/",
+    "title": "Protection against Insider threats - Netskope Knowledge Portal",
+    "content_length": 1103,
+    "crawl_timestamp": 1750781452.883698
+  },
+  {
+    "filename": "en_award-winning-dlp-features_c2673b89.json",
+    "url": "https://docs.netskope.com/en/award-winning-dlp-features/",
+    "title": "Award-Winning DLP Features - Netskope Knowledge Portal",
+    "content_length": 1244,
+    "crawl_timestamp": 1750779953.236437
+  },
+  {
+    "filename": "en_xenmobile.html_758b6e3f.json",
+    "url": "https://docs.netskope.com/en/xenmobile.html",
+    "title": "XenMobile - Netskope Knowledge Portal",
+    "content_length": 12716,
+    "crawl_timestamp": 1750781541.267006
+  },
+  {
+    "filename": "en_casb-api-protection_8487a456.json",
+    "url": "https://docs.netskope.com/en/casb-api-protection/",
+    "title": "CASB API Protection - Netskope Knowledge Portal",
+    "content_length": 1008,
+    "crawl_timestamp": 1750780094.82992
+  },
+  {
+    "filename": "en_microsoft-group-policy-object-gpo_0650d043.json",
+    "url": "https://docs.netskope.com/en/microsoft-group-policy-object-gpo",
+    "title": "Microsoft Group Policy Object (GPO) - Netskope Knowledge Portal",
+    "content_length": 6611,
+    "crawl_timestamp": 1750780580.462472
+  },
+  {
+    "filename": "en_ticket-orchestrator-module_8ea6aefa.json",
+    "url": "https://docs.netskope.com/en/ticket-orchestrator-module",
+    "title": "Ticket Orchestrator Module - Netskope Knowledge Portal",
+    "content_length": 1779,
+    "crawl_timestamp": 1750780383.022628
+  },
+  {
+    "filename": "en_managing-administrators_36f63105.json",
+    "url": "https://docs.netskope.com/en/managing-administrators",
+    "title": "Managing Administrators - Netskope Knowledge Portal",
+    "content_length": 3922,
+    "crawl_timestamp": 1750780754.995035
+  },
+  {
+    "filename": "en_netskope-copilot_a22efc0b.json",
+    "url": "https://docs.netskope.com/en/netskope-copilot/",
+    "title": "Netskope Copilot - Netskope Knowledge Portal",
+    "content_length": 1263,
+    "crawl_timestamp": 1750780056.236982
+  },
+  {
+    "filename": "en_netskope-client_6de8ca74.json",
+    "url": "https://docs.netskope.com/en/netskope-client",
+    "title": "Netskope Client - Netskope Knowledge Portal",
+    "content_length": 1080,
+    "crawl_timestamp": 1750780584.079066
+  },
+  {
+    "filename": "en_configure-a-publisher-for-software-updates-via-explicit-proxy_0e44eb4c.json",
+    "url": "https://docs.netskope.com/en/configure-a-publisher-for-software-updates-via-explicit-proxy/",
+    "title": "Configure a Publisher for Software Updates via Explicit Proxy - Netskope Knowledge Portal",
+    "content_length": 1621,
+    "crawl_timestamp": 1750781231.781846
+  },
+  {
+    "filename": "en_netskope-client-supported-os-and-platform_fe36738a.json",
+    "url": "https://docs.netskope.com/en/netskope-client-supported-os-and-platform",
+    "title": "Netskope Client Supported OS and Platform - Netskope Knowledge Portal",
+    "content_length": 3066,
+    "crawl_timestamp": 1750780523.6384451
+  },
+  {
+    "filename": "en_manage-administrators_0d0c0ca5.json",
+    "url": "https://docs.netskope.com/en/manage-administrators",
+    "title": "Manage Administrators - Netskope Knowledge Portal",
+    "content_length": 1271,
+    "crawl_timestamp": 1750780963.650882
+  },
+  {
+    "filename": "en_citrix-virtual-apps-and-desktop_b3c88c41.json",
+    "url": "https://docs.netskope.com/en/citrix-virtual-apps-and-desktop",
+    "title": "Citrix Virtual Apps and Desktop - Netskope Knowledge Portal",
+    "content_length": 2069,
+    "crawl_timestamp": 1750780534.042502
+  },
+  {
+    "filename": "en_netskope-help_admin-console_administration_managing-administrators-for-rbac-v2_create-roles_69696cef.json",
+    "url": "https://docs.netskope.com/en/netskope-help/admin-console/administration/managing-administrators-for-rbac-v2/create-roles/",
+    "title": "Create Roles - Netskope Knowledge Portal",
+    "content_length": 2775,
+    "crawl_timestamp": 1750779918.0765939
+  },
+  {
+    "filename": "en_netskope-product-eol-announcements_adb11bf8.json",
+    "url": "https://docs.netskope.com/en/netskope-product-eol-announcements",
+    "title": "Netskope Product EOL/EOS Announcements - Netskope Knowledge Portal",
+    "content_length": 10372,
+    "crawl_timestamp": 1750779889.637324
+  },
+  {
+    "filename": "en_api-protection-for-managed-app-activities_1876904a.json",
+    "url": "https://docs.netskope.com/en/api-protection-for-managed-app-activities",
+    "title": "API (Protection for Managed App Activities) - Netskope Knowledge Portal",
+    "content_length": 327,
+    "crawl_timestamp": 1750781505.712214
+  },
+  {
+    "filename": "en_dlp-protect-state-for-managed-app-activities_2833fadc.json",
+    "url": "https://docs.netskope.com/en/dlp-protect-state-for-managed-app-activities",
+    "title": "DLP \u2013 Protect state for Managed App Activities - Netskope Knowledge Portal",
+    "content_length": 555,
+    "crawl_timestamp": 1750781480.910262
+  },
+  {
+    "filename": "en_installing-modular-upgrades-for-oplp-and-dpop_7d210d18.json",
+    "url": "https://docs.netskope.com/en/installing-modular-upgrades-for-oplp-and-dpop/",
+    "title": "Installing Modular Upgrades for OPLP and DPoP - Netskope Knowledge Portal",
+    "content_length": 1129,
+    "crawl_timestamp": 1750780857.737646
+  },
+  {
+    "filename": "en_guidance-for-installing-3rd-party-applications-on-publishers_03051985.json",
+    "url": "https://docs.netskope.com/en/guidance-for-installing-3rd-party-applications-on-publishers",
+    "title": "Guidance for Installing 3rd-party Applications on Publishers - Netskope Knowledge Portal",
+    "content_length": 800,
+    "crawl_timestamp": 1750781217.6530712
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_netskope-client-for-windows_0b64db37.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/netskope-client-for-windows/",
+    "title": "Netskope Client For Windows - Netskope Knowledge Portal",
+    "content_length": 18890,
+    "crawl_timestamp": 1750780985.03659
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_vendor-risk-assessment_understand-the-risk-of-cloud-services-utilization-by-leveraging-cci_2d2e7584.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/vendor-risk-assessment/understand-the-risk-of-cloud-services-utilization-by-leveraging-cci/",
+    "title": "Understand the risk of cloud services utilization by leveraging CCI - Netskope Knowledge Portal",
+    "content_length": 1223,
+    "crawl_timestamp": 1750781374.514389
+  },
+  {
+    "filename": "en_privacy-notice_7cb0927b.json",
+    "url": "https://docs.netskope.com/en/privacy-notice",
+    "title": "Privacy Notice - Netskope Knowledge Portal",
+    "content_length": 1240,
+    "crawl_timestamp": 1750780737.55163
+  },
+  {
+    "filename": "en_deploy-a-publisher_b803e235.json",
+    "url": "https://docs.netskope.com/en/deploy-a-publisher",
+    "title": "Deploy a Publisher - Netskope Knowledge Portal",
+    "content_length": 1368,
+    "crawl_timestamp": 1750781030.4400818
+  },
+  {
+    "filename": "en_cloud-exchange-users_135bb727.json",
+    "url": "https://docs.netskope.com/en/cloud-exchange-users",
+    "title": "Cloud Exchange Users - Netskope Knowledge Portal",
+    "content_length": 5828,
+    "crawl_timestamp": 1750780280.059707
+  },
+  {
+    "filename": "en_create-policy-groups_1cebd431.json",
+    "url": "https://docs.netskope.com/en/create-policy-groups",
+    "title": "Create Policy Groups - Netskope Knowledge Portal",
+    "content_length": 2991,
+    "crawl_timestamp": 1750780956.399446
+  },
+  {
+    "filename": "en_monitor-the-oplp-status_8da93b03.json",
+    "url": "https://docs.netskope.com/en/monitor-the-oplp-status",
+    "title": "Monitor the OPLP Status - Netskope Knowledge Portal",
+    "content_length": 328,
+    "crawl_timestamp": 1750780907.254178
+  },
+  {
+    "filename": "en_jamf-school_170a3e26.json",
+    "url": "https://docs.netskope.com/en/jamf-school",
+    "title": "Jamf School - Netskope Knowledge Portal",
+    "content_length": 3320,
+    "crawl_timestamp": 1750780566.391545
+  },
+  {
+    "filename": "en_cloud-exchange-sizing-using-netskope-advanced-analytics_f1dfcd83.json",
+    "url": "https://docs.netskope.com/en/cloud-exchange-sizing-using-netskope-advanced-analytics",
+    "title": "Cloud Exchange Sizing using Netskope Advanced Analytics - Netskope Knowledge Portal",
+    "content_length": 1542,
+    "crawl_timestamp": 1750780276.438024
+  },
+  {
+    "filename": "en_cloud-exchange-faqs_82504bce.json",
+    "url": "https://docs.netskope.com/en/cloud-exchange-faqs",
+    "title": "Cloud Exchange FAQs - Netskope Knowledge Portal",
+    "content_length": 27705,
+    "crawl_timestamp": 1750780393.66544
+  },
+  {
+    "filename": "en_advanced-log-upload-commands-144862_05a1b11d.json",
+    "url": "https://docs.netskope.com/en/advanced-log-upload-commands-144862",
+    "title": "Advanced Log Upload Commands - Netskope Knowledge Portal",
+    "content_length": 1146,
+    "crawl_timestamp": 1750781150.477779
+  },
+  {
+    "filename": "en_deploy-client-on-macos-using-intune_b7677e8f.json",
+    "url": "https://docs.netskope.com/en/deploy-client-on-macos-using-intune/",
+    "title": "Deploy Client on macOS Using Intune - Netskope Knowledge Portal",
+    "content_length": 14214,
+    "crawl_timestamp": 1750780537.6837602
+  },
+  {
+    "filename": "en_architectural-advantage-features_bebb19cd.json",
+    "url": "https://docs.netskope.com/en/architectural-advantage-features/",
+    "title": "Architectural Advantage Features - Netskope Knowledge Portal",
+    "content_length": 542,
+    "crawl_timestamp": 1750779981.249744
+  },
+  {
+    "filename": "en_encryption-and-tokenization-features_264dcc20.json",
+    "url": "https://docs.netskope.com/en/encryption-and-tokenization-features/",
+    "title": "Encryption and Tokenization Features - Netskope Knowledge Portal",
+    "content_length": 698,
+    "crawl_timestamp": 1750779995.2726688
+  },
+  {
+    "filename": "en_netskope-aws-logstreaming-tenant-v1-0-0-plugin_05c2b10a.json",
+    "url": "https://docs.netskope.com/en/netskope-aws-logstreaming-tenant-v1-0-0-plugin",
+    "title": "Netskope AWS LogStreaming Tenant v1.0.0 Plugin - Netskope Knowledge Portal",
+    "content_length": 16565,
+    "crawl_timestamp": 1750780459.119648
+  },
+  {
+    "filename": "en_saml-proxy_0c04dc86.json",
+    "url": "https://docs.netskope.com/en/saml-proxy",
+    "title": "SAML Proxy - Netskope Knowledge Portal",
+    "content_length": 389,
+    "crawl_timestamp": 1750780269.189416
+  },
+  {
+    "filename": "en_increase-the-size-of-the-partition_de08af75.json",
+    "url": "https://docs.netskope.com/en/increase-the-size-of-the-partition/",
+    "title": "Increase the Size of the Partition - Netskope Knowledge Portal",
+    "content_length": 1072,
+    "crawl_timestamp": 1750780850.682723
+  },
+  {
+    "filename": "en_publisher-selection_5684b770.json",
+    "url": "https://docs.netskope.com/en/publisher-selection",
+    "title": "Publisher Selection - Netskope Knowledge Portal",
+    "content_length": 9030,
+    "crawl_timestamp": 1750781037.2282891
+  },
+  {
+    "filename": "en_about-the-admin-console_6fc1e906.json",
+    "url": "https://docs.netskope.com/en/about-the-admin-console",
+    "title": "About the Admin Console - Netskope Knowledge Portal",
+    "content_length": 3025,
+    "crawl_timestamp": 1750779847.28785
+  },
+  {
+    "filename": "en_configure-appliances-in-a-cluster-for-scalability-159943_16235b57.json",
+    "url": "https://docs.netskope.com/en/configure-appliances-in-a-cluster-for-scalability-159943",
+    "title": "Configure Appliances in a Cluster for Scalability - Netskope Knowledge Portal",
+    "content_length": 1451,
+    "crawl_timestamp": 1750780896.8395898
+  },
+  {
+    "filename": "en_netskope-private-access-for-smb-and-dfs-services_ec65814a.json",
+    "url": "https://docs.netskope.com/en/netskope-private-access-for-smb-and-dfs-services",
+    "title": "Netskope Private Access for SMB and DFS Services - Netskope Knowledge Portal",
+    "content_length": 5903,
+    "crawl_timestamp": 1750781061.81547
+  },
+  {
+    "filename": "en_schedule-auto-upgrade-for-the-content-and-threat-feed-packages_c4e10360.json",
+    "url": "https://docs.netskope.com/en/schedule-auto-upgrade-for-the-content-and-threat-feed-packages/",
+    "title": "Schedule Auto-Upgrade for the Content and Threat Feed Packages - Netskope Knowledge Portal",
+    "content_length": 753,
+    "crawl_timestamp": 1750780833.248374
+  },
+  {
+    "filename": "en_vendor-risk-assessment_b129a22a.json",
+    "url": "https://docs.netskope.com/en/vendor-risk-assessment",
+    "title": "Vendor Risk Assessment - Netskope Knowledge Portal",
+    "content_length": 2455,
+    "crawl_timestamp": 1750780091.444882
+  },
+  {
+    "filename": "en_netskope-cloud-exchange.html_460f8389.json",
+    "url": "https://docs.netskope.com/en/netskope-cloud-exchange.html",
+    "title": "Netskope Cloud Exchange - Netskope Knowledge Portal",
+    "content_length": 1335,
+    "crawl_timestamp": 1750781606.228275
+  },
+  {
+    "filename": "en_mobileiron-core_77dd6e26.json",
+    "url": "https://docs.netskope.com/en/mobileiron-core",
+    "title": "MobileIron Core - Netskope Knowledge Portal",
+    "content_length": 10073,
+    "crawl_timestamp": 1750780672.381582
+  },
+  {
+    "filename": "en_threat-protection-protect-state-for-managed-app-activities_38dd94a2.json",
+    "url": "https://docs.netskope.com/en/threat-protection-protect-state-for-managed-app-activities/",
+    "title": "Threat Protection \u2013 Protect state for Managed App Activities - Netskope Knowledge Portal",
+    "content_length": 67,
+    "crawl_timestamp": 1750781488.255282
+  },
+  {
+    "filename": "en_casb-api-protection_e4dd88eb.json",
+    "url": "https://docs.netskope.com/en/casb-api-protection",
+    "title": "CASB API Protection - Netskope Knowledge Portal",
+    "content_length": 1008,
+    "crawl_timestamp": 1750780098.4565928
+  },
+  {
+    "filename": "en_configure-netskope-tenants_8c6097f4.json",
+    "url": "https://docs.netskope.com/en/configure-netskope-tenants",
+    "title": "Netskope Tenants - Netskope Knowledge Portal",
+    "content_length": 2101,
+    "crawl_timestamp": 1750780473.4618309
+  },
+  {
+    "filename": "en_configure-netskope-client-settings_14f192ed.json",
+    "url": "https://docs.netskope.com/en/configure-netskope-client-settings",
+    "title": "Configure Netskope Client Settings - Netskope Knowledge Portal",
+    "content_length": 2965,
+    "crawl_timestamp": 1750780138.802782
+  },
+  {
+    "filename": "en_export-or-import-configurations-144886_1d8b7564.json",
+    "url": "https://docs.netskope.com/en/export-or-import-configurations-144886",
+    "title": "Export or Import Configurations - Netskope Knowledge Portal",
+    "content_length": 340,
+    "crawl_timestamp": 1750780797.7253492
+  },
+  {
+    "filename": "en_schedule-auto-upgrade-for-the-content-and-threat-feed-packages_f3acb4c3.json",
+    "url": "https://docs.netskope.com/en/schedule-auto-upgrade-for-the-content-and-threat-feed-packages",
+    "title": "Schedule Auto-Upgrade for the Content and Threat Feed Packages - Netskope Knowledge Portal",
+    "content_length": 753,
+    "crawl_timestamp": 1750780836.640693
+  },
+  {
+    "filename": "en_netskope-help_data-security_netskope-private-access_publisher-management_manage-a-publisher_de15bf23.json",
+    "url": "https://docs.netskope.com/en/netskope-help/data-security/netskope-private-access/publisher-management/manage-a-publisher/",
+    "title": "Manage a Publisher - Netskope Knowledge Portal",
+    "content_length": 541,
+    "crawl_timestamp": 1750779939.1446831
+  },
+  {
+    "filename": "en_netskope-client-for-android-and-chromeos_54cd96d9.json",
+    "url": "https://docs.netskope.com/en/netskope-client-for-android-and-chromeos/",
+    "title": "Netskope Client For Android and ChromeOS - Netskope Knowledge Portal",
+    "content_length": 9127,
+    "crawl_timestamp": 1750780573.665612
+  },
+  {
+    "filename": "en_about-cloud-exchange_65f359d5.json",
+    "url": "https://docs.netskope.com/en/about-cloud-exchange",
+    "title": "About Cloud Exchange - Netskope Knowledge Portal",
+    "content_length": 1617,
+    "crawl_timestamp": 1750780251.2907572
+  },
+  {
+    "filename": "en_log-shipper-module_76464d31.json",
+    "url": "https://docs.netskope.com/en/log-shipper-module",
+    "title": "Log Shipper Module - Netskope Knowledge Portal",
+    "content_length": 4232,
+    "crawl_timestamp": 1750780258.546506
+  },
+  {
+    "filename": "en_provisioning-users-for-netskope-client_3b540b51.json",
+    "url": "https://docs.netskope.com/en/provisioning-users-for-netskope-client",
+    "title": "Provisioning Users for Netskope Client - Netskope Knowledge Portal",
+    "content_length": 964,
+    "crawl_timestamp": 1750780577.069233
+  },
+  {
+    "filename": "en_threat-protection-protect-state-for-managed-app-activities_059c4a3f.json",
+    "url": "https://docs.netskope.com/en/threat-protection-protect-state-for-managed-app-activities",
+    "title": "Threat Protection \u2013 Protect state for Managed App Activities - Netskope Knowledge Portal",
+    "content_length": 67,
+    "crawl_timestamp": 1750781498.60378
+  },
+  {
+    "filename": "en_netskope-one-for-microsoft-purview-dlp_8abc1e89.json",
+    "url": "https://docs.netskope.com/en/netskope-one-for-microsoft-purview-dlp",
+    "title": "Netskope One for Microsoft Purview DLP - Netskope Knowledge Portal",
+    "content_length": 3095,
+    "crawl_timestamp": 1750780351.1468449
+  },
+  {
+    "filename": "en_manageengine-endpoint-central_8446483c.json",
+    "url": "https://docs.netskope.com/en/manageengine-endpoint-central",
+    "title": "ManageEngine Endpoint Central - Netskope Knowledge Portal",
+    "content_length": 277,
+    "crawl_timestamp": 1750780544.9789681
+  },
+  {
+    "filename": "en_ai-ml-usage-and-governance-in-netskope-products_0eb1b65f.json",
+    "url": "https://docs.netskope.com/en/ai-ml-usage-and-governance-in-netskope-products/",
+    "title": "AI/ML Usage and Governance in Netskope Products - Netskope Knowledge Portal",
+    "content_length": 8055,
+    "crawl_timestamp": 1750780052.59631
+  },
+  {
+    "filename": "en_bypass-netskope-from-your-vpn_5fe0f882.json",
+    "url": "https://docs.netskope.com/en/bypass-netskope-from-your-vpn/",
+    "title": "Bypass Netskope from your VPN - Netskope Knowledge Portal",
+    "content_length": 1331,
+    "crawl_timestamp": 1750780181.269384
+  },
+  {
+    "filename": "en_upload-logs-to-the-netskope-tenant-using-https-144861_b63b16de.json",
+    "url": "https://docs.netskope.com/en/upload-logs-to-the-netskope-tenant-using-https-144861",
+    "title": "Upload Logs to the Netskope Tenant using HTTPS\u00a0 - Netskope Knowledge Portal",
+    "content_length": 867,
+    "crawl_timestamp": 1750781189.244009
+  },
+  {
+    "filename": "en_profiles.html_3cc510c1.json",
+    "url": "https://docs.netskope.com/en/profiles.html",
+    "title": "Profiles - Netskope Knowledge Portal",
+    "content_length": 525,
+    "crawl_timestamp": 1750781577.589938
+  },
+  {
+    "filename": "en_troubleshooting-guide-for-ios-netskope-client-app_afd17e9f.json",
+    "url": "https://docs.netskope.com/en/troubleshooting-guide-for-ios-netskope-client-app",
+    "title": "Troubleshooting Guide for iOS Netskope Client App - Netskope Knowledge Portal",
+    "content_length": 2475,
+    "crawl_timestamp": 1750780637.534514
+  },
+  {
+    "filename": "en_control-aws-apps-using-instance-ids_8c03985c.json",
+    "url": "https://docs.netskope.com/en/control-aws-apps-using-instance-ids",
+    "title": "Control AWS apps using Instance IDs - Netskope Knowledge Portal",
+    "content_length": 542,
+    "crawl_timestamp": 1750781420.66291
+  },
+  {
+    "filename": "en_api-monitor-for-managed-app-activities_ba192c2a.json",
+    "url": "https://docs.netskope.com/en/api-monitor-for-managed-app-activities",
+    "title": "API (Monitor for Managed App Activities) - Netskope Knowledge Portal",
+    "content_length": 544,
+    "crawl_timestamp": 1750781516.733124
+  },
+  {
+    "filename": "en_deploy-a-publisher.html_5d5902fa.json",
+    "url": "https://docs.netskope.com/en/deploy-a-publisher.html",
+    "title": "Deploy a Publisher - Netskope Knowledge Portal",
+    "content_length": 1368,
+    "crawl_timestamp": 1750781588.534754
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_vmware-workspace-one_deploy-client-on-android-using-vmware-workspace-one_85fc7651.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/vmware-workspace-one/deploy-client-on-android-using-vmware-workspace-one/",
+    "title": "Deploy Client on Android Using VMware Workspace ONE - Netskope Knowledge Portal",
+    "content_length": 13774,
+    "crawl_timestamp": 1750781016.723299
+  },
+  {
+    "filename": "en_install-cloud-exchange_dbf3e4b5.json",
+    "url": "https://docs.netskope.com/en/install-cloud-exchange",
+    "title": "Install Cloud Exchange - Netskope Knowledge Portal",
+    "content_length": 2061,
+    "crawl_timestamp": 1750780386.648502
+  },
+  {
+    "filename": "en_tasks_fee5ec22.json",
+    "url": "https://docs.netskope.com/en/tasks",
+    "title": "Tasks - Netskope Knowledge Portal",
+    "content_length": 337,
+    "crawl_timestamp": 1750780262.175711
+  },
+  {
+    "filename": "en_secure-tenant-configuration-and-hardening_bdd839e8.json",
+    "url": "https://docs.netskope.com/en/secure-tenant-configuration-and-hardening/",
+    "title": "Secure Tenant Configuration and Hardening - Netskope Knowledge Portal",
+    "content_length": 30029,
+    "crawl_timestamp": 1750780009.5093749
+  },
+  {
+    "filename": "en_netskope-help_integrations-439794_netskope-cloud-exchange_install-cloud-exchange_cloud-exchange-sso-with-entra-id_0e7d554a.json",
+    "url": "https://docs.netskope.com/en/netskope-help/integrations-439794/netskope-cloud-exchange/install-cloud-exchange/cloud-exchange-sso-with-entra-id/",
+    "title": "Cloud Exchange SSO with Entra ID - Netskope Knowledge Portal",
+    "content_length": 10135,
+    "crawl_timestamp": 1750780404.631254
+  },
+  {
+    "filename": "en_advanced-threat-protection_3f874294.json",
+    "url": "https://docs.netskope.com/en/advanced-threat-protection/",
+    "title": "Advanced Threat Protection - Netskope Knowledge Portal",
+    "content_length": 407,
+    "crawl_timestamp": 1750780080.7462459
+  },
+  {
+    "filename": "en_using-beta-plugins_06935f24.json",
+    "url": "https://docs.netskope.com/en/using-beta-plugins",
+    "title": "Using Beta Plugins - Netskope Knowledge Portal",
+    "content_length": 625,
+    "crawl_timestamp": 1750780455.400048
+  },
+  {
+    "filename": "en_re-enroll-a-publisher_e97bff7f.json",
+    "url": "https://docs.netskope.com/en/re-enroll-a-publisher/",
+    "title": "Re-enroll a Publisher - Netskope Knowledge Portal",
+    "content_length": 648,
+    "crawl_timestamp": 1750781245.777142
+  },
+  {
+    "filename": "en_tasks-cleanup_3e8376a8.json",
+    "url": "https://docs.netskope.com/en/tasks-cleanup",
+    "title": "Tasks Cleanup - Netskope Knowledge Portal",
+    "content_length": 103,
+    "crawl_timestamp": 1750780272.827638
+  },
+  {
+    "filename": "en_upgrade-a-publisher-for-prc-china_56270284.json",
+    "url": "https://docs.netskope.com/en/upgrade-a-publisher-for-prc-china/",
+    "title": "Upgrade a Publisher for PRC (China) - Netskope Knowledge Portal",
+    "content_length": 2284,
+    "crawl_timestamp": 1750781263.589611
+  },
+  {
+    "filename": "en_disable-password-expiry-for-a-publisher_742ffaa4.json",
+    "url": "https://docs.netskope.com/en/disable-password-expiry-for-a-publisher",
+    "title": "Disable Password Expiry for a Publisher - Netskope Knowledge Portal",
+    "content_length": 3226,
+    "crawl_timestamp": 1750781214.0320058
+  },
+  {
+    "filename": "en_netskope-client-for-windows_a4afd26c.json",
+    "url": "https://docs.netskope.com/en/netskope-client-for-windows",
+    "title": "Netskope Client For Windows - Netskope Knowledge Portal",
+    "content_length": 18890,
+    "crawl_timestamp": 1750780512.710547
+  },
+  {
+    "filename": "en_cloud-exchange-console_aaf670e7.json",
+    "url": "https://docs.netskope.com/en/cloud-exchange-console",
+    "title": "Operating Cloud Exchange - Netskope Knowledge Portal",
+    "content_length": 579,
+    "crawl_timestamp": 1750780376.2114508
+  },
+  {
+    "filename": "en_publisher-monitoring_8babaa77.json",
+    "url": "https://docs.netskope.com/en/publisher-monitoring/",
+    "title": "Publisher Monitoring - Netskope Knowledge Portal",
+    "content_length": 12372,
+    "crawl_timestamp": 1750781273.990071
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_provisioning-users-for-netskope-client_6fbf1757.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/provisioning-users-for-netskope-client/",
+    "title": "Provisioning Users for Netskope Client - Netskope Knowledge Portal",
+    "content_length": 964,
+    "crawl_timestamp": 1750779910.857471
+  },
+  {
+    "filename": "en_architectural-advantage-features_62968724.json",
+    "url": "https://docs.netskope.com/en/architectural-advantage-features",
+    "title": "Architectural Advantage Features - Netskope Knowledge Portal",
+    "content_length": 542,
+    "crawl_timestamp": 1750779956.6259892
+  },
+  {
+    "filename": "en_understanding-api-protection_b7144927.json",
+    "url": "https://docs.netskope.com/en/understanding-api-protection/",
+    "title": "Understanding API Protection - Netskope Knowledge Portal",
+    "content_length": 993,
+    "crawl_timestamp": 1750781484.644263
+  },
+  {
+    "filename": "en_publisher-configuration-and-hardening_72eea454.json",
+    "url": "https://docs.netskope.com/en/publisher-configuration-and-hardening",
+    "title": "Publisher Configuration and Hardening - Netskope Knowledge Portal",
+    "content_length": 4188,
+    "crawl_timestamp": 1750781083.237612
+  },
+  {
+    "filename": "en_configure-syslog-on-the-oplp_de2b282a.json",
+    "url": "https://docs.netskope.com/en/configure-syslog-on-the-oplp",
+    "title": "Configure Syslog on the OPLP - Netskope Knowledge Portal",
+    "content_length": 4148,
+    "crawl_timestamp": 1750781146.863235
+  },
+  {
+    "filename": "en_ipsec-129296.html_9bd7019d.json",
+    "url": "https://docs.netskope.com/en/ipsec-129296.html",
+    "title": "Access Denied - Netskope Knowledge Portal",
+    "content_length": 57,
+    "crawl_timestamp": 1750781599.4386501
+  },
+  {
+    "filename": "en_xenmobile_4d19ccec.json",
+    "url": "https://docs.netskope.com/en/xenmobile",
+    "title": "XenMobile - Netskope Knowledge Portal",
+    "content_length": 12716,
+    "crawl_timestamp": 1750780598.4748669
+  },
+  {
+    "filename": "en_configure-netskope-client-settings_6716784d.json",
+    "url": "https://docs.netskope.com/en/configure-netskope-client-settings/",
+    "title": "Configure Netskope Client Settings - Netskope Knowledge Portal",
+    "content_length": 2965,
+    "crawl_timestamp": 1750780174.218787
+  },
+  {
+    "filename": "en_jamf_6172b34b.json",
+    "url": "https://docs.netskope.com/en/jamf/",
+    "title": "JAMF - Netskope Knowledge Portal",
+    "content_length": 18050,
+    "crawl_timestamp": 1750780559.295012
+  },
+  {
+    "filename": "en_set-log-in-attempts-85093_a7d67ab4.json",
+    "url": "https://docs.netskope.com/en/set-log-in-attempts-85093",
+    "title": "Set Log In Attempts - Netskope Knowledge Portal",
+    "content_length": 370,
+    "crawl_timestamp": 1750780748.237364
+  },
+  {
+    "filename": "en_data-center-pinning-in-netskope-client_77b3c1c5.json",
+    "url": "https://docs.netskope.com/en/data-center-pinning-in-netskope-client",
+    "title": "Data Center Pinning In Netskope Client - Netskope Knowledge Portal",
+    "content_length": 2026,
+    "crawl_timestamp": 1750780661.94861
+  },
+  {
+    "filename": "en_integrations-439794_58a944f3.json",
+    "url": "https://docs.netskope.com/en/integrations-439794",
+    "title": "Integrations - Netskope Knowledge Portal",
+    "content_length": 395,
+    "crawl_timestamp": 1750780319.052762
+  },
+  {
+    "filename": "en_sso-configuration_cbbb8db0.json",
+    "url": "https://docs.netskope.com/en/sso-configuration",
+    "title": "SSO Configuration - Netskope Knowledge Portal",
+    "content_length": 1752,
+    "crawl_timestamp": 1750780397.294708
+  },
+  {
+    "filename": "en_netskope-client-enrollment-methods_e1e20e63.json",
+    "url": "https://docs.netskope.com/en/netskope-client-enrollment-methods",
+    "title": "Netskope Client Enrollment Methods - Netskope Knowledge Portal",
+    "content_length": 3816,
+    "crawl_timestamp": 1750780623.422555
+  },
+  {
+    "filename": "en_protect-against-unknown-web-threats_b70374ed.json",
+    "url": "https://docs.netskope.com/en/protect-against-unknown-web-threats",
+    "title": "Protect against unknown web threats - Netskope Knowledge Portal",
+    "content_length": 696,
+    "crawl_timestamp": 1750781434.7312808
+  },
+  {
+    "filename": "en_swg-web-traffic_12480a59.json",
+    "url": "https://docs.netskope.com/en/swg-web-traffic/",
+    "title": "SWG Web traffic - Netskope Knowledge Portal",
+    "content_length": 831,
+    "crawl_timestamp": 1750780073.512293
+  },
+  {
+    "filename": "en_ngswg-basic-policies_95336fe0.json",
+    "url": "https://docs.netskope.com/en/ngswg-basic-policies",
+    "title": "NGSWG Basic Policies - Netskope Knowledge Portal",
+    "content_length": 831,
+    "crawl_timestamp": 1750781396.128874
+  },
+  {
+    "filename": "en_administration_27d65811.json",
+    "url": "https://docs.netskope.com/en/administration",
+    "title": "Administration - Netskope Knowledge Portal",
+    "content_length": 1275,
+    "crawl_timestamp": 1750780751.613193
+  },
+  {
+    "filename": "en_view-users-access-to-cloud-services-geographically_367e76ba.json",
+    "url": "https://docs.netskope.com/en/view-users-access-to-cloud-services-geographically",
+    "title": "View users access to cloud services geographically - Netskope Knowledge Portal",
+    "content_length": 911,
+    "crawl_timestamp": 1750781325.3954391
+  },
+  {
+    "filename": "en_virtual-appliance-configuration-scenarios_591d2dfc.json",
+    "url": "https://docs.netskope.com/en/virtual-appliance-configuration-scenarios",
+    "title": "Virtual Appliance Configuration Scenarios - Netskope Knowledge Portal",
+    "content_length": 3745,
+    "crawl_timestamp": 1750780914.345762
+  },
+  {
+    "filename": "en_netskope-help_integrations-439794_netskope-cloud-exchange_cloud-exchange-console_settings_secrets-manager_0f92e9a1.json",
+    "url": "https://docs.netskope.com/en/netskope-help/integrations-439794/netskope-cloud-exchange/cloud-exchange-console/settings/secrets-manager/",
+    "title": "Secrets Manager - Netskope Knowledge Portal",
+    "content_length": 1199,
+    "crawl_timestamp": 1750779893.262208
+  },
+  {
+    "filename": "en_upgrade-the-additional-appliance-packages_d097b78f.json",
+    "url": "https://docs.netskope.com/en/upgrade-the-additional-appliance-packages/",
+    "title": "Upgrade the Additional Appliance Packages - Netskope Knowledge Portal",
+    "content_length": 4219,
+    "crawl_timestamp": 1750780921.127906
+  },
+  {
+    "filename": "en_private-access-faqs_0576c2be.json",
+    "url": "https://docs.netskope.com/en/private-access-faqs",
+    "title": "Private Access FAQs - Netskope Knowledge Portal",
+    "content_length": 22574,
+    "crawl_timestamp": 1750781047.6481931
+  },
+  {
+    "filename": "en_swg-web-traffic_0bee4e4b.json",
+    "url": "https://docs.netskope.com/en/swg-web-traffic",
+    "title": "SWG Web traffic - Netskope Knowledge Portal",
+    "content_length": 831,
+    "crawl_timestamp": 1750780087.769859
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_unmanaged-device-protection_monitor-unmanaged-device-protection_monitor-activity-with-reverse-proxy-as-an-access-method_247ea077.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/unmanaged-device-protection/monitor-unmanaged-device-protection/monitor-activity-with-reverse-proxy-as-an-access-method/",
+    "title": "Monitor activity with reverse proxy as an access method - Netskope Knowledge Portal",
+    "content_length": 1160,
+    "crawl_timestamp": 1750781308.999885
+  },
+  {
+    "filename": "en_upload-logs-from-an-amazon-s3-bucket_42b43b7d.json",
+    "url": "https://docs.netskope.com/en/upload-logs-from-an-amazon-s3-bucket/",
+    "title": "Upload Logs from an Amazon S3 Bucket - Netskope Knowledge Portal",
+    "content_length": 1143,
+    "crawl_timestamp": 1750781157.520161
+  },
+  {
+    "filename": "en_netskope-help_integrations-439794_netskope-cloud-exchange_threat-exchange-module_3334ca61.json",
+    "url": "https://docs.netskope.com/en/netskope-help/integrations-439794/netskope-cloud-exchange/threat-exchange-module/",
+    "title": "Threat Exchange Module - Netskope Knowledge Portal",
+    "content_length": 1644,
+    "crawl_timestamp": 1750781284.889398
+  },
+  {
+    "filename": "en_netskope-help_admin-console_rest-api_netskope-platform-rest-apis_get-events-data_5814184d.json",
+    "url": "https://docs.netskope.com/en/netskope-help/admin-console/rest-api/netskope-platform-rest-apis/get-events-data/",
+    "title": "Get Events Data - Netskope Knowledge Portal",
+    "content_length": 3958,
+    "crawl_timestamp": 1750780226.8518422
+  },
+  {
+    "filename": "en_netskope-borderless-wan-tenant-v1-1-0-plugin_404fbcd3.json",
+    "url": "https://docs.netskope.com/en/netskope-borderless-wan-tenant-v1-1-0-plugin",
+    "title": "Netskope Borderless WAN Tenant v1.1.0 Plugin - Netskope Knowledge Portal",
+    "content_length": 5736,
+    "crawl_timestamp": 1750780462.776065
+  },
+  {
+    "filename": "en_ipsec-and-gre_f9f68abd.json",
+    "url": "https://docs.netskope.com/en/ipsec-and-gre",
+    "title": "IPSec and GRE - Netskope Knowledge Portal",
+    "content_length": 817,
+    "crawl_timestamp": 1750780333.614319
+  },
+  {
+    "filename": "en_advanced-log-upload-commands-144862_e68a1b71.json",
+    "url": "https://docs.netskope.com/en/advanced-log-upload-commands-144862/",
+    "title": "Advanced Log Upload Commands - Netskope Knowledge Portal",
+    "content_length": 1146,
+    "crawl_timestamp": 1750781128.934412
+  },
+  {
+    "filename": "en_set-idle-timeout-179029_88ad164c.json",
+    "url": "https://docs.netskope.com/en/set-idle-timeout-179029",
+    "title": "Set Idle Timeout - Netskope Knowledge Portal",
+    "content_length": 229,
+    "crawl_timestamp": 1750780730.75214
+  },
+  {
+    "filename": "en_netskope-private-access_7bc46c03.json",
+    "url": "https://docs.netskope.com/en/netskope-private-access",
+    "title": "Netskope One Private Access - Netskope Knowledge Portal",
+    "content_length": 8173,
+    "crawl_timestamp": 1750781076.1604638
+  },
+  {
+    "filename": "en_netskope-help_admin-console_rest-api_netskope-platform-rest-apis_manage-user-roles_1ae66418.json",
+    "url": "https://docs.netskope.com/en/netskope-help/admin-console/rest-api/netskope-platform-rest-apis/manage-user-roles/",
+    "title": "Manage User Roles - Netskope Knowledge Portal",
+    "content_length": 315,
+    "crawl_timestamp": 1750780212.789267
+  },
+  {
+    "filename": "en_view-private-apps-and-network-events-in-skope-it_5019f1ee.json",
+    "url": "https://docs.netskope.com/en/view-private-apps-and-network-events-in-skope-it",
+    "title": "View Private Apps and Network Events in Skope IT - Netskope Knowledge Portal",
+    "content_length": 1430,
+    "crawl_timestamp": 1750781125.3165
+  },
+  {
+    "filename": "en_product-terms-and-use_8144a5ce.json",
+    "url": "https://docs.netskope.com/en/product-terms-and-use/",
+    "title": "Product Terms and Use - Netskope Knowledge Portal",
+    "content_length": 173,
+    "crawl_timestamp": 1750780002.313278
+  },
+  {
+    "filename": "en_netskope-private-access-for-microsoft-active-directory-domain-services_171e42f1.json",
+    "url": "https://docs.netskope.com/en/netskope-private-access-for-microsoft-active-directory-domain-services",
+    "title": "Netskope Private Access for Microsoft Active Directory Domain Services - Netskope Knowledge Portal",
+    "content_length": 6249,
+    "crawl_timestamp": 1750781058.396755
+  },
+  {
+    "filename": "en_netskope-scim-settings_60277576.json",
+    "url": "https://docs.netskope.com/en/netskope-scim-settings/",
+    "title": "SCIM Settings for User Provisioning - Netskope Knowledge Portal",
+    "content_length": 2365,
+    "crawl_timestamp": 1750780230.231321
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_vendor-risk-assessment_provide-a-risk-assessment-of-a-cloud-service-using-cci_7881428d.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/vendor-risk-assessment/provide-a-risk-assessment-of-a-cloud-service-using-cci/",
+    "title": "Provide a risk assessment of a cloud service using CCI - Netskope Knowledge Portal",
+    "content_length": 1516,
+    "crawl_timestamp": 1750781367.237591
+  },
+  {
+    "filename": "en_netskope-client-for-linux_28fc838c.json",
+    "url": "https://docs.netskope.com/en/netskope-client-for-linux",
+    "title": "Netskope Client For Linux - Netskope Knowledge Portal",
+    "content_length": 7965,
+    "crawl_timestamp": 1750780497.9642801
+  },
+  {
+    "filename": "en_netskope-help_integrations-439794_netskope-adapters_4e08d919.json",
+    "url": "https://docs.netskope.com/en/netskope-help/integrations-439794/netskope-adapters/",
+    "title": "404 - Netskope Knowledge Portal",
+    "content_length": 165,
+    "crawl_timestamp": 1750780233.635535
+  },
+  {
+    "filename": "en_general_d7ca4652.json",
+    "url": "https://docs.netskope.com/en/general",
+    "title": "General - Netskope Knowledge Portal",
+    "content_length": 269,
+    "crawl_timestamp": 1750780372.534538
+  },
+  {
+    "filename": "en_bypass-netskope-from-your-vpn_5232128b.json",
+    "url": "https://docs.netskope.com/en/bypass-netskope-from-your-vpn",
+    "title": "Bypass Netskope from your VPN - Netskope Knowledge Portal",
+    "content_length": 1331,
+    "crawl_timestamp": 1750780121.201545
+  },
+  {
+    "filename": "en_netskope-product-eol-announcements_94d04e48.json",
+    "url": "https://docs.netskope.com/en/netskope-product-eol-announcements/",
+    "title": "Netskope Product EOL/EOS Announcements - Netskope Knowledge Portal",
+    "content_length": 10372,
+    "crawl_timestamp": 1750779878.904882
+  },
+  {
+    "filename": "en_ai-ml-usage-and-governance-in-netskope-products_8905940b.json",
+    "url": "https://docs.netskope.com/en/ai-ml-usage-and-governance-in-netskope-products",
+    "title": "AI/ML Usage and Governance in Netskope Products - Netskope Knowledge Portal",
+    "content_length": 8055,
+    "crawl_timestamp": 1750780059.884093
+  },
+  {
+    "filename": "en_configure-directory-importer_c007f076.json",
+    "url": "https://docs.netskope.com/en/configure-directory-importer/",
+    "title": "Configure Directory Importer - Netskope Knowledge Portal",
+    "content_length": 12780,
+    "crawl_timestamp": 1750780787.3188212
+  },
+  {
+    "filename": "en_google-workspace_ffe9da14.json",
+    "url": "https://docs.netskope.com/en/google-workspace",
+    "title": "Google Workspace - Netskope Knowledge Portal",
+    "content_length": 8093,
+    "crawl_timestamp": 1750780527.2824872
+  },
+  {
+    "filename": "en_using-netskope-client_d878d506.json",
+    "url": "https://docs.netskope.com/en/using-netskope-client",
+    "title": "Using Netskope Client - Netskope Knowledge Portal",
+    "content_length": 23971,
+    "crawl_timestamp": 1750780686.712147
+  },
+  {
+    "filename": "en_threat-protection-features_f1855a90.json",
+    "url": "https://docs.netskope.com/en/threat-protection-features",
+    "title": "Threat Protection Features - Netskope Knowledge Portal",
+    "content_length": 828,
+    "crawl_timestamp": 1750779984.881227
+  },
+  {
+    "filename": "en_netskope-help_admin-console_rest-api_netskope-platform-rest-apis_get-alerts-data_cddf46a4.json",
+    "url": "https://docs.netskope.com/en/netskope-help/admin-console/rest-api/netskope-platform-rest-apis/get-alerts-data/",
+    "title": "Get Alerts Data - Netskope Knowledge Portal",
+    "content_length": 13482,
+    "crawl_timestamp": 1750780223.457155
+  },
+  {
+    "filename": "en_microsoft-intune.html_979151dc.json",
+    "url": "https://docs.netskope.com/en/microsoft-intune.html",
+    "title": "Microsoft Intune - Netskope Knowledge Portal",
+    "content_length": 678,
+    "crawl_timestamp": 1750781548.55759
+  },
+  {
+    "filename": "en_enable-kernel-updates_9d23f795.json",
+    "url": "https://docs.netskope.com/en/enable-kernel-updates",
+    "title": "Enable Kernel Updates - Netskope Knowledge Portal",
+    "content_length": 2399,
+    "crawl_timestamp": 1750781224.417971
+  },
+  {
+    "filename": "en_jamf-pro_eb8e6763.json",
+    "url": "https://docs.netskope.com/en/jamf-pro",
+    "title": "Jamf Pro - Netskope Knowledge Portal",
+    "content_length": 5944,
+    "crawl_timestamp": 1750780516.3954618
+  },
+  {
+    "filename": "en_incidents_903b10f2.json",
+    "url": "https://docs.netskope.com/en/incidents",
+    "title": "Incidents - Netskope Knowledge Portal",
+    "content_length": 579,
+    "crawl_timestamp": 1750780740.945759
+  },
+  {
+    "filename": "en_risk-exchange-v1-1-1-plugin_d6ca26d4.json",
+    "url": "https://docs.netskope.com/en/risk-exchange-v1-1-1-plugin",
+    "title": "Risk Exchange v1.1.1 Plugin - Netskope Knowledge Portal",
+    "content_length": 22317,
+    "crawl_timestamp": 1750780419.2081761
+  },
+  {
+    "filename": "en_verify-the-log-parser-connection_356abdd5.json",
+    "url": "https://docs.netskope.com/en/verify-the-log-parser-connection",
+    "title": "Verify the Log Parser Connection - Netskope Knowledge Portal",
+    "content_length": 375,
+    "crawl_timestamp": 1750781139.576203
+  },
+  {
+    "filename": "en_shadow-it-identifying-unsanctioned-aws-accounts-using-advanced-analytics_0aeb1faa.json",
+    "url": "https://docs.netskope.com/en/shadow-it-identifying-unsanctioned-aws-accounts-using-advanced-analytics",
+    "title": "Shadow IT \u2013 Identifying unsanctioned AWS accounts using Advanced Analytics - Netskope Knowledge Portal",
+    "content_length": 296,
+    "crawl_timestamp": 1750781438.3611069
+  },
+  {
+    "filename": "en_managing-administrators-for-rbac-v3_4b4849ef.json",
+    "url": "https://docs.netskope.com/en/managing-administrators-for-rbac-v3",
+    "title": "Managing Administrators for RBAC V3 - Netskope Knowledge Portal",
+    "content_length": 1113,
+    "crawl_timestamp": 1750780772.7107468
+  },
+  {
+    "filename": "en_netskope-sso-with-adfs_aa2db439.json",
+    "url": "https://docs.netskope.com/en/netskope-sso-with-adfs",
+    "title": "Single Sign On with ADFS - Netskope Knowledge Portal",
+    "content_length": 1133,
+    "crawl_timestamp": 1750780783.648659
+  },
+  {
+    "filename": "en_view-top-apps-activities-and-data-by-usage_d9e0f173.json",
+    "url": "https://docs.netskope.com/en/view-top-apps-activities-and-data-by-usage",
+    "title": "View top apps, activities, and data by usage - Netskope Knowledge Portal",
+    "content_length": 1351,
+    "crawl_timestamp": 1750781321.997561
+  },
+  {
+    "filename": "en_secrets-manager_09549310.json",
+    "url": "https://docs.netskope.com/en/secrets-manager",
+    "title": "Secrets Manager - Netskope Knowledge Portal",
+    "content_length": 1199,
+    "crawl_timestamp": 1750780304.5564811
+  },
+  {
+    "filename": "en_explore-the-dashboards_e0614e60.json",
+    "url": "https://docs.netskope.com/en/explore-the-dashboards",
+    "title": "Explore the Dashboards - Netskope Knowledge Portal",
+    "content_length": 9409,
+    "crawl_timestamp": 1750780423.152674
+  },
+  {
+    "filename": "en_netskope-client-resource-utilization_5bed5941.json",
+    "url": "https://docs.netskope.com/en/netskope-client-resource-utilization",
+    "title": "Netskope Client Resource Utilization - Netskope Knowledge Portal",
+    "content_length": 1612,
+    "crawl_timestamp": 1750780651.700143
+  },
+  {
+    "filename": "en_view-top-cloud-categories-by-usage_d00e7bdb.json",
+    "url": "https://docs.netskope.com/en/view-top-cloud-categories-by-usage",
+    "title": "View top cloud categories by usage - Netskope Knowledge Portal",
+    "content_length": 1138,
+    "crawl_timestamp": 1750781328.780402
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_jamf_3fa072f3.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/jamf/",
+    "title": "JAMF - Netskope Knowledge Portal",
+    "content_length": 18050,
+    "crawl_timestamp": 1750781009.423975
+  },
+  {
+    "filename": "en_log-in-to-the-appliance_152c3fa2.json",
+    "url": "https://docs.netskope.com/en/log-in-to-the-appliance",
+    "title": "Log in to the Appliance - Netskope Knowledge Portal",
+    "content_length": 2790,
+    "crawl_timestamp": 1750780840.283551
+  },
+  {
+    "filename": "en_create-a-real-time-protection-policy-for-web-categories.html_570648ec.json",
+    "url": "https://docs.netskope.com/en/create-a-real-time-protection-policy-for-web-categories.html",
+    "title": "Create a Real-time Protection Policy for Web Categories - Netskope Knowledge Portal",
+    "content_length": 2462,
+    "crawl_timestamp": 1750781602.8427122
+  },
+  {
+    "filename": "en_local-broker-management_be82b80a.json",
+    "url": "https://docs.netskope.com/en/local-broker-management",
+    "title": "Local Broker Management - Netskope Knowledge Portal",
+    "content_length": 3875,
+    "crawl_timestamp": 1750781118.505503
+  },
+  {
+    "filename": "en_plugins_71685bed.json",
+    "url": "https://docs.netskope.com/en/plugins",
+    "title": "Plugins - Netskope Knowledge Portal",
+    "content_length": 812,
+    "crawl_timestamp": 1750780379.621842
+  },
+  {
+    "filename": "en_observe-cloud-app-activities-oplp-and-risk-insights_99ec6b60.json",
+    "url": "https://docs.netskope.com/en/observe-cloud-app-activities-oplp-and-risk-insights",
+    "title": "Observe Cloud App Activities (OPLP) and Risk Insights - Netskope Knowledge Portal",
+    "content_length": 2734,
+    "crawl_timestamp": 1750780066.71045
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_swg-web-traffic_ngswg-basic-policies_filtering-top-level-domains_02d13a62.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/swg-web-traffic/ngswg-basic-policies/filtering-top-level-domains/",
+    "title": "Filtering Top Level Domains - Netskope Knowledge Portal",
+    "content_length": 939,
+    "crawl_timestamp": 1750781381.807903
+  },
+  {
+    "filename": "en_evaluate-cves-in-ubuntu-20-04-publisher-images_ecddc489.json",
+    "url": "https://docs.netskope.com/en/evaluate-cves-in-ubuntu-20-04-publisher-images",
+    "title": "Evaluate CVEs in Ubuntu 20.04 Publisher Images - Netskope Knowledge Portal",
+    "content_length": 3191,
+    "crawl_timestamp": 1750781104.479566
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_observe-cloud-app-activities-oplp-and-risk-insights_visibility-on-data-movements-to-and-from-cloud-services_8065c057.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/observe-cloud-app-activities-oplp-and-risk-insights/visibility-on-data-movements-to-and-from-cloud-services/",
+    "title": "Visibility on data movements to and from cloud services - Netskope Knowledge Portal",
+    "content_length": 1759,
+    "crawl_timestamp": 1750781342.8017302
+  },
+  {
+    "filename": "en_manage-a-publisher_55513d86.json",
+    "url": "https://docs.netskope.com/en/manage-a-publisher",
+    "title": "Manage a Publisher - Netskope Knowledge Portal",
+    "content_length": 541,
+    "crawl_timestamp": 1750781101.0379992
+  },
+  {
+    "filename": "en_netskope-client-hardening_ea26353d.json",
+    "url": "https://docs.netskope.com/en/netskope-client-hardening",
+    "title": "Netskope Client Hardening - Netskope Knowledge Portal",
+    "content_length": 2613,
+    "crawl_timestamp": 1750780668.991133
+  },
+  {
+    "filename": "en_saas-iaas-web-discovery-and-risk-assessment-features_a68bb0cc.json",
+    "url": "https://docs.netskope.com/en/saas-iaas-web-discovery-and-risk-assessment-features",
+    "title": "SaaS, IaaS, Web Discovery, and Risk Assessment Features - Netskope Knowledge Portal",
+    "content_length": 911,
+    "crawl_timestamp": 1750779967.450925
+  },
+  {
+    "filename": "en_netskope-help_admin-console_rest-api_netskope-platform-rest-apis_update-a-url-list_0a0e0147.json",
+    "url": "https://docs.netskope.com/en/netskope-help/admin-console/rest-api/netskope-platform-rest-apis/update-a-url-list/",
+    "title": "Update a URL List - Netskope Knowledge Portal",
+    "content_length": 742,
+    "crawl_timestamp": 1750780237.246764
+  },
+  {
+    "filename": "en_configure-the-virtual-appliance_2456db86.json",
+    "url": "https://docs.netskope.com/en/configure-the-virtual-appliance",
+    "title": "Configure the Virtual Appliance - Netskope Knowledge Portal",
+    "content_length": 614,
+    "crawl_timestamp": 1750780938.7133682
+  },
+  {
+    "filename": "en_cloud-exchange-settings_31465f54.json",
+    "url": "https://docs.netskope.com/en/cloud-exchange-settings",
+    "title": "Settings - Netskope Knowledge Portal",
+    "content_length": 296,
+    "crawl_timestamp": 1750780311.640569
+  },
+  {
+    "filename": "en_azure-virtual-desktop_34becad0.json",
+    "url": "https://docs.netskope.com/en/azure-virtual-desktop",
+    "title": "Azure Virtual Desktop - Netskope Knowledge Portal",
+    "content_length": 6316,
+    "crawl_timestamp": 1750780494.549592
+  },
+  {
+    "filename": "en_verify-the-log-parser-connection_658d02ad.json",
+    "url": "https://docs.netskope.com/en/verify-the-log-parser-connection/",
+    "title": "Verify the Log Parser Connection - Netskope Knowledge Portal",
+    "content_length": 375,
+    "crawl_timestamp": 1750781175.43736
+  },
+  {
+    "filename": "en_inline-monitoring-for-cloud-apps.html_3973c285.json",
+    "url": "https://docs.netskope.com/en/inline-monitoring-for-cloud-apps.html",
+    "title": "Inline monitoring for Cloud apps - Netskope Knowledge Portal",
+    "content_length": 911,
+    "crawl_timestamp": 1750781581.2781281
+  },
+  {
+    "filename": "en_microsoft-endpoint-configuration-manager.html_ac736035.json",
+    "url": "https://docs.netskope.com/en/microsoft-endpoint-configuration-manager.html",
+    "title": "Microsoft Endpoint Configuration Manager - Netskope Knowledge Portal",
+    "content_length": 5190,
+    "crawl_timestamp": 1750781573.728873
+  },
+  {
+    "filename": "en_encryption-and-tokenization-features_ff4db847.json",
+    "url": "https://docs.netskope.com/en/encryption-and-tokenization-features",
+    "title": "Encryption and Tokenization Features - Netskope Knowledge Portal",
+    "content_length": 698,
+    "crawl_timestamp": 1750779988.272403
+  },
+  {
+    "filename": "en_remove-an-appliance-177438_41036ada.json",
+    "url": "https://docs.netskope.com/en/remove-an-appliance-177438",
+    "title": "Remove an Appliance - Netskope Knowledge Portal",
+    "content_length": 922,
+    "crawl_timestamp": 1750780843.907398
+  },
+  {
+    "filename": "en_netskope-help_netskope-client_netskope-client-deployment-options_vmware-workspace-one_deploy-client-on-ios-using-vmware-workspace-one_f97f392f.json",
+    "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/vmware-workspace-one/deploy-client-on-ios-using-vmware-workspace-one/",
+    "title": "Deploy Client on iOS Using VMware Workspace ONE - Netskope Knowledge Portal",
+    "content_length": 9190,
+    "crawl_timestamp": 1750781027.0405838
+  },
+  {
+    "filename": "en_the-new-knowledge-portal_cfd147f8.json",
+    "url": "https://docs.netskope.com/en/the-new-knowledge-portal",
+    "title": "The New Knowledge Portal - Netskope Knowledge Portal",
+    "content_length": 2305,
+    "crawl_timestamp": 1750779850.668515
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_swg-web-traffic_ngswg-basic-policies_filtering-traffic-to-high-risk-countries_694c8bc8.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/swg-web-traffic/ngswg-basic-policies/filtering-traffic-to-high-risk-countries/",
+    "title": "Filtering Traffic to High-Risk Countries - Netskope Knowledge Portal",
+    "content_length": 1106,
+    "crawl_timestamp": 1750781392.717534
+  },
+  {
+    "filename": "en_cloud-confidence-index_72997c71.json",
+    "url": "https://docs.netskope.com/en/cloud-confidence-index",
+    "title": "App Catalog - Netskope Knowledge Portal",
+    "content_length": 2034,
+    "crawl_timestamp": 1750780758.385772
+  },
+  {
+    "filename": "en_create-a-real-time-protection-policy-for-private-apps_d10c9829.json",
+    "url": "https://docs.netskope.com/en/create-a-real-time-protection-policy-for-private-apps",
+    "title": "Create a Real-time Protection Policy for Private Apps - Netskope Knowledge Portal",
+    "content_length": 5953,
+    "crawl_timestamp": 1750781090.520341
+  },
+  {
+    "filename": "en_microsoft-intune_d826577f.json",
+    "url": "https://docs.netskope.com/en/microsoft-intune",
+    "title": "Microsoft Intune - Netskope Knowledge Portal",
+    "content_length": 678,
+    "crawl_timestamp": 1750780487.5518851
+  },
+  {
+    "filename": "en_eol-eos-for-dpop-r99-438638_1d737dd8.json",
+    "url": "https://docs.netskope.com/en/eol-eos-for-dpop-r99-438638",
+    "title": "EOL/EOS for DPoP r99 - Netskope Knowledge Portal",
+    "content_length": 1590,
+    "crawl_timestamp": 1750780882.6126342
+  },
+  {
+    "filename": "en_threat-protection-features_653afb66.json",
+    "url": "https://docs.netskope.com/en/threat-protection-features/",
+    "title": "Threat Protection Features - Netskope Knowledge Portal",
+    "content_length": 828,
+    "crawl_timestamp": 1750779960.043721
+  },
+  {
+    "filename": "en_policy-notification-templates.html_c684c491.json",
+    "url": "https://docs.netskope.com/en/policy-notification-templates.html",
+    "title": "Policy Notification Templates - Netskope Knowledge Portal",
+    "content_length": 9125,
+    "crawl_timestamp": 1750781610.01529
+  },
+  {
+    "filename": "en_upload-logs-from-an-amazon-s3-bucket_c716f535.json",
+    "url": "https://docs.netskope.com/en/upload-logs-from-an-amazon-s3-bucket",
+    "title": "Upload Logs from an Amazon S3 Bucket - Netskope Knowledge Portal",
+    "content_length": 1143,
+    "crawl_timestamp": 1750781132.5660312
+  },
+  {
+    "filename": "en_add-bypasses-in-netskope_0a9b9d0b.json",
+    "url": "https://docs.netskope.com/en/add-bypasses-in-netskope/",
+    "title": "Add Bypasses in Netskope - Netskope Knowledge Portal",
+    "content_length": 5066,
+    "crawl_timestamp": 1750780191.6769989
+  },
+  {
+    "filename": "en_supported-integrations-features_fa629a33.json",
+    "url": "https://docs.netskope.com/en/supported-integrations-features/",
+    "title": "Supported Integrations Features - Netskope Knowledge Portal",
+    "content_length": 1022,
+    "crawl_timestamp": 1750779998.678029
+  },
+  {
+    "filename": "en_netskope-help_integrations-439794_netskope-cloud-exchange_install-cloud-exchange_upgrading-to-the-latest-version-of-cloud-exchange_902644de.json",
+    "url": "https://docs.netskope.com/en/netskope-help/integrations-439794/netskope-cloud-exchange/install-cloud-exchange/upgrading-to-the-latest-version-of-cloud-exchange/",
+    "title": "404 - Netskope Knowledge Portal",
+    "content_length": 165,
+    "crawl_timestamp": 1750779949.845911
+  },
+  {
+    "filename": "en_product-intelligence_50dd8c23.json",
+    "url": "https://docs.netskope.com/en/product-intelligence/",
+    "title": "Product Intelligence - Netskope Knowledge Portal",
+    "content_length": 174,
+    "crawl_timestamp": 1750780020.45437
+  },
+  {
+    "filename": "en_cloud-exchange-proxy_b62e4c04.json",
+    "url": "https://docs.netskope.com/en/cloud-exchange-proxy",
+    "title": "Cloud Exchange Proxy - Netskope Knowledge Portal",
+    "content_length": 515,
+    "crawl_timestamp": 1750780300.9023092
+  },
+  {
+    "filename": "en_factory-reset-appliance-159953_d9ac83dd.json",
+    "url": "https://docs.netskope.com/en/factory-reset-appliance-159953",
+    "title": "Factory Reset Appliance - Netskope Knowledge Portal",
+    "content_length": 1214,
+    "crawl_timestamp": 1750780900.470798
+  },
+  {
+    "filename": "en_netskope-security-cloud-features_aefba060.json",
+    "url": "https://docs.netskope.com/en/netskope-security-cloud-features",
+    "title": "Netskope Security Cloud Features - Netskope Knowledge Portal",
+    "content_length": 275,
+    "crawl_timestamp": 1750779854.273695
+  },
+  {
+    "filename": "en_netskope-help_getting-started_netskope-success-resource-center_unmanaged-device-protection_protect-unmanaged-device-protection_block-unmanaged-devices-from-malicious-files-uploaded-or-downloaded-from-our-sanctioned-apps_79be0b6f.json",
+    "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/unmanaged-device-protection/protect-unmanaged-device-protection/block-unmanaged-devices-from-malicious-files-uploaded-or-downloaded-from-our-sanctioned-apps/",
+    "title": "Block unmanaged devices from malicious files uploaded or downloaded from our sanctioned apps - Netskope Knowledge Portal",
+    "content_length": 657,
+    "crawl_timestamp": 1750781318.601729
+  },
+  {
+    "filename": "en_sso-with-entra-id_04d7bda2.json",
+    "url": "https://docs.netskope.com/en/sso-with-entra-id",
+    "title": "Single Sign On with Entra ID - Netskope Knowledge Portal",
+    "content_length": 3955,
+    "crawl_timestamp": 1750780708.7813702
+  },
+  {
+    "filename": "en_netskope-help_data-security_netskope-secure-web-gateway_choose-a-traffic-steering-method_dataplane-on-premises-appliance_steer-traffic-through-the-appliance_configure-the-appliance-in-explicit-proxy-mode_f882765f.json",
+    "url": "https://docs.netskope.com/en/netskope-help/data-security/netskope-secure-web-gateway/choose-a-traffic-steering-method/dataplane-on-premises-appliance/steer-traffic-through-the-appliance/configure-the-appliance-in-explicit-proxy-mode/",
+    "title": "Configure the Appliance in Explicit Proxy Mode - Netskope Knowledge Portal",
+    "content_length": 5804,
+    "crawl_timestamp": 1750780209.402518
+  },
+  {
+    "filename": "en_configure-syslog-on-the-oplp_3344daef.json",
+    "url": "https://docs.netskope.com/en/configure-syslog-on-the-oplp/",
+    "title": "Configure Syslog on the OPLP - Netskope Knowledge Portal",
+    "content_length": 4148,
+    "crawl_timestamp": 1750781179.057024
+  },
+  {
+    "filename": "microlearning-video-library_7107074e.json",
+    "url": "https://docs.netskope.com/microlearning-video-library/",
+    "title": "Microlearning Video Library - Netskope Knowledge Portal",
+    "content_length": 174,
+    "crawl_timestamp": 1750780016.8273761
+  },
+  {
+    "filename": "en_create-roles_b0ee36cd.json",
+    "url": "https://docs.netskope.com/en/create-roles",
+    "title": "Create Roles - Netskope Knowledge Portal",
+    "content_length": 2775,
+    "crawl_timestamp": 1750780960.0316758
+  },
+  {
+    "filename": "en_manage_e60649ca.json",
+    "url": "https://docs.netskope.com/en/manage",
+    "title": "Manage - Netskope Knowledge Portal",
+    "content_length": 191,
+    "crawl_timestamp": 1750780716.049227
+  },
+  {
+    "filename": "en_mobileiron-cloud.html_4d85e648.json",
+    "url": "https://docs.netskope.com/en/mobileiron-cloud.html",
+    "title": "Ivanti Neurons(MobileIron Cloud) - Netskope Knowledge Portal",
+    "content_length": 1353,
+    "crawl_timestamp": 1750781563.005763
+  },
+  {
+    "filename": "en_virtual-appliance-overview_838a4130.json",
+    "url": "https://docs.netskope.com/en/virtual-appliance-overview",
+    "title": "Virtual Appliance Overview - Netskope Knowledge Portal",
+    "content_length": 7993,
+    "crawl_timestamp": 1750780854.3463721
+  },
+  {
+    "filename": "en_exporting-configurations_9a40bcda.json",
+    "url": "https://docs.netskope.com/en/exporting-configurations/",
+    "title": "Exporting Configurations - Netskope Knowledge Portal",
+    "content_length": 1438,
+    "crawl_timestamp": 1750780875.625252
+  },
+  {
+    "filename": "en_rbac-best-practices_74dd145a.json",
+    "url": "https://docs.netskope.com/en/rbac-best-practices",
+    "title": "RBAC Best Practices - Netskope Knowledge Portal",
+    "content_length": 513,
+    "crawl_timestamp": 1750780949.386461
+  }
+]

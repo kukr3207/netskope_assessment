@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/monitor-the-oplp-status",
+  "title": "Monitor the OPLP Status - Netskope Knowledge Portal",
+  "content": "You can monitor the status of the OPLP appliance using the tenant UI and the log processing status using a command line interface (CLI). Using the tenant UI, you can also set up alerts to receive emails when the OPLP status changes. Monitor Status using the Tenant UI Monitor Log Processing Status using a Command Line Interface",
+  "content_length": 328,
+  "crawl_timestamp": 1750780907.254178
+}

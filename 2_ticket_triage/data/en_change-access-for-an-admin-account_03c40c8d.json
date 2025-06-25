@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/change-access-for-an-admin-account",
+  "title": "Change Access for an Admin Account - Netskope Knowledge Portal",
+  "content": "The tenant admin can enable or disable other admin users. For example, if an admin gets locked out of the UI, you can restore access. To enable or disable an admin: Go to Settings > Administration > Admin . Click the Enable toggle next to the admin username to lock or unlock the account.",
+  "content_length": 288,
+  "crawl_timestamp": 1750780719.7899442
+}

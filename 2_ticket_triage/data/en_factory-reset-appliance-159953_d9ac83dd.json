@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/factory-reset-appliance-159953",
+  "title": "Factory Reset Appliance - Netskope Knowledge Portal",
+  "content": "You can use factory reset to restore the appliance to it’s original state. A factory reset will permanently delete all the configurations and data on the appliance and cannot be recovered. Warning Before you run a factory reset, ensure the following: Download the current version of the software. Take a backup of the necessary configuration and data files. For information on how to export and import your configurations, see Export or Import Configurations . To run a factory reset on an appliance, In the Netskope shell, run show version-info to identify the current version of the software running on the appliance. Download the software package from the Netskope UI by navigating to Settings > Security Cloud Platform > On-Premises Infrastructure . Verify that the package is downloaded and the package name includes _current . Warning If the downloaded package is not the same as the current software version on the appliance, the factory reset will not complete. In the Netskope shell, run reset full . The command will return a confirmation prompt to confirm that you want to proceed. If you want to proceed with the factory reset, type yes . After reset, the appliance will reboot and prompt you to login.",
+  "content_length": 1214,
+  "crawl_timestamp": 1750780900.470798
+}

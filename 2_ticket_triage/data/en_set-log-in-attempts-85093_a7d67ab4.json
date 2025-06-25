@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/set-log-in-attempts-85093",
+  "title": "Set Log In Attempts - Netskope Knowledge Portal",
+  "content": "You can specify the number of log in attempts that can be allowed before the admin user is locked out of the UI. The default setting allows up to 5 failed login attempts. To set log in attempts: To change the default go to Settings > Administration > Admins . On the top right-hand side, click the Tools icon to modify the allowed number of log in attempts. Click Save .",
+  "content_length": 370,
+  "crawl_timestamp": 1750780748.237364
+}

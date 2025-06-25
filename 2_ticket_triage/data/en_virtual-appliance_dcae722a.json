@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/virtual-appliance",
+  "title": "Virtual Appliance - Netskope Knowledge Portal",
+  "content": "The Netskope Virtual Appliance can be used to steer traffic, as a log parser to discover cloud apps in your environment, or as a Dataplane On-Premises appliance (DPoP) to act as a proxy server. The following topics explain how to configure the virtual appliance in these modes. Virtual Appliance Overview Configure the Interfaces Install a Virtual Appliance Configure the Virtual Appliance Configure the System and Certificates Restore a Virtual Appliance from a VMware Snapshot Virtual Appliance Configuration Scenarios Create a DLP Exact Match Hash from a Virtual Appliance Installing Modular Upgrades for OPLP and DPoP Configure Log Uploads Remove an Appliance Factory Reset Appliance Log in to the Appliance Modify the Timezone on the OPLP Optional Configurations Advanced Options EOL/EOS for DPoP r99 Monitor the OPLP Status EOL for the Secure Forwarder Steering Function Configure Appliances in a Cluster for Scalability Upgrade the Virtual Appliance Migrate the Virtual Appliance to a 103.0.0.338 Export or Import Configurations",
+  "content_length": 1035,
+  "crawl_timestamp": 1750780886.226391
+}

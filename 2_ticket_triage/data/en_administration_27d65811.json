@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/administration",
+  "title": "Administration - Netskope Knowledge Portal",
+  "content": "As an administrator, you have access to your tenant instance in Netskope. The Netskope UI provides full access to deploying and managing the Netskope solution. There are several administrator account types. You can assign each admin a specific role which has different admin privileges. You can configure an admin user as one of the admin account types. In addition, you can create custom designed roles based on your business needs. Log in to your tenant instance in Netskope using the URL provided in the initial onboarding email sent from Netskope. Upon first log in, you will be prompted to change the admin password. Begin with creating accounts for access to the Netskope tenant. There are various roles and privilege associated with each role. You can also create custom roles for specific privileges. A Tenant Admin can also configure functions like SSO, log in attempts, idle timeout periods, password expiration, and more. Audit Log CASB API Billable User Calculation Managing Administrators Managing Administrators for RBAC V2 Managing Administrators for RBAC V3 SSO for Administrators Certificates Privacy Notice Set Log In Attempts Set Idle Timeout IP Allowlisting Disallow Concurrent Logins by an Admin Set Password Expiration Change Access for an Admin Account",
+  "content_length": 1275,
+  "crawl_timestamp": 1750780751.613193
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/understanding-api-protection/",
+  "title": "Understanding API Protection - Netskope Knowledge Portal",
+  "content": "Netskope API Protection provides out-of-band visibility, policy and controls for managed cloud services (Sanctioned Applications). API Protection connects directly to the cloud service using OAuth tokens and APIs published by the cloud service. API Protection works in conjunction with Netskope Inline Deployment options to provide “Defense-In-Depth” security. API protection utilizes API integration with Cloud Applications (Sanctioned Apps). Sanctioned applications refer to SaaS application subscriptions maintained by your Enterprise. The following points are the operating highlights of API protection: Direct connection from Netskope to the Sanctioned App (API Connector) Out-of-band deployment model Provides ‘API Protection’ visibility and policy enforcement Leverages public APIs published by the SaaS Provider Understanding API Protection includes: API Connectors API Protection Dashboard API Protection features API Protection scans API Protection (Managed App Activities) use cases",
+  "content_length": 993,
+  "crawl_timestamp": 1750781484.644263
+}

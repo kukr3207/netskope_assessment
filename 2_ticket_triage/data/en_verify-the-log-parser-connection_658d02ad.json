@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/verify-the-log-parser-connection/",
+  "title": "Verify the Log Parser Connection - Netskope Knowledge Portal",
+  "content": "To verify the OPLP successfully connected to the Netskope cloud, go to Settings > Security Cloud Platform > On-Premises Infrastructure . Scroll down the page until you see your OPLP host name and Log Parser displayed beside your Serial Number. Last Seen shows the last time your OPLP connected to the Netskope cloud. Note It takes few minutes to refresh the status in the UI.",
+  "content_length": 375,
+  "crawl_timestamp": 1750781175.43736
+}

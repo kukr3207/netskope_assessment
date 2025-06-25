@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/about-your-netskope-client",
+  "title": "About Your Netskope Client - Netskope Knowledge Portal",
+  "content": "This document can assist administrators identify values needed for various deployment methods. Commonly Used Parameters Description And Webui Location Organization ID OrgKey token These parameters represent the Organization ID available in the MDM Distribution webUI in your tenant. Go to Settings > Security Cloud Platform > Netskope Client > MDM Distribution . You can find the Organization ID under Deployment Resources for iOS > Create VPN Configuration . The Organization ID varies with each tenant. host AddonHost addon- For example, if administrators access Netskope admin console through acme.goskope.com then addon URL is addon-acme.goskope.com . VPN server address Server These represent the VPN Server Name URL in the MDM Distribution webUI in your tenant. Go to Settings > Security Cloud Platform > Netskope Client > MDM Distribution . You can find VPN Server Name under Deployment Resources for iOS > Create VPN Configuration . tenant If the tenant URL is acme.eu.goskope.com , tenant value is acme . domain If the tenant URL is acme.eu.goskope.com , then domain is eu.goskope.com . Authentication token Encryption token These represent the Secure Enrollment tokens required to deploy Netskope Client. Go to Settings > Security Cloud Platform > Netskope Client > MDM Distribution . Go to Secure Enrollment .",
+  "content_length": 1320,
+  "crawl_timestamp": 1750780601.8915079
+}

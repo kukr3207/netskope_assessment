@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/cloud-exchange-proxy",
+  "title": "Cloud Exchange Proxy - Netskope Knowledge Portal",
+  "content": "Each plugin configuration has an option to use this configured system proxy or not. All plugins will use this proxy server. Changes to Settings do not require a CE core restart. Click Settings in the lower left panel. Click General , and then Proxy . Enter your Proxy Server Address and Port. (Do not provide an HTTP scheme). In case of an authenticated proxy, make sure to supply the username and password. These fields will be pre-populated with the proxy details provided while performing the setup. Click Save .",
+  "content_length": 515,
+  "crawl_timestamp": 1750780300.9023092
+}

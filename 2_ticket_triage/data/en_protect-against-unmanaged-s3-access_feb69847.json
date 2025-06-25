@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/protect-against-unmanaged-s3-access/",
+  "title": "Protect against Unmanaged S3 access - Netskope Knowledge Portal",
+  "content": "To protect your organization against unmanaged S3 access: Create a Storage Constraint and select ‘Does not match’ Corporate S3 Bucket. Create an Inline Policy wherein select Amazon S3 Application with activities Copy, Sync, Upload and constraint that we have created in step 1 and apply action block.",
+  "content_length": 300,
+  "crawl_timestamp": 1750781417.2834828
+}

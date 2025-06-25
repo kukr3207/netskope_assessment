@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/netskope-help/netskope-client/provisioning-users-for-netskope-client/",
+  "title": "Provisioning Users for Netskope Client - Netskope Knowledge Portal",
+  "content": "A fundamental step in deploying Netskope Client within your environment involves importing your users into the Netskope tenant. Netskope Cloud Platform leverages its own directory to apply security policies across all deployment modes and operating systems. For this reason, it is mandatory to populate users and groups as described in this article. The following are the supported methods for importing users and groups into your Netskope tenant: Manual Import Using SCIM App Using Directory Importer To learn more, view User Import Methods and User Attributes . – Email ID and UPN are mandatory fields during user import. – An email is required for all users during user import as it represents the user’s identity across the Netskope Secure Cloud Platform. – In addition, a user UPN is mandatory for SCIM and Directory Importer integrations and may be required for user enrollment of the Netskope Client. See Netskope Client Enrollment Methods for more details.",
+  "content_length": 964,
+  "crawl_timestamp": 1750779910.857471
+}

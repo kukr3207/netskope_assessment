@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/remove-an-appliance-177438",
+  "title": "Remove an Appliance - Netskope Knowledge Portal",
+  "content": "To remove an appliance from your environment, you must delete the appliance from the Netskope management console and then reset the appliance. Delete the Appliance To delete the appliance from the management console UI, Log into the Netskope management console UI and navigate to Settings > Security Cloud Platform > On Premises > On-Premises Infrastructure. On the On-Premises Infrastructure page, scroll down to the Infrastructure section. Locate the deprovisioned appliance you want to delete and click the delete icon, . Reset the Appliance After deleting the appliance from the Netskope management console, you may need to reset the connection from the appliance. Open a CLI session on your server and run the following command to prevent the server from reconnecting to the Netskope management console: reset To reset the appliance while preserving the networking configuration, run the command: reset retain-network",
+  "content_length": 922,
+  "crawl_timestamp": 1750780843.907398
+}

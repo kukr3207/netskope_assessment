@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/re-enroll-a-publisher",
+  "title": "Re-enroll a Publisher - Netskope Knowledge Portal",
+  "content": "You can re-enroll a new instance of Publisher into an existing entry in the Admin Console. Follow these steps to re-enroll a Publisher instance. In the Netskope UI, go to Settings > Security Cloud Platform > Publishers . Click on the Publisher that needs to be re-enrolled. Make sure the Publisher is in the Disconnected State. Click Save and Continue . Click Generate Token . Click Copy to get the registration token. You can now install the new Publisher instance on a new VM, or on the existing VM. Use the token to register the new Ubuntu Publisher instance. All the existing App Definitions that reference this Publisher will continue to work.",
+  "content_length": 648,
+  "crawl_timestamp": 1750781192.850244
+}

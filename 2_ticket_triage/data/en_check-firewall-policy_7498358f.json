@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/check-firewall-policy/",
+  "title": "Check Firewall Policy - Netskope Knowledge Portal",
+  "content": "Soon you’ll be installing the Netskope Client (which is used to automatically forward traffic to the Netskope cloud) to user devices, and you must ensure that it is able to communicate to the Netskope Cloud. Ensure that the following are permitted through both any installed Endpoint firewall software (like Windows Firewall, Crowdstrike, etc.) and any on-premise network firewall (like Palo Alto, Fortinet, etc.): TCP 443 towards the Netskope IP range: 163.116.128.0/17 TCP 53 & UDP 53 (DNS) towards dns.google ( 8.8.8.8 and 8.8.4.4 ). Note Google DNS is used for geolocation purposes to determine the closest Netskope data center to connect the user to. Important You should ensure that the Netskope IP range is bypassed from any SSL decryption/inspection mechanisms you are running on perimeter security appliances or internal proxy servers. All connections between the Netskope Client and Netskope cloud are Certificate-Pinned to prevent Man-in-the-Middle attacks, so attempting to inspect this connection will cause it to fail.",
+  "content_length": 1032,
+  "crawl_timestamp": 1750780163.753624
+}

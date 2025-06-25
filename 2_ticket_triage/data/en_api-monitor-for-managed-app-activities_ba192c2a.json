@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/api-monitor-for-managed-app-activities",
+  "title": "API (Monitor for Managed App Activities) - Netskope Knowledge Portal",
+  "content": "This section outlines specific use cases to monitor for managed app activities. Check back because new use cases are added periodically. Alert when a file is shared with large number of users (internal/external) Alert when a file is shared with specific groups Investigate specific external user activity to determine risk posture Investigate specific internal user activity to determine risk posture Identify and act on individual files or folders on a case by case basis Alert when a file is made public Alert when a file is externally shared",
+  "content_length": 544,
+  "crawl_timestamp": 1750781516.733124
+}

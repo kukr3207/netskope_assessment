@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/plugins",
+  "title": "Plugins - Netskope Knowledge Portal",
+  "content": "An admin can configure plugins. Netskope Cloud Exchange (CE) comes with a library of supported plugins. In the case where the integration for desired product is not available, CE allows users to add their own Threat Exchange plugins. Refer to the Threat Exchange Custom Plugin Developers Guide to understand how to build and upload a custom plugin. Additionally, each plugin that is published as part of the CE has its own configuration guide that administrators can and should refer to. Admins can filter out the plugins based on the plugin repositories that they have added. Admin can also filter out the custom plugins that they have uploaded to CE. By hovering over the plugin, admin can see the Delete icon used to delete the custom plugins. Click play to learn how to check for and download plugin updates.",
+  "content_length": 812,
+  "crawl_timestamp": 1750780379.621842
+}

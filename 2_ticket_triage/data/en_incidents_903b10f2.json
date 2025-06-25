@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/incidents",
+  "title": "Incidents - Netskope Knowledge Portal",
+  "content": "The Incidents pages provide information about DLP incidents, compromised credentials, behavior analytics, plus files that have been quarantined or placed in legal hold. If you have a Threat Protection license, Malware and Malicious Sites pages are shown here as well. To view an Incidents page, click Incidents in the Netskope UI, and then click one of the links in the left panel. Tip Click the Refresh icon to update an Incidents page with the most current information. Incidents Interface Quarantine Search Filters and Query Fields About DLP Compromised Credentials Legal Hold",
+  "content_length": 579,
+  "crawl_timestamp": 1750780740.945759
+}

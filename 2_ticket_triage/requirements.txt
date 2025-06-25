@@ -1,0 +1,9 @@
+faiss-cpu
+numpy
+sentence-transformers
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+requests
+streamlit

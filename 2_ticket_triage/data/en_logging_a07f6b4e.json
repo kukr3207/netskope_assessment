@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/logging",
+  "title": "Logging - Netskope Knowledge Portal",
+  "content": "An Admin and User can view and search audit logs. Audit logs track significant events that occur during the operation of Netskope CE. Logs provide important information for troubleshooting if any abnormal behaviors and errors occur. Audit logs can be searched through in the CE UI, and you can export the logs to the local system. Click Logging in the bottom of the left panel. Logs entries are displayed. By Default, log entries are sorted in descending order of occurrence. Filters can be set to search for specific log entries. The filter parameters are listed below: Field Description Filter Operators Message Log message. Is equal and contains (Regex also supported). Type Log type (info, warning, error). any in, not in operator (Multiselect) Created At Time at which log is created. !=, <, >, >= You can also export the logs by clicking Export . Keep Alive Log Message This feature checks the health of our cloud exchange services regularly and creates a message to let us know if everything is okay or if there’s a problem. You can send this particular log to their SIEM (Security Information and Event Management) and monitor the status of their Cloud Exchange services.",
+  "content_length": 1179,
+  "crawl_timestamp": 1750780347.761871
+}

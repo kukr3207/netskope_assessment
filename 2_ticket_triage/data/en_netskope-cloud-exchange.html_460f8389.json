@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/netskope-cloud-exchange.html",
+  "title": "Netskope Cloud Exchange - Netskope Knowledge Portal",
+  "content": "Netskope Cloud Exchange (CE) provides customers with powerful integration tools to leverage investments across their security posture. CE consumes valuable Netskope telemetry and external threat intelligence and risk scores, enabling improved policy implementation, automated service ticket creation, and exportation of log events from the Netskope Security Cloud. CE is run as an extensible platform with core code and plugins that are installed inside a Linux Docker environment maintained by each user. CE comes with four primary feature modules that can be turned on or off as needed: Log Shipper, Ticket Orchestrator, Threat Exchange, and Risk Exchange. Starting with v5.1.0, the Risk Exchange two workflows: User Risk Exchange and Application Risk Exchange, have been combined into the new Risk Exchange. This article describes how to install the Netskope CE stack. To learn about the Cloud Exchange release updates, go to Netskope Cloud Exchange Release Notes . To see the 3rd-party plugins CE supports, go to Cloud Exchange Supported Integrations . Click play to learn how to set up Cloud Exchange. Cloud Exchange Supported Integrations About Cloud Exchange Install Cloud Exchange Get Started with Cloud Exchange Operating Cloud Exchange Log Shipper Module Threat Exchange Module Ticket Orchestrator Module Risk Exchange Module",
+  "content_length": 1335,
+  "crawl_timestamp": 1750781606.228275
+}

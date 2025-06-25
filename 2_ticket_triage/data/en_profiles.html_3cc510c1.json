@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/profiles.html",
+  "title": "Profiles - Netskope Knowledge Portal",
+  "content": "Profiles are used in conjunction with various policies. Use the following instructions to create different types of profiles. For Threat Protection profiles, refer to Malware Detection and Remediation profiles. For Web profiles, refer to Custom Categories . For Forensic, refer to the Forensic Profile . App Instance Profile DNS Profile HTTP Header Profile Connected App/Plugin Profile Domain Profile User Profile File Profile Constraint Profile Quarantine Profile Forensic Profile Network Location Profile Legal Hold Profile",
+  "content_length": 525,
+  "crawl_timestamp": 1750781577.589938
+}

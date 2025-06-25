@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/unmanaged-device-protection/protect-unmanaged-device-protection/block-unmanaged-devices-from-malicious-files-uploaded-or-downloaded-from-our-sanctioned-apps/",
+  "title": "Block unmanaged devices from malicious files uploaded or downloaded from our sanctioned apps - Netskope Knowledge Portal",
+  "content": "To block unmanaged devices from performing activities in sanctioned apps that are not allowed, you have to create a real time protection policy with specific constraints. Perform the following steps to achieve granular restrictions on unmanaged devices: Navigate to Policies > Real-time protection > New Policy . Select Threat Protection . In Source section, add criteria as Access method = Reverse Proxy . Select category as Cloudapp . Select ‘ Edit ’ to include actions that should be a criterion in the policy. Select appropriate threat profiles and action. Set the action as Block for appropriate. Create the policy. Real-time Protection Policy details:",
+  "content_length": 657,
+  "crawl_timestamp": 1750781318.601729
+}

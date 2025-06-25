@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/configure-the-virtual-appliance",
+  "title": "Configure the Virtual Appliance - Netskope Knowledge Portal",
+  "content": "Using the Virtual Appliance involves configuring the interface, system, and DNS server. To configure the Virtual Appliance: Power up the Virtual Appliance and open the console view. Log into the Virtual Appliance using the credentials nsadmin/nsappliance . Note You can change your password by using the command, auth change-password nsadmin . When you first log in, you will be dropped into the system shell. Your prompt should change to nsappliance> . At the nsappliance prompt, enter configure to go to configuration mode. Follow the instructions to configure the interfaces and then the system and DNS server .",
+  "content_length": 614,
+  "crawl_timestamp": 1750780938.7133682
+}

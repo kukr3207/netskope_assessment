@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/admins-settings-page",
+  "title": "Admins Settings Page - Netskope Knowledge Portal",
+  "content": "The Admins Settings page contains general functions that apply to all admins. On the Settings page ( Settings > Administration > Admins > Settings icon) you can: Set Log In Attempts Set Idle Timeout Set Password Expiration Disallow concurrent log ins by the same admin. This means if an admin logs in from a second browser instance, they will be logged out from their first browser session.",
+  "content_length": 390,
+  "crawl_timestamp": 1750780945.777772
+}

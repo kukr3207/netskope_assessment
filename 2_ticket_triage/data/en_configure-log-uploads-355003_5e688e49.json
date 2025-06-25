@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/configure-log-uploads-355003",
+  "title": "Configure Log Uploads - Netskope Knowledge Portal",
+  "content": "The management plane appliance can upload logs directly through the UI, and both the management plane appliance and log parser appliances can also receive them via SFTP, SCP, and FTPS. Log uploads are disabled by default on new appliances. To process logs, run the command set log-upload enable true . If log uploads are already running on an existing appliance, you can disable log processing by running the command set log-upload enable false . If an appliance is not being used for log parsing, run the command set log-upload enable false . Configure Syslog on the OPLP Upload Logs to the Netskope Tenant using HTTPS Configure SSH Keys for Log Uploads Upload Logs using SFTP Upload Logs using SCP Upload Logs using FTPS Upload Logs from an Amazon S3 Bucket Verify the Log Parser Connection Advanced Log Upload Commands",
+  "content_length": 821,
+  "crawl_timestamp": 1750780928.149151
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/protect-against-network-based-attacks",
+  "title": "Protect against network-based attacks - Netskope Knowledge Portal",
+  "content": "Netskope’s Client Traffic Exploitation Protection (CTEP) is a signature-based Intrusion Protection System (IPS) that analyzes network traffic flows and continuously compares the bitstream with its internal signature database for known attack patterns. When an attack is initiated that matches one of these signatures or patterns CTEP can either alert or block depending on how it has been configured. In blocking mode, CTEP prevents bad actors from gaining control of vital applications or systems, causing distributed denial of service (DDoS) attacks, or obtaining access to the rights and permissions of applications. To learn more: Intrusion Prevention System .",
+  "content_length": 664,
+  "crawl_timestamp": 1750781427.463477
+}

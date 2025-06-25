@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/bypass-netskope-from-your-vpn/",
+  "title": "Bypass Netskope from your VPN - Netskope Knowledge Portal",
+  "content": "Note Netskope strongly recommends changing your VPN configuration to run in split tunnel mode when operating alongside the Netskope Client. In split tunnel mode, the VPN is only used for internal traffic (like RFC1918 address space) and specified routes, while all internet-bound traffic bypasses the VPN and is sent direct, providing the best user experience. In the case of your Netskope deployment, anything sent direct is captured by the Netskope Client and is forwarded to the Netskope Cloud to be secured. You only need to follow this step if you operate a VPN in Full Tunnel mode , like when all traffic (internal and internet-bound) is captured by the VPN and sent back to the corporate network. You must include a bypass/exclude the Netskope IP ranges from the VPN tunnel so that the Netskope Client can connect to the Netskope Cloud and the closest Netskope data center directly. Go here to get the IP ranges you need to bypass/exclude. Important Failure to bypass the Netskope IP range means that the Netskope Client will establish connectivity to the Netskope cloud via the VPN tunnel and your corporate internet egress point. This will introduce additional hops and latency to the transaction, and will prevent users from connecting to any Netskope data center except for the one closest to your internet egress point.",
+  "content_length": 1331,
+  "crawl_timestamp": 1750780181.269384
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/inline-monitoring-for-cloud-apps.html",
+  "title": "Inline monitoring for Cloud apps - Netskope Knowledge Portal",
+  "content": "Here are some widely used real world use cases that will address your organization’s monitoring of cloud apps via Inline. Use Case # Category Use Case Description 1 Inline monitoring of Cloud app We would like to apply policies based on AD users, groups or OU 2 Inline monitoring of Cloud app We would like to apply policies based on the source of traffic 3 Inline monitoring of Cloud app We would like to apply policies based on the source of traffic, trusted or untrusted networks 4 Inline monitoring of Cloud app We would like to apply policies based on the source of traffic, forward or reverse proxy 5 Inline monitoring of Cloud app We would like to apply policies based on the application instance 6 Inline monitoring of Cloud app We would like to apply policies based on the constraint profile 7 Inline monitoring of Cloud app We would like to apply policies to enforce step up authentication as required",
+  "content_length": 911,
+  "crawl_timestamp": 1750781581.2781281
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/swg-web-traffic/ngswg-basic-policies/filtering-traffic-to-high-risk-countries/",
+  "title": "Filtering Traffic to High-Risk Countries - Netskope Knowledge Portal",
+  "content": "Some organizations have regulations to block traffic to any web servers hosted in specific countries that are considered “High Risk”. These countries can be deemed “High Risk” by the customer’s organization, or through regulations such as: EAR – Export Administration Regulations OFAC – Office of Foreign Assets Control ITAR – International Traffic In Arms Regulations Netskope utilizes Geo-IP mapping to determine where the destination server is hosted, and you can then create a policy to block traffic if it matches specific countries. Netskope utilizes multiple 3rd party feeds for Geo-IP mapping (such as Maxmind, IP2Location, NetAcuity, Netstar) and the feeds are updated regularly. Any Geo-IP mismatches can be reported to Netskope Support. To create inline web policies that are meant to filter traffic to high-risk countries, follow the steps as shown below: Navigate to Policies > Real time Protection > New Policy > Web access . Set the values as shown below: Source – Any Destination – Any Destination Country = Specified (e.g., China) Activity – Browse Action- Block Name – Customer Discretion",
+  "content_length": 1106,
+  "crawl_timestamp": 1750781392.717534
+}

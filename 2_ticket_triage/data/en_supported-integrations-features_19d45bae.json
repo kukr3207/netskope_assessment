@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/supported-integrations-features",
+  "title": "Supported Integrations Features - Netskope Knowledge Portal",
+  "content": "Feature Description Productivity Suites Microsoft, Google, Box Cloud Storage Microsoft Office 365 OneDrive, Google Drive, Box, Dropbox, Egnyte, Intralinks Single Sign-on (SSO) Ping Identity, Centrify, Okta, OneLogin, Microsoft, SecureAuth Enterprise Mobility Management AirWatch by VMware, Citrix, IBM, Microsoft, MobileIron Data Classification and IRM Boldon James, Box, Microsoft, TITUS, Vera Security and Threat Carbon Black, Cyphort, FireEye, Juniper. For more general integration capabilities, Netskope supports STIX/TAXII standards. On-premises DLP McAfee DLP Prevent, Symantec Network Prevent DLP, and Forcepoint (Websense) TRITON AP Data Enterprise Utilize your existing investment in enterprise tools like firewalls and proxies, SIEM, directories, and more as part of an integrated cloud security solution. Netskope also offers a REST API for general use. Other Amazon Web Services, Demisto, Exabeam, Google Cloud Platform, Microsoft Azure, ServiceNow, Slack, Salesforce, Splunk, Sumo Logic, Workplace by Facebook",
+  "content_length": 1022,
+  "crawl_timestamp": 1750779977.860839
+}

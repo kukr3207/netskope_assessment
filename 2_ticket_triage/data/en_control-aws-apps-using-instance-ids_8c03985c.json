@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/control-aws-apps-using-instance-ids",
+  "title": "Control AWS apps using Instance IDs - Netskope Knowledge Portal",
+  "content": "Netskope supports instance IDs for the following AWS applications Amazon App Suite Amazon CloudDrive Amazon EC2 Amazon EC2 Container Service Amazon IAM Amazon S3 AWS Lambda For the above list of AWS applications, the following set of configurations can be done to control access to their specific Instances. Navigate to Real time protection policies >New policy. Under ‘Destination’ section, select ‘App Instance’ and select the desired app instances. Select the profile and action that is required to be set up for the application instances.",
+  "content_length": 542,
+  "crawl_timestamp": 1750781420.66291
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/observe-cloud-app-activities-oplp-and-risk-insights/view-users-access-to-cloud-services-geographically/",
+  "title": "View users access to cloud services geographically - Netskope Knowledge Portal",
+  "content": "Value to the customer: Visibility into client locations when using cloud services, Ability to layer geo-based security controls Geography based usage of cloud services can be understood and seen from Page events and Application events in SkopeIT. By clicking on the gear symbol on the right corner, a list of fields pops up. One can select the interested fields especially under ‘Source’ and ‘Destination’. The results in SkopeIT can be viewed for an application or all the applications. The results can then be exported for further analysis. It is also possible to create a report in the reports section of the tenant addressing geography specific queries or have specific results displayed in the UI based on the query in the search/query bar. An example of such a query result is shown below. In this example, details of the users meeting the query criteria are shown. Click here to understand Risk Insights.",
+  "content_length": 911,
+  "crawl_timestamp": 1750781346.1867259
+}

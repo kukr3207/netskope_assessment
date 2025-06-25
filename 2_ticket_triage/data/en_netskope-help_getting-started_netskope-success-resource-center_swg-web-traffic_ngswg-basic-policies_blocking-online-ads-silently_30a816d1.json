@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/swg-web-traffic/ngswg-basic-policies/blocking-online-ads-silently/",
+  "title": "Blocking Online Ads Silently - Netskope Knowledge Portal",
+  "content": "To create a web policy that blocks online ads, follow the steps shown below. Navigate to Policies > Real time Protection > New Policy > Web access . Under ‘Destination’ section, select ‘ Category ’. Select the category ‘ Online ads ’. Under ‘ACTIVITIES & CONSTRAINTS’, select ‘ Browse ’. Under ‘Profile & Action’, select the action ‘ Block ’. Tip If the category is configured for only Online Ads, Activity is configured for just Browse, then the Block action will have the option to alert with None (No Notification). This rule will block any URL that is classified as an online ad and render the HTML around it to ensure the user experience is not negatively impacted.",
+  "content_length": 670,
+  "crawl_timestamp": 1750781389.105788
+}

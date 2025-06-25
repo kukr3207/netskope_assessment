@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/deploy-the-netskope-client-for-netskope-private-access",
+  "title": "Deploy the Netskope Client for Netskope Private Access - Netskope Knowledge Portal",
+  "content": "Netskope Private Access recommends that the Netskope Client to be installed on a Windows , MacOS , iOS , Android , or Chrome OS device. The Client steers Private Access application traffic to Private Access gateways. An alternate method is to use Browser Access for Netskope Private Access. Important When the Client detects an alternate steering method, like a GRE or IPSec tunnel, it disables the Client-based data tunnel (TLS tunnel) to the Netskope platform and therefore access to private apps. This configuration can be useful for disabling private app steering while on-premises. The Netskope Client supports these operating systems and platforms . Note See the Netskope Client Interoperability topic to learn more about Netskope Client compatibility with third-party apps. Install the Client for Private Access Use the NPA Client in Windows Multi-User Virtual Desktop Environments View Private Access Status for Devices Allow Users to Disable Private Apps Access on the Netskope Client Configure Client Prelogon Connectivity Windows Autopilot with Private Access Prelogon Use Client Re-authentication CGNAT Address Support for Local DNS Resolution",
+  "content_length": 1155,
+  "crawl_timestamp": 1750781111.251103
+}

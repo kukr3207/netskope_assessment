@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/create-custom-categories.html",
+  "title": "Create Custom Categories - Netskope Knowledge Portal",
+  "content": "Note A Netskope Secure Web Gateway license is required to use custom categories. You can specify categories when you create Real-time Protection policies. A custom category allows you to manually categorize URLs as needed for your security policies. Before creating a custom category, you must first create URL lists for the URLs you want to include or exclude from policy scanning. To learn more, see URL Lists . Once you create the URL lists, create the custom category. In the custom category, add the relevant URL lists and predefined categories. You can create as many custom categories as you want. To learn more, see Custom Category . When you want to check if any categories already include the URLs you want to include or exclude, use the URL Lookup feature. The URL Lookup page enables you to enter a URL in the Netskope UI and retrieve the corresponding Netskope category and policy information. To learn more, see URL Lookup .",
+  "content_length": 938,
+  "crawl_timestamp": 1750781592.23366
+}

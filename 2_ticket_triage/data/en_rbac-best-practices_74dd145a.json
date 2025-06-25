@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/rbac-best-practices",
+  "title": "RBAC Best Practices - Netskope Knowledge Portal",
+  "content": "This topic provides scenarios and suggested best practices to ensure you’re using RBAC V1 and V2 to the fullest. RBAC V1 Admins roles assigned with just ‘Events’ permission set to ‘View Only’ and all others set to ‘None,’ should also be assigned with ‘End user permission’ role to avoid any insufficient permission errors when viewing the dashboard. RBAC V2 Admins creating roles to manage and view policies for network locations should also grant edit capabilities in the Settings > Administration > Manage menu.",
+  "content_length": 513,
+  "crawl_timestamp": 1750780949.386461
+}

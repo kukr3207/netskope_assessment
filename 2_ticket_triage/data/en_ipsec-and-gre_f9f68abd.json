@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/ipsec-and-gre",
+  "title": "IPSec and GRE - Netskope Knowledge Portal",
+  "content": "Netskope supports IPSec and GRE tunnel integrations. For general information about configuring these tunnels to steer traffic, refer to the IPSec and GRE Help topics. For vendor specific integrations, refer to the following Help topics. Netskope IPSec with Cisco IOS Netskope IPSec with Juniper SRX Netskope IPSec with VeloCloud Orchestrator Netskope IPSec with Versa Director Netskope IPSec with Viptela vEdge Netskope Forward Proxy over IPSec/GRE with Azure AD SAML Auth Netskope IPSec with Fortinet FortiGate Netskope IPSec with Aruba EdgeConnect SD-WAN Netskope IPSec with Cisco Firepower Netskope IPSec with Cisco Meraki MX Netskope IPSec with F5 BIG-IP Local Traffic Manager Netskope GRE with Cisco IOS Netskope GRE with Juniper SRX Netskope GRE with Palo Alto Networks NGFW Netskope GRE with Fortinet FortiGate",
+  "content_length": 817,
+  "crawl_timestamp": 1750780333.614319
+}

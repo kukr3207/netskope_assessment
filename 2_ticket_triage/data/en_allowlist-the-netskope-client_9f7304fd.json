@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/allowlist-the-netskope-client",
+  "title": "Allowlist the Netskope Client - Netskope Knowledge Portal",
+  "content": "Some endpoint security software or Anti-Virus/Anti-Malware engines may mark the Netskope Client as malicious (because it attempts to intercept all internet-bound traffic for the purposes of forwarding it to the Netskope Cloud), and can block it from running. Therefore it is important to allowlist/ permit Netskope Client processes, services, and folders in any AV and/or other security agents running on the endpoint. To learn more, view Allowlist Folders and Files .",
+  "content_length": 468,
+  "crawl_timestamp": 1750780117.579903
+}

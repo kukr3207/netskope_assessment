@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/netskope-help/admin-console/rest-api/netskope-platform-rest-apis/update-a-url-list/",
+  "title": "Update a URL List - Netskope Knowledge Portal",
+  "content": "Important This Netskope REST API v1 endpoint will be retired on 10/15/2024. Refer to End of Life (EOL) for Specific REST API v1 Endpoints for more details. This endpoint updates the URL List with the values provided. This replaces the existing values with the new values, so include the existing values you want to keep in the list. Request Endpoint https:// <tenant-URL> /api/v1/updateUrlList Valid parameters are: Key Value Description name Name of an existing URL List shown in the Netskope UI on the URL List page. Returns an error if the provided name does not exist or if there is already a pending change. list Example: linkedin.com,facebook.com, instagram.com,twitter.com Comma-separated list of URLs. Maximum size of the list is 7MB.",
+  "content_length": 742,
+  "crawl_timestamp": 1750780237.246764
+}

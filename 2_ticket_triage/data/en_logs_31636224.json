@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/logs",
+  "title": "Logs - Netskope Knowledge Portal",
+  "content": "An Admin can set the default log level that will be used in application. You can set different log levels that apply to the entire platform. Three different log level options are available: Info, Warning, and Error. These are accessed by clicking Logging link in the lower left nav panel. Changes to Settings do not require a CE core restart. Click Settings in the lower left panel. Click General , and then Logs . Select a log level value from the dropdown list, and then specify how often to delete the logs. The new type of log called debug log has been added to the Cloud Exchange. Debug logs are used by developers and technical support teams to investigate and troubleshoot issues within Cloud Exchange. The default log message type should be set to Info. Click Save .",
+  "content_length": 774,
+  "crawl_timestamp": 1750780329.933461
+}

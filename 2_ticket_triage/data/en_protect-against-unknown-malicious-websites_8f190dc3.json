@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/protect-against-unknown-malicious-websites",
+  "title": "Protect against unknown malicious websites - Netskope Knowledge Portal",
+  "content": "Netskope maintains a database of malicious websites and URLs with their corresponding security risk categories using a combination of internal researchers, feedback loops from our own tools, external feeds, and automation. Use these predefined categories as Netskope Security Risk categories to prevent known threats and deliver immediate insights into risk types with 15 granular security risk categories. To block the malicious sites and URLs, perform the steps shown below: Navigate to Policies > Real time Protection > New Policy > Web Access. Under ‘Source’ section, select any option. Under ‘Destination’ section, select ‘Category’. Select the list of 15 security risk categories as shown above. Under ‘Profile & Action’, select the Block option. Select desired Block template. Provide an appropriate Policy name. Ensure the policy is enabled. Note The security risk category block policy should reside toward the top of the policy stack. Although it is not a hard requirement, it is a best practice to have it precede the malware block policy in order to make policy processing more efficient.",
+  "content_length": 1100,
+  "crawl_timestamp": 1750781406.551151
+}

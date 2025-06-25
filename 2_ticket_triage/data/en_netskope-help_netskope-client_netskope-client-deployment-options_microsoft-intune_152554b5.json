@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/netskope-help/netskope-client/netskope-client-deployment-options/microsoft-intune/",
+  "title": "Microsoft Intune - Netskope Knowledge Portal",
+  "content": "This article provides instructions to deploy Netskope Client on Windows, Apple (iOS and macOS), and Android devices using the Microsoft Intune. Note Microsoft Intune is part of Microsoft Endpoint Manager. Require admin level access to Intune. Supported Devices Windows devices either joined to Active Directory or Microsoft Entra ID. Apple devices enrolled in Microsoft’s Intune. Note To learn more about supported OS and platform, see Netskope Client Supported OS and Platform . Deploy Client On Windows Using Intune Deploy Client on iOS Using Intune Deploy Client On Windows Using Intune with Win32 App Deploy Client on macOS Using Intune Deploy Client On Android Using Intune",
+  "content_length": 678,
+  "crawl_timestamp": 1750781005.7713122
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/netskope-client",
+  "title": "Netskope Client - Netskope Knowledge Portal",
+  "content": "Clients and VPN profiles provide the most comprehensive coverage as they can be installed on managed or unmanaged devices to provide visibility and policy enforcement for devices that are both on-premises and off-premises. Netskope also provides Device Classification feature that allows you to define rules that function like posture checks on the device and allows you to create and apply policies based on these rules. To learn more, view Device Classification . Netskope Client Overview Netskope Client Supported OS and Platform Provisioning Users for Netskope Client Netskope Client Configuration Data Center Pinning In Netskope Client Netskope Client Network Configuration Netskope Client Resource Utilization Netskope Client Enforcement Netskope Client Deployment Options Using Netskope Client Client Profiles Netskope Client Command Reference Uninstalling the Netskope Client Deprovisioning Users Netskope Client Troubleshooting Guide Netskope Client Interoperability Netskope Client Hardening iOS VPN Fail Open Device Classification Netskope Client Golden Release Updates",
+  "content_length": 1080,
+  "crawl_timestamp": 1750780584.079066
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/advanced-log-upload-commands-144862/",
+  "title": "Advanced Log Upload Commands - Netskope Knowledge Portal",
+  "content": "Here are some additional log upload commands: To set the number of bits for the network location IP address: set log-upload network-bits <networkbits> To change the number of days (15 days is the default) the data should be retained for AD connector: set log-upload adconnector-rentention-days <days> To set custom header for parsing received logs: set log-upload header <parser:header1,header2..> To set custom pattern for parsing received logs: set log-upload pattern <parser:pattern.> To set whether the user field in the event should be the AD user setting, email address from AD, or user from the log file: set log-upload eventuser-source <value> Supported values are: ad , email , and log (default). To disable or enable block events from being uploaded: set log-upload block-events <value> Supported values are: enable , and disable . To disable or enable threat detection: set log-upload threat-detection <value> Supported values are: enable , and disable . To prevent events that are older than a specified number of days from being reported in the UI: set log-upload event-filter <days> The maximum number of days you can specify is 90.",
+  "content_length": 1146,
+  "crawl_timestamp": 1750781128.934412
+}

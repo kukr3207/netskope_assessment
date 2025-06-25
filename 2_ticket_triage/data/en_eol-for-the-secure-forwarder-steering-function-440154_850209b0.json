@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/eol-for-the-secure-forwarder-steering-function-440154",
+  "title": "EOL for the Secure Forwarder Steering Function - Netskope Knowledge Portal",
+  "content": "Netskope announces the end-of-life and support for the Secure Forwarder steering function. The Secure Forwarder steering function will not be available on physical and virtual appliances effective October 31, 2023. After this date, all support services for the product are unavailable and the product becomes obsolete. Netskope Appliance version 103.0.0.338 is the last version to support the Secure Forwarder steering function. Netskope recommends that you migrate to other steering mechanisms that are suitable for your use case as outlined in Netskope’s Traffic Steering documentation. Please contact your Customer Success Manager to discuss your migration plans or for any guidance. We value your feedback and are happy to learn about your migration plan and provide assistance. For the most current information, refer to: End of Support for Secure Forwarder Steering Function on our Support site.",
+  "content_length": 901,
+  "crawl_timestamp": 1750780917.7343092
+}

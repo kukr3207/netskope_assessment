@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/use-cci-to-understand-cloud-spending",
+  "title": "Use CCI to understand cloud spending - Netskope Knowledge Portal",
+  "content": "Value to the customer: Influence budget decisions as it relates to cloud access Clicking on any of the apps shown opens the app specific details page that allows you to research individual applications. This page displays app specific info such as: Usage overview (by users, sessions, bytes downloaded / uploaded, first accessed) App trending information (viewable in table or graph format) Activities supported Business risk GDPR Readiness Similar apps by session HQ location Categories CCI details Notes Ability to download the page as a PDF report Specific indicator messages for Activities Supported, such as Risk Insights only, activities supported by the universal connector Application breach indicator displays the breach name, date, and source (also included in the PDF reports). Click here for more information on Vendor risk assessment and CCI.",
+  "content_length": 855,
+  "crawl_timestamp": 1750781363.853258
+}

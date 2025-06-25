@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/installing-modular-upgrades-for-oplp-and-dpop",
+  "title": "Installing Modular Upgrades for OPLP and DPoP - Netskope Knowledge Portal",
+  "content": "Modular upgrades for the On-Premises Log Parser (OPLP) or the Dataplane On-Premises (DPoP) functionalities are available. In other words, you can obtain upgrades for OPLP and DPoP separately from the main Virtual Appliance (VA) releases. To upgrade OPLP or DPoP modularly: Log in to the VA console. At the shell prompt, run one of the following commands to see the list of available modular upgrade packages from Netskope: OPLP: upgrade oplp list DPoP: upgrade dpop list To download a modular package, enter one of the following commands: OPLP: upgrade oplp download version <version number> DPoP: upgrade dpop download version <version number> After the download is complete, enter one of the following commands to prepare the modular package: OPLP: upgrade oplp prepare version <version number> DPoP: upgrade dpop prepare version <version number> To install the new modular package, enter one of the following commands: OPLP: upgrade oplp install version <version number> DPoP: upgrade dpop install version <version number> Use the show version-info command to confirm that the new version of the modular package was installed.",
+  "content_length": 1129,
+  "crawl_timestamp": 1750780903.865015
+}

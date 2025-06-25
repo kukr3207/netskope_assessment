@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/netskope-sso-with-adfs",
+  "title": "Single Sign On with ADFS - Netskope Knowledge Portal",
+  "content": "Netskope SSO integration allows organizations to use an Identity Provider (IdP) for authentication and authorization purposes. Strong authentication mechanisms like multi-factor authentication, etc., may be used by the organization with their IdP. This results in a stronger authentication before an administrator can get access to the Netskope UI. Integrating Netskope SSO with ADFS includes these steps: Configure new AD groups or use existing groups based on the administrator role they will be mapped to in the Netskope UI. There will be a one-to-one mapping between the AD group and the Netskope administration role. Ensure administrators are assigned to only one of the designated AD groups being used. Add a new relying party trust in ADFS for the Netskope admin console and configure a claim issuance policy in ADFS. There are two methods for this, Configure ADFS for Netskope SSO using the Metadata File or Configure ADFS for Netskope SSO Manually . Using the metadata file is recommended. Configure the Admin SSO feature using the Netskope UI. This configuration guide uses ADFS as the identity and single sign on provider.",
+  "content_length": 1133,
+  "crawl_timestamp": 1750780783.648659
+}

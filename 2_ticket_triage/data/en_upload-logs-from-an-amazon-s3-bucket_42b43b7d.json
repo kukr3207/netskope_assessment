@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/upload-logs-from-an-amazon-s3-bucket/",
+  "title": "Upload Logs from an Amazon S3 Bucket - Netskope Knowledge Portal",
+  "content": "This section explains how to get unprocessed log files stored in Amazon S3 buckets into the parser directories for log processing. For example, you can retrieve Scansafe logs, but any S3 protocol compatible store, including native AWS S3, can be processed. In order to configure log uploads from an S3 bucket, first get these values from your AWS account: access key secret access key hostname host-bucket To upload log files from an Amazon S3 Bucket repository to the OPLP, enter these commands at the configuration prompt: set log-upload aws-s3 access-key <access-key> set log-upload aws-s3 secret-key <secret-key> set log-upload aws-s3 hostname <hostname> set log-upload aws-s3 host-bucket <host-bucket> set log-upload aws-s3 use-https true set log-upload aws-s3 enable true set log-upload aws-s3 log-source <log-source> To set the start time, enter log-upload aws-s3 start date-time using the date-time format date[-time] <MM-DD-YYYY> [HH:MM:SS] with time in UTC/GMT. This is an operational command and should be entered in the nsshell. Note Ensure that the appliance and the Amazon S3 Bucket are both set to the same time zone in UTC/GMT.",
+  "content_length": 1143,
+  "crawl_timestamp": 1750781157.520161
+}

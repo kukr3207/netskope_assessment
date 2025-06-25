@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/saas-iaas-web-discovery-and-risk-assessment-features/",
+  "title": "SaaS, IaaS, Web Discovery, and Risk Assessment Features - Netskope Knowledge Portal",
+  "content": "Feature Description Customizable Dashboard A customizable view of all SaaS, IaaS, and web, activities, users, and devices. Granular enough to differentiate between instances of the same SaaS or IaaS service. Netskope Cloud Confidence Index (CCI) The enterprise-readiness of SaaS and IaaS services based on 50+ criteria like security, auditability, and business continuity. Serves as a guidepost to mitigate risk, influence usage and reduce costs. Forensic analysis Deep visibility to understand user activities in SaaS, IaaS, and web. Drill down into granular details including identity, device, browser, time, location, activity (e.g., ‘share’), content, and more for a full audit trail. Ad hoc queries and dynamic reports Perform ad-hoc queries for on-demand analytics and reports, save queries as custom search results, or generate detailed custom reports using natural language inputs and Boolean operators.",
+  "content_length": 911,
+  "crawl_timestamp": 1750779974.467136
+}

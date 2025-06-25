@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/create-local-administrators",
+  "title": "Create Local Administrators - Netskope Knowledge Portal",
+  "content": "Go to Settings > Administration > Admins and click New Admin . Enter the email address of the administrator you would like to add, and select an appropriate role. For full read-write access, select the Tenant Admin role. For read-only access, select the Restricted Admin role. For more information about adding a new administrator see the links below. Managing Administrators Create Roles for Restricted Administrators Longer-term, we recommended that you integrate admin authentication with your company’s SSO provider (like Entra ID, Okta, etc). This can be managed via Settings > Administration > SSO . Configure Single Sign On for the Netskope UI IP Allowlisting can also be applied to your Netskope tenant to restrict the permitted source IP addresses that are allowed to connect to your Admin Console. This can be managed via Settings > Administration > IP Allowlist . IP Allowlisting",
+  "content_length": 890,
+  "crawl_timestamp": 1750780184.672019
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/casb-api-protection/",
+  "title": "CASB API Protection - Netskope Knowledge Portal",
+  "content": "Use an out-of-band API connection into your sanctioned cloud services to find sensitive content, enforce out-of-band policy controls, and quarantine malware. This deployment option has the advantage of being simple and friction-less to deploy, requiring only a few steps and granting access to the sanctioned app from the Netskope console using OAuth. The other advantage is that the API connection enables inspection of content that already resides in the sanctioned app. This is not possible with a proxy deployment. There are two limitations to API Data Protection. First, visibility and control is out-of-band, so visibility and control are after-the fact versus proactive and real-time. Second, only sanctioned cloud services are supported. Understanding API Protection API (Observe for Managed App Activities) API (Monitor for Managed App Activities) API (Protection for Managed App Activities) DLP – Protect state for Managed App Activities Threat Protection – Protect state for Managed App Activities",
+  "content_length": 1008,
+  "crawl_timestamp": 1750780094.82992
+}

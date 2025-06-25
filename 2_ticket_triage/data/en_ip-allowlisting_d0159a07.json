@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/ip-allowlisting",
+  "title": "IP Allowlisting - Netskope Knowledge Portal",
+  "content": "When configuring an IP allowlist, you must add your IP (shown in the IP Allowlist dialog box) to the list to avoid disallowing yourself from accessing your Netskope tenant. In addition, add any other IP addresses that are needed to access your Netskope tenant, like for On-Premises Virtual Appliance. Also, if your Netskope tenant is hardened using this feature, then ensure that you add the respective source IP addresses of your IdP(s) and your integrated REST API V2 services to the Custom IP list. The IP Allowlist feature provides a pre-defined list of Netskope IPs. These are the IPs that Netskope personnel uses when connecting to your account for troubleshooting. Go to Settings > Administration > IP Allowlist and click Edit . Enter an IP address, range, or subnet. You must enter an IP address, range, or subnet one at a time. When finished, click +ADD . Enable the IP allowlist and click Save .",
+  "content_length": 905,
+  "crawl_timestamp": 1750780712.4157
+}

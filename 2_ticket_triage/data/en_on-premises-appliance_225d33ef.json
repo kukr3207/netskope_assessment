@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/on-premises-appliance",
+  "title": "On-Premises Appliance - Netskope Knowledge Portal",
+  "content": "Note The Netskope on-premises hardware appliances were retired on 03/31/2025. Refer to EOA for the Netskope On-Premises Hardware Appliance for more details. If you would like to continue with an on-premises solution, you can deploy a virtual appliance. Virtual appliances are supported on the on-premises platform with hypervisor support from ESXi, KVM, and Hyper-V as well as public cloud support from AWS, GCP, and Azure. The Netskope On-Premises Appliance can be used as a forward proxy to inspect web traffic or be used as a log parser for Risk Insights. The following topics explain how to configure the on-premises appliance in these modes. Overview of Netskope On-Premises Appliance Physical Setup Configure the On-Premises Appliance Configure the Management Appliance Configure the Log Parser Appliance on the Management Plane Deploy High Availability for Explicit Proxy Configure TAP Mode Configure the Dataplane On-Premises (DPoP) Appliance Advanced Configurations Configure Log Uploads Threat Protection Configure Appliances in a Cluster for Scalability Export or Import Configurations Manage the Appliance Upgrade the Appliance Software Factory Reset Appliance Optional Configurations CDPP for Appliance Remove an Appliance EOA for the Netskope On-Premises Hardware Appliance EOL/EOS for DPoP r99 EOL for the Secure Forwarder Steering Function",
+  "content_length": 1355,
+  "crawl_timestamp": 1750780847.286784
+}

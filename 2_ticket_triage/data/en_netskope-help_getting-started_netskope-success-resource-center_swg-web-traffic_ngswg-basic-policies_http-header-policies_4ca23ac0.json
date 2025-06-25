@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/swg-web-traffic/ngswg-basic-policies/http-header-policies/",
+  "title": "HTTP Header Policies - Netskope Knowledge Portal",
+  "content": "HTTP headers help to create granular policies based on the value of header such as restricting or allowing access to resources. For example, allow access to abc.com only when referred by mycompany.com. To create a HTTP header policy, first a header profile must be created that can then be included in the policy. Follow the steps mentioned below to create the header profile: Navigate to Policies > Profile > HTTP Header . Create a new profile. Note the request field values supported are: Accept-Encoding, Method, Host, Referrer, Content-Encoding, and Content-Type. These fields are “AND”ed together, while entries in a single field are “OR”ed together. Once the header profile is set, the profile can be used in a policy to define what traffic to look within the headers, and if found, what actions should be taken. See the policy setting below. To learn more: Real-time Protection Policies .",
+  "content_length": 895,
+  "crawl_timestamp": 1750781385.432867
+}

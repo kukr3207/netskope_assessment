@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/deploy-netskope-client-in-restricted-regions",
+  "title": "Deploy Netskope Client In Restricted Regions - Netskope Knowledge Portal",
+  "content": "If an administrator wants to deploy Netskope Client in regions where Google Play Store or Apple App Store is not available or Netskope is unable to publish Netskope client, such as China, Netskope recommends performing certain custom configurations. These limitations prevent users from downloading Netskope Client from App stores. This section mainly lists down the options that the administrators or end-users can leverage to deploy Netskope Client and enroll users located in these regions. Deploy Netskope Client For iOS In Restricted Regions Deploy Neskope Client For Android In Restricted Regions",
+  "content_length": 602,
+  "crawl_timestamp": 1750780612.5796611
+}

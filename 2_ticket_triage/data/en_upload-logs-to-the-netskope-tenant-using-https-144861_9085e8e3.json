@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/upload-logs-to-the-netskope-tenant-using-https-144861/",
+  "title": "Upload Logs to the Netskope Tenant using HTTPS  - Netskope Knowledge Portal",
+  "content": "Upload Logs to the Netskope Tenant using HTTPS Extracted cloud app events from the appliance get uploaded to the Netskope UI using SFTP. This requires connectivity to upload- <tenant hostname> .goskope.com on port 22. You can also upload logs from the extracted cloud app events by enabling https-upload on port 443. Note The domain name shown above applies to release 46 and higher. For deployments on release 45 or lower, use upload.goskope.com . The REST API token needs to be configured on the Netskope UI prior to using the HTTPS log upload. To configure the REST API token, login to the Netskope UI and go to Settings > Tools > REST API , and then click Generate New Token . To enable an HTTPS log upload, enter this command at the configuration prompt: set log-upload https-upload enable To save the HTTPS configuration, enter save at the configuration prompt.",
+  "content_length": 867,
+  "crawl_timestamp": 1750781171.8172932
+}

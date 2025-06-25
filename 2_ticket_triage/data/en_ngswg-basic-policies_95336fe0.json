@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/ngswg-basic-policies",
+  "title": "NGSWG Basic Policies - Netskope Knowledge Portal",
+  "content": "Here are some basic policy use cases that should be addressed first after deployment of the Next Generation – Secure Web Gateway (NGSWG). Use Case # Category Use Case Description 1 NGSWG, Web policies, Observe Web traffic and Usage, Inline Monitoring and Protection for Web Blocking Online Ads Silently 2 NGSWG, Web policies, Observe Web traffic and Usage, Inline Monitoring and Protection for Web Filtering Top Level Domains 3 NGSWG, Web policies, Observe Web traffic and Usage, Inline Monitoring and Protection for Web HTTP Header Policies 4 NGSWG, Web policies, Observe Web traffic and Usage, Inline Monitoring and Protection for Web Filtering Traffic to high-risk countries 5 NGSWG, Web policies, Observe Web traffic and Usage, Inline Monitoring and Protection for Web Review Available metrics and confirm what reports to track",
+  "content_length": 831,
+  "crawl_timestamp": 1750781396.128874
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/configure-newedge-traffic-management-zones-per-npa-tenant-1",
+  "title": "NewEdge Traffic Management Zones per NPA Tenant - Netskope Knowledge Portal",
+  "content": "Netskope Private Access tenants may now take advantage of NewEdge Traffic Management intent-based Zones. Some organizations have inline (or data in motion ) compliance requirements that restrict inline traffic processing to specific geographical regions. You will now be able to restrict traffic to supported Zones. By default, all tenants are in the Global Zone, which includes all NewEdge DCs. This is generally the best configuration for all tenants, because it provides the best connectivity by allowing access to the largest number and most performant DCs. Some example Zones are: United States Zone European Economic Area (EEA) Zone Australia Zone Canada Zone Many others – Generally any geopolitical region that has more than one NewEdge DC can be selected as a Zone. In order to support a NewEdge Traffic Management Zones, EDNS/LDNS fallback must be disabled. To disable EDNS/LDNS and in order to have a tenant assigned to a specific Zone, Netskope Support or Customer Success representatives can help.",
+  "content_length": 1010,
+  "crawl_timestamp": 1750781107.873148
+}

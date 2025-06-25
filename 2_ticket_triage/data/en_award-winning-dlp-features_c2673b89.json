@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/award-winning-dlp-features/",
+  "title": "Award-Winning DLP Features - Netskope Knowledge Portal",
+  "content": "Feature Description Reduce false positives Prevent data leakage from SaaS, IaaS, and web with accuracy and precision. Supports more than 1,000 file types, more than 3,000 data identifiers, proximity analysis, fingerprinting, exact match, OCR, and more, instrumented using a flexible and intuitive wizard-style interface. Find and control sensitive data at rest Find sensitive data resident in managed services such as AWS, Microsoft Office 365 OneDrive, Box, Google Drive, Dropbox, and more. Take action on data that violates policy. Closed-loop incident management Respond quickly and thoroughly to policy violations, with workflows to facilitate end-to-end incident management process, detailed forensics, and event-by-event incident history. Compliance templates Use 40 predefined policy templates to identify sensitive data in accordance with regulations. Templates include (but are not limited to): AMRA, EC Directive, EU-GDPR, GLBA, HIPAA, PCI-DSS, PHI, PII, PHIPA, PIPEDA, SSN Confidentiality Act, US FTC Rules, etc. Role-based access controls Customizable role-based access controls, including predefined admin. and analyst roles. Additional privacy controls include data obfuscation and automatic filtering of certain kinds of traffic.",
+  "content_length": 1244,
+  "crawl_timestamp": 1750779953.236437
+}

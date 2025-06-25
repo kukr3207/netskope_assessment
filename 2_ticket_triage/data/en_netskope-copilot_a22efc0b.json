@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/netskope-copilot/",
+  "title": "Netskope Copilot - Netskope Knowledge Portal",
+  "content": "Copilot is an advanced AI-powered security assistant designed to enhance threat detection and risk mitigation capabilities within cloud environments. Copilot represents a paradigm shift in cloud security management, combining advanced artificial intelligence with security best practices to deliver timely, actionable security intelligence.This solution helps you to accelerate the identification of potential security vulnerabilities and streamline remediation processes across your cloud and on-premises applications and network infrastructure. Copilot provides enterprise-grade security insights, implementable security improvements tailored to your environment, accessible to technical personnel regardless of specialized security training. Here are the use cases for Netskope Copilot: NPA: Netskope Copilot for NPA leverages built-in AI/ML capabilities that audit existing configurations and recommend optimized application segments and ZTNA policies based on real-time usage data. Learn more . CCI: Netskope Copilot for CCI enables instant access to essential details regarding application risk, compliance, and certifications that may be available outside of the information provided in CCI, through a straightforward conversational interface. Learn more .",
+  "content_length": 1263,
+  "crawl_timestamp": 1750780056.236982
+}

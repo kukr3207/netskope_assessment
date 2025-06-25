@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/schedule-auto-upgrade-for-the-content-and-threat-feed-packages/",
+  "title": "Schedule Auto-Upgrade for the Content and Threat Feed Packages - Netskope Knowledge Portal",
+  "content": "Scheduling an auto-upgrade ensure you always have the latest Netskope products. The auto-upgrade procedure for both the content and threat feed packages are the same except for specific code strings for each within the commands. To schedule an auto-upgrade for the content or threat-feed packages: Go to the Netskope shell: nsshell Enter configure To schedule the auto-upgrade, enter one of these commands: set auto-upgrade content period daily at <specify hour in 24 hour format> or set auto-upgrade threat-feed period daily at <specify hour in 24 hour format> For example, to schedule an auto-upgrade at 1.00 am everyday, enter one of these commands: set auto-upgrade content period daily at 01:00 or set auto-upgrade threat-feed period daily at 01:00",
+  "content_length": 753,
+  "crawl_timestamp": 1750780833.248374
+}

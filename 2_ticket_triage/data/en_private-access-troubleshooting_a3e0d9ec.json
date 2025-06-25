@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/private-access-troubleshooting",
+  "title": "Private Access Troubleshooting - Netskope Knowledge Portal",
+  "content": "This document is designed to help troubleshoot issues with end-users connecting to private applications using Netskope Private Access (NPA). NPA is a Zero Trust Network Access connection that is a secure alternative to traditional VPNs. This guide assumes that you have: Installed a publisher in your data center or public cloud environment. Enabled Private Apps in your steering configuration. Created a private app and assign it to a Publisher. Created a Real-time Protection policy to allow the user/group/OU access to the private app. The Troubleshooter is built into the Netskope UI, and most of the errors you may encounter are covered in the following sections with suggestions on how to resolve them. Go to Publisher Monitoring to learn about troubleshooting Publisher logs, using SNMP and Linux commands to monitor resources, and more. The NPA Troubleshooter Tool General Troubleshooting Methods Troubleshooting NPA Allowlisting for Specific Domains in AWS Troubleshooting Performance and Connectivity using TCPing and PsPing Troubleshooting Performance and Connectivity using Ping, Traceroute, or Telnet Troubleshooting Why NPA-steered Websites are Inaccessible What Do the Private Access Device Status Types Mean?",
+  "content_length": 1224,
+  "crawl_timestamp": 1750781065.494223
+}

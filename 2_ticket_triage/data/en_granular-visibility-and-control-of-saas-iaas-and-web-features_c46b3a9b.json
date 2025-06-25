@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/granular-visibility-and-control-of-saas-iaas-and-web-features/",
+  "title": "Granular Visibility and Control of SaaS, IaaS, and Web Features - Netskope Knowledge Portal",
+  "content": "Feature Description Netskope Cloud XD™ Netskope Cloud XD understands all inputs in extreme definition (XD) and performs big data analytics to eliminate blind spots and make policy enforcement simple across all SaaS, IaaS, and web. Real-time policies for all SaaS, IaaS, and web Security and access policies in context (e.g., service, activity, device). Policies can block, alert, bypass, encrypt, quarantine, and coach. Works with web and managed and unmanaged SaaS and IaaS services. Unified policies for SaaS, IaaS, and web security Simplify deployment and ongoing management by orchestrating all SaaS, IaaS, and web policies from one interface. Web classification and content filtering Govern web use with comprehensive web classification and content filtering. Best-in-class URL database covers 99.9% of the web, intelligence that comes from a dedicated in-house web and cloud application research team, and machine learning-based content analysis for classification of uncategorized URLs. User and remediation workflows Use built-in workflows such as quarantine, legal hold, and user coaching with custom messages. Workflows are specific to policies and capabilities, like automatic tombstoning of malware.",
+  "content_length": 1211,
+  "crawl_timestamp": 1750779991.660175
+}

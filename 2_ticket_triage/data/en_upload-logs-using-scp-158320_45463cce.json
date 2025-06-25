@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/upload-logs-using-scp-158320/",
+  "title": "Upload Logs using SCP - Netskope Knowledge Portal",
+  "content": "Setting up non-interactive file transfers using SCP instead of SFTP is very useful for continuous log uploads. Use Password-based Authentication In order to use password-based authentication for SCP, set the password with the following nsshell command: #nsshell> auth change-password nstransfer This configures the password for the nstransfer admin used for uploading log files. Now you can SCP the logs by entering this command: #scp <filename> nstransfer@ <system_IP> :upload/ <parser-name> Use Public Key Authentication If desired, the private key used for SFTP access described in the previous section can be used instead of a password by entering this command: #scp -i <key_file> <filename> nstransfer@ <system_IP> :upload/ <parser-name>",
+  "content_length": 742,
+  "crawl_timestamp": 1750781168.407178
+}

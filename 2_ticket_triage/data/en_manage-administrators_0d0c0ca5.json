@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/manage-administrators",
+  "title": "Manage Administrators - Netskope Knowledge Portal",
+  "content": "The Netskope UI provides full access for deploying and managing admin rights for the Netskope solution. Netskope’s role-based administration enables you to control what different admins can do in the solution. You can delegate responsibilities among admins and granularly control their level of access to the solution to ensure they do not create conflicting policies and settings. The high level workflow for implementing role-based administration includes: creating Real-time Protection Policy groups creating new roles creating admins and assigning them to roles On the Settings > Administration > Admins page, you can do the following: Add a new admin . View the Settings dialog box. View a list of all admins configured for your organization. For each admin, you can see the following: Enabled: shows the status of the admin. Click the slider to enable/disable the admin. Email: the Netskope log in ID for the admin. Type: displays the admin’s type of role as a Super Admin, Manager Admin, or Regular Admin. Role: the admin’s level of access to the functional areas, page permissions, and file access. This is the role chosen which can be a predefined or custom role. Enable or disable an admin. Click the slider to enable/disable the admin. Delete or edit an admin.",
+  "content_length": 1271,
+  "crawl_timestamp": 1750780963.650882
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/dlp-protect-state-for-managed-app-activities/",
+  "title": "DLP – Protect state for Managed App Activities - Netskope Knowledge Portal",
+  "content": "This section outlines specific use cases to protect managed app activities. Check back because new use cases are added periodically. Create a DLP policy to search an entire data repository and apply predefined labels per Enterprise data classification rules Create a policy to identify sensitive data in specific locations (public, external or non-approved groups) Create a policy to alert or block sharing of sensitive data with external Teams Create a policy to find encrypted or password protected files Create and apply a legal hold policy if required",
+  "content_length": 555,
+  "crawl_timestamp": 1750781513.1183748
+}

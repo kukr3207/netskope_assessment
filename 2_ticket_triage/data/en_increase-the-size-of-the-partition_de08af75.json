@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/increase-the-size-of-the-partition/",
+  "title": "Increase the Size of the Partition - Netskope Knowledge Portal",
+  "content": "Netskope uses Logical Volume Manager (LVM) for OVA. In order to allocate more space to a partition, add a second virtual hard disk in the settings in the VMware console. Doing so reduces the risk of running out of disk storage capacity in the partition. You can increase the size of a partition while the OVA is running. Do not reboot the OVA. Important Do not expand the current allocated disk. Adding a second virtual disk would be the quickest way to expand the partition. If you are running a VA on AWS and want to allocate more space to a partition, you must allocate a blank storage disk. The blank storage disk can either be a newly allocated disk, or a disk that was previously allocated and has been wiped clean. To increase root partition size, use this command: troubleshooting expand-partition root . This increases the size of the root partition once a disk has been added to the VM. To increase the log partition size, use this command: troubleshooting expand-partition log . This increases the size of the log partition once a disk has been added to the VM.",
+  "content_length": 1072,
+  "crawl_timestamp": 1750780850.682723
+}

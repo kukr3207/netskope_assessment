@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/guidance-for-installing-3rd-party-applications-on-publishers",
+  "title": "Guidance for Installing 3rd-party Applications on Publishers - Netskope Knowledge Portal",
+  "content": "Be aware that any additional software (not included with the Netskope provided package) that is installed on a Publisher instance will be sharing resources with the Publisher application. In addition, Netskope and 3rd-party domains and Publisher software processes may need to be whitelisted in the 3rd-party software. Network security software that monitors each and every action on the Publisher instance may cause performance issues. You can install security software as long as doing so does not impact Publisher performance. It is your responsibility to ensure that enough resources are allocated for all the software applications running on a Publisher instance. To troubleshoot issues, Netskope Support may request you to test/recreate without 3rd-party software to narrow down the root cause.",
+  "content_length": 800,
+  "crawl_timestamp": 1750781217.6530712
+}

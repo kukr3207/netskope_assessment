@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/observe-cloud-app-activities-oplp-and-risk-insights/view-the-number-of-sessions-and-users-by-category-or-app/",
+  "title": "View the number of sessions and users by category or app - Netskope Knowledge Portal",
+  "content": "Value to the customer: Ability to perform trending and analysis while quickly identifying popular application usage, Potential IOC (Indicators of Compromise) for abnormal usage patterns In SkopeIT > Applications, you can view the number of sessions and users by category or app by making sure that these fields are selected in the gear box (in the right corner as shown in the image below). While the image below shows the numbers for applications, the same can be viewed per category by selecting ‘CATEGORIES’ under the query bar. The results displayed here can be exported for further analysis using the ‘EXPORT’ button. The results can also be viewed by selecting the appropriate report template in the reports section. Click here to understand Risk Insights.",
+  "content_length": 762,
+  "crawl_timestamp": 1750781339.387151
+}

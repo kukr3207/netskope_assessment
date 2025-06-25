@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/saml-proxy",
+  "title": "SAML Proxy - Netskope Knowledge Portal",
+  "content": "Netskope enables you to integrate with your existing proxy implementation to direct your traffic to the Netskope Cloud using these proxy integrations. Reverse Proxy Reverse Proxy as a Service Universal Reverse Proxy Forward Proxy with ADFS Configure Blue Coat for Proxy Chaining Configure Forcepoint for Proxy Chaining Netskope Explicit Proxy for Chromebooks with Google SAML Forward Proxy",
+  "content_length": 389,
+  "crawl_timestamp": 1750780269.189416
+}

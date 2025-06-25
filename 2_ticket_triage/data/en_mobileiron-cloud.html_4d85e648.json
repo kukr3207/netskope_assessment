@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/mobileiron-cloud.html",
+  "title": "Ivanti Neurons(MobileIron Cloud) - Netskope Knowledge Portal",
+  "content": "Ivanti Neurons (MobileIron Cloud) Netskope supports using Ivanti Neurons(formerly known as MobileIron Cloud) for mobile device management (MDM) to allow iOS and Android devices access to the Netskope cloud using the per-app VPN mode. This document explains how to deploy Netskope for iOS devices using the on-demand and per-app VPN mode. Note Refer to MobileIron Cloud documentation for additional help. Prerequisites To deploy Ivanti Neurons for iOS VPN, you can get the Netskope Root and Intermediate CA certificates from Netskope, or use your own Root and Intermediate certificates. In the Netskope tenant UI, go to Settings > Manage> Certificates > Signing CA . Here, download the Netskope Root and Intermediate certificates. If using your own certificates, downloading these certificates are not necessary. In either case, copy the tenant OU and Organization Name from Settings > Security Cloud Platform > Netskope Client > MDM Distribution . These are needed when enrolling the local certificate. In the Create VPN Configuration section, copy the VPN Server Name, Organization ID, and PAC URL. These are needed for configuring the VPN profile. This page also shows the current VPN mode configured. Optionally, your administrator can have the on-demand VPN function set to always on therefore not requiring the connection to be triggered each time.",
+  "content_length": 1353,
+  "crawl_timestamp": 1750781563.005763
+}

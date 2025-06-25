@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/netskope-help/getting-started/netskope-success-resource-center/unmanaged-device-protection/monitor-unmanaged-device-protection/monitor-activity-with-reverse-proxy-as-an-access-method/",
+  "title": "Monitor activity with reverse proxy as an access method - Netskope Knowledge Portal",
+  "content": "To view activities/application events based on access method specifically, reverse proxy, perform the following steps: Navigate to Skope IT > Application Events . Select the filter option and navigate to Access method drop down options. Select ‘ Reverse Proxy ’ and apply the filter. Results will be displayed as per options selected in the gear option in the right side of the UI. Alternatively, in the search bar, a query can be written as access_method in [ ‘Reverse Proxy’ ] or access_method eq ‘Reverse Proxy’ To download a report, click the ‘ Export ’ button in the right corner of the UI and select the fields that should be included in the report. Report will be exported as a .CSV file. Time period of the report viewed in the UI or downloaded from the UI can be changed by selecting the time range drop down menu in the top right corner. The results of the query or filter selection would appear as shown below: To view a report containing managed services or managed applications, click on the gear icon and select ‘Managed application’. Result will contain information on managed applications and their activities for access method = Reverse Proxy.",
+  "content_length": 1160,
+  "crawl_timestamp": 1750781308.999885
+}

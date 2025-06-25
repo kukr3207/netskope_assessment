@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/appliances",
+  "title": "Appliances - Netskope Knowledge Portal",
+  "content": "Note The Netskope on-premises hardware appliances were retired on 03/31/2025. Refer to EOA for the Netskope On-Premises Hardware Appliance for more details. If you would like to continue with an on-premises solution, you can deploy a virtual appliance. Virtual appliances are supported on the on-premises platform with hypervisor support from ESXi, KVM, and Hyper-V as well as public cloud support from AWS, GCP, and Azure. Netskope appliances, both on-premises and virtual, can be used to control management and data plane functions, plus on-premises log parser (OPLP) functions. Secure Forwarder is an on-premises virtual appliance that enables trusted access to your tenant instance in the Netskope cloud. The following articles provide instructions for configuring the appliances. On-Premises Appliance Virtual Appliance OPLP Alerts and Event Descriptions",
+  "content_length": 859,
+  "crawl_timestamp": 1750780801.3249369
+}

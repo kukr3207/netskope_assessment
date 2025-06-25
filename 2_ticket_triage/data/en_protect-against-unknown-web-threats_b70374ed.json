@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/protect-against-unknown-web-threats",
+  "title": "Protect against unknown web threats - Netskope Knowledge Portal",
+  "content": "Netskope Remote Browser Isolation (RBI) isolates uncategorized and risky websites as an option for Netskope Secure Web Gateway (SWG) solutions. Known safe sites are allowed, known bad sites are blocked, and risky websites are isolated for safe viewing all within one cloud platform, one console, and one policy engine. Follow the steps shown below to configure RBI: Enable the RBI feature in your tenant. Configure an isolation policy to forward traffic from selected categories to RBI using the “Isolate” action. Remote Browser Isolation shows in the tab title. Netskope icon will flutter as the page renders. Once rendered there will be a star (*) in the browser tab title. RBI Page event view:",
+  "content_length": 696,
+  "crawl_timestamp": 1750781434.7312808
+}

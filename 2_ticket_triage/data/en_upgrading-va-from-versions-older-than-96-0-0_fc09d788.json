@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/upgrading-va-from-versions-older-than-96-0-0",
+  "title": "Upgrading VA from versions older than 96.0.0 - Netskope Knowledge Portal",
+  "content": "You can upgrade from your current version to up to two versions ahead by following the instructions in Upgrading VA to 103.0.0.338 section until you reach version 96.0.0 or 99.0.0. Alternatively, you can deploy a new VA and migrate your data to version 103.0.0.338. To learn more: Install a Virtual Appliance and Migrate the Virtual Appliance to a 103.0.0.338 .",
+  "content_length": 361,
+  "crawl_timestamp": 1750780811.7546601
+}

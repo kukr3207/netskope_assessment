@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/disallow-concurrent-logins-by-an-admin",
+  "title": "Disallow Concurrent Logins by an Admin - Netskope Knowledge Portal",
+  "content": "You can ensure that an admin can log in to a tenant only once, instead of being able to log in to a tenant multiple times concurrently. The default setting currently allows concurrent logins. To disallow concurrent logins: To change the default, go to Settings > Administration > Admins . On the top right-hand side, click the Tools icon to open the Configure dialog box. Activate Disallow Concurrent Logins by same Admin . Click Save .",
+  "content_length": 436,
+  "crawl_timestamp": 1750780761.991125
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://docs.netskope.com/en/unmanaged-device-protection",
+  "title": "Unmanaged Device Protection - Netskope Knowledge Portal",
+  "content": "Unmanaged device protection is an advanced protection level. Here are some widely used real world use cases that will address your organization’s unmanaged device protection needs. Use Case # Category Use Case Description 1 Monitor – Unmanaged Device Protection Monitor activity with reverse proxy as an access method 2 Monitor – Unmanaged Device Protection Report on all activity with reverse proxy as the access method 3 Monitor – Unmanaged Device Protection Alert on all activities accessing a managed service via reverse proxy 4 Monitor – Unmanaged Device Protection Create DLP policies for Sensitive Data for a specific OU, from a user and provide user coaching 5 Monitor – Unmanaged Device Protection Block unmanaged devices from malicious files uploaded or downloaded from our sanctioned apps 6 Monitor – Unmanaged Device Protection Block unmanaged devices from performing sensitive activities from our sanctioned apps 7 Monitor – Unmanaged Device Protection Block unmanaged devices from downloading sensitive data from our sanctioned apps",
+  "content_length": 1046,
+  "crawl_timestamp": 1750780063.300904
+}
